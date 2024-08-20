@@ -1,0 +1,501 @@
+City,Country,Year,Month,Day,Temperature_Celsius,Humidity
+West Marcus,ISR,2017,12,7,-6.8,95
+Arnoldchester,BTN,2011,6,27,9.69,81
+Wilsontown,PRT,2018,1,14,28.63,10
+Annaville,JAM,2014,2,19,-5.32,31
+Port Christopher,ARG,2016,9,4,2.08,29
+Lake Chelseaton,NRU,2022,11,11,37.78,82
+New Christopherhaven,BWA,2019,10,15,-16.93,63
+Lake Kathleen,SLE,2017,11,24,-8.03,45
+South Jessicaberg,GNB,2021,1,15,-13.2,51
+South Traceystad,GNB,2017,3,23,25.04,2
+Port Jill,TON,2019,1,3,3.89,18
+Thomasport,SOM,2018,3,19,26.68,94
+North Donald,MOZ,2015,8,2,17.85,60
+Lynnside,MNE,2019,8,4,23.61,82
+Shawnville,ARG,2019,3,9,15.39,84
+Lake Stephenbury,SRB,2021,5,2,24.16,89
+Shawnbury,VEN,2021,7,20,4.0,31
+North Matthew,STP,2019,5,3,3.35,66
+East Phylliston,PER,2011,3,19,24.65,39
+North James,FJI,2017,11,23,-4.97,90
+North Seth,TGO,2010,9,24,36.75,0
+Alexanderfurt,TZA,2017,6,23,12.3,84
+Lowefort,BFA,2012,7,3,27.64,11
+Morrisonbury,ZMB,2023,2,15,-3.84,56
+New Mary,FJI,2011,11,26,36.01,13
+Davidchester,UGA,2020,7,26,7.31,83
+Millsside,ISL,2012,12,4,34.64,55
+Chaseview,TCD,2017,5,15,34.87,1
+Stevenview,ALB,2018,9,21,-19.17,11
+Hillstad,HND,2021,9,14,37.7,93
+Collinsberg,PAN,2011,8,14,9.92,69
+Nathanielshire,LKA,2016,4,21,6.64,0
+Johnsonfurt,BDI,2018,1,24,9.5,41
+Smithfurt,CUB,2011,9,7,-4.1,40
+West Amy,ERI,2017,5,3,31.8,19
+Hayeston,AFG,2017,4,7,-13.97,25
+South Anthony,SMR,2020,5,21,38.65,64
+Lake David,RUS,2010,9,5,23.27,19
+Martinezfurt,TUV,2022,9,6,-3.96,55
+North Brittanyshire,CUB,2021,7,14,19.36,53
+Lake Sydneyfort,TCD,2020,7,10,14.14,90
+Sharonchester,KOR,2020,9,14,-19.69,4
+Port Thomas,BRA,2015,2,12,34.81,74
+New Zacharystad,LCA,2020,8,11,-16.65,97
+Edwinborough,TLS,2021,6,25,-16.95,59
+Port Brandi,MKD,2016,6,9,-14.82,22
+Williamsbury,ALB,2018,7,5,1.48,35
+Terryville,MWI,2014,10,8,-9.85,28
+New Victor,FJI,2013,2,9,28.82,3
+Williamchester,LUX,2021,5,23,35.67,91
+Kristinshire,AUT,2018,11,22,14.92,97
+East David,AZE,2020,5,5,-3.99,23
+South Billyborough,EGY,2012,2,23,29.78,70
+East Davidtown,DJI,2021,9,20,2.84,32
+West Chloe,JPN,2011,7,27,17.51,88
+South Davidbury,SLV,2020,11,3,32.24,26
+Medinatown,GUY,2010,1,3,29.41,92
+Bergville,ARM,2017,10,17,-16.38,90
+Payneville,BGR,2022,2,18,-11.28,61
+New James,LCA,2019,8,8,21.37,70
+Lake Jay,GUY,2015,5,13,19.48,100
+Port Jonathanfurt,BRB,2018,6,9,22.7,76
+Richardsonshire,TUN,2017,2,8,17.01,76
+Sherihaven,GAB,2023,2,11,4.92,62
+Nancyburgh,URY,2023,9,16,12.88,50
+Hernandezburgh,IRL,2016,11,28,31.05,73
+East Angelaburgh,AND,2019,6,1,27.86,57
+Katelynberg,SAU,2021,4,1,-19.38,3
+South Elizabeth,JPN,2015,11,23,12.63,52
+West Janetshire,ETH,2018,10,11,-10.72,34
+Marcusmouth,BGR,2018,6,18,39.71,23
+Lake Richardchester,AZE,2010,3,11,-3.21,53
+Claytonbury,SGP,2021,2,2,21.05,97
+West Maurice,GEO,2022,5,2,3.42,12
+Vanessaview,GHA,2020,11,13,4.27,42
+Kingview,BHS,2019,4,19,33.97,11
+North Kevin,GNQ,2021,8,26,-14.0,34
+New Joseph,IRN,2016,7,18,16.71,79
+Davisview,CYP,2010,1,3,-11.77,6
+Maybury,GUY,2014,11,15,-19.44,49
+North Timothy,NZL,2011,2,20,18.02,67
+Allenland,BRA,2020,12,8,13.94,83
+Clarkbury,USA,2017,6,13,21.9,73
+New Kaylee,TGO,2022,2,26,30.39,11
+Hillfort,LBN,2017,12,20,26.75,81
+Wallacemouth,NPL,2022,10,25,5.76,51
+Port Luisland,JOR,2015,7,24,16.94,97
+New Tiffany,SMR,2019,7,4,19.09,84
+Port Hannah,BEN,2019,10,9,-5.04,24
+Port Amanda,SGP,2023,4,14,33.72,97
+Mitchellfort,IRL,2011,2,28,-13.98,34
+Lisaville,SYC,2020,7,12,1.63,42
+East Ronniemouth,TUN,2022,10,17,2.89,61
+New Jasmineberg,FSM,2017,1,9,10.77,9
+Paulland,PLW,2010,1,12,-1.42,4
+Ericchester,SOM,2012,4,4,1.18,64
+New Jessicashire,IRL,2020,10,7,-8.89,92
+East Travisport,UKR,2010,3,4,13.73,29
+East Jamesburgh,NOR,2022,12,3,11.08,61
+Greenstad,MKD,2023,7,25,25.74,28
+Zamorashire,PRT,2015,12,16,23.1,43
+Petersonland,BHS,2010,5,11,5.69,36
+Stephensstad,LBR,2017,3,19,-18.83,40
+Sarahton,PHL,2022,8,24,15.87,7
+Chloeview,NIC,2018,7,26,20.6,82
+South Jasonbury,PSE,2023,5,25,-14.4,62
+Reidmouth,TTO,2012,11,14,34.49,29
+Snydermouth,ITA,2014,8,5,15.75,28
+Alyssaport,BRA,2014,9,21,38.45,69
+Carlosbury,PSE,2010,6,16,-10.96,3
+Albertfurt,COG,2018,8,9,31.52,89
+Melissashire,AUT,2022,12,27,9.29,60
+Port Zacharyville,ERI,2021,8,14,29.59,93
+Lucaschester,TON,2011,11,16,39.13,75
+East Tasha,MKD,2018,3,5,-1.43,49
+Amberside,PLW,2016,11,27,31.97,39
+Lake Spencershire,RWA,2012,12,17,23.97,98
+South Bretttown,DNK,2019,3,1,1.9,88
+Howardstad,HND,2017,6,26,-18.79,73
+West Ginabury,UGA,2022,8,16,25.15,61
+Josephhaven,IRQ,2022,8,3,30.97,82
+Richardside,DNK,2012,3,5,-10.14,100
+Richardsontown,AZE,2020,10,4,19.87,98
+Daltonberg,BGR,2017,2,21,-12.5,54
+Port Angelamouth,BFA,2022,11,23,-0.05,60
+Martinezchester,DEU,2013,8,26,32.54,50
+Priceberg,ISR,2011,2,19,11.91,58
+Fowlerfurt,NOR,2010,8,7,-15.17,81
+Stevenberg,MNG,2013,11,27,0.1,93
+North Josephville,TTO,2012,6,6,12.19,65
+Santiagoborough,HTI,2013,5,19,-5.84,8
+Lake Ericaport,TLS,2010,2,3,-3.74,74
+Emilyville,EGY,2015,8,2,-11.29,54
+Kelseyport,RWA,2011,8,6,-6.62,51
+South Steven,KEN,2014,6,27,18.74,92
+Nicolefort,MDG,2015,4,7,28.74,66
+South Carlachester,UKR,2016,2,8,13.82,84
+Kellymouth,MDV,2019,9,26,-3.65,50
+Taylortown,UGA,2019,3,15,5.28,74
+Kimmouth,COL,2021,10,20,-11.75,28
+Ellenstad,LVA,2014,5,9,32.1,100
+North Gabrielleton,AZE,2019,8,8,8.24,91
+New Thomas,BIH,2022,4,11,25.47,20
+Baxterborough,TTO,2023,9,11,29.67,4
+Port Lisamouth,BFA,2019,1,3,-13.17,88
+Rachelview,DJI,2013,5,6,11.24,78
+Griffinside,ARE,2011,2,10,-18.25,11
+Millermouth,ZWE,2021,7,28,37.1,28
+Lake Susanport,ERI,2016,12,11,14.52,34
+Gibsonview,TTO,2019,4,12,12.85,80
+West Erin,BHR,2011,4,22,9.67,84
+Smithstad,SUR,2021,2,28,-11.17,89
+New Michaelstad,FIN,2017,8,28,-8.85,52
+North Timothyborough,CMR,2017,2,14,15.9,7
+Port Anthonyberg,COL,2012,6,18,16.54,86
+West Erika,BTN,2017,12,10,38.76,8
+South Joseph,ALB,2019,8,15,33.17,6
+East Krystal,GHA,2022,11,25,-14.22,22
+Lake Richard,IDN,2011,9,13,-5.18,18
+South Ruthmouth,SUR,2012,12,26,20.17,30
+Gallegosport,DJI,2023,7,16,-5.24,71
+East Mindyville,NLD,2020,4,19,24.35,57
+Lifurt,MUS,2017,3,12,1.37,20
+North Meredith,AUS,2013,10,18,21.56,82
+Seanburgh,NGA,2015,10,15,37.41,82
+Brookebury,MWI,2020,7,2,12.32,30
+Mooretown,FRA,2021,8,26,19.95,4
+Michaelfort,NZL,2015,1,11,14.52,77
+Ramirezview,IDN,2011,2,16,-8.17,34
+Steelehaven,HTI,2011,5,23,1.29,53
+Wilsonfurt,SOM,2011,2,16,20.19,5
+Elliottview,VAT,2010,12,25,-19.82,97
+Marcoborough,DJI,2022,10,9,33.5,66
+Hannahchester,TWN,2015,6,2,-16.42,74
+East Christopher,SMR,2023,9,14,19.86,76
+Port Christian,KGZ,2010,4,22,-7.63,97
+New Margarettown,PSE,2013,5,13,31.75,59
+Thompsonberg,KNA,2018,11,9,31.03,72
+Hudsonville,ATG,2013,4,13,36.97,18
+Hayeshaven,TZA,2023,12,19,18.94,4
+Lake Amanda,GNQ,2019,2,27,23.13,20
+West Robertfort,LCA,2015,5,5,33.5,29
+South Wanda,KEN,2012,11,20,3.25,41
+North Tiffanyburgh,UZB,2010,5,20,-15.55,65
+Timfurt,GEO,2021,6,17,19.14,25
+Paulborough,GNB,2018,3,27,-5.14,33
+Barrfurt,LVA,2011,12,9,4.8,81
+West Stephanieton,MUS,2020,8,17,24.87,74
+Baileyfurt,KOR,2021,6,13,9.67,49
+Antoniochester,MYS,2011,11,1,15.81,11
+Jeffville,BGR,2010,5,11,-0.18,49
+Jamesburgh,BEN,2022,4,19,25.17,27
+Khanburgh,AUT,2010,6,8,-10.44,65
+Ryanmouth,KIR,2010,3,5,25.4,81
+Thomasport,TGO,2018,11,18,-9.13,1
+Lake Shellyview,IND,2020,5,8,36.52,14
+Boyertown,TUR,2013,3,3,36.83,65
+New Colleenborough,EST,2016,9,17,18.55,9
+South Courtneyport,RUS,2021,6,25,14.83,44
+New Zachary,GUY,2022,7,3,22.85,8
+West Lindaberg,YEM,2013,1,18,29.63,35
+East Timothymouth,NER,2018,3,9,26.14,13
+Brownport,AZE,2021,5,5,-12.38,64
+North Devin,NPL,2011,9,25,6.87,7
+West Carolynland,RWA,2019,8,6,36.68,17
+Lake Johnland,GMB,2011,9,20,-3.31,92
+North Sarah,LVA,2019,4,20,22.65,5
+Lake Kristen,SOM,2017,9,17,16.28,77
+New Kayla,TKM,2019,1,12,-17.72,75
+Austinchester,NOR,2021,12,6,11.19,36
+Lake Heather,CHL,2022,7,3,13.46,76
+Hessville,POL,2020,10,4,25.86,55
+Rebeccaton,AND,2011,5,10,16.36,82
+South Madison,MWI,2012,3,21,-10.9,39
+Johntown,AUS,2019,5,28,-7.37,76
+New Christopher,MCO,2010,1,14,-19.69,44
+New Laura,EST,2020,10,10,-14.36,74
+Brandonburgh,NZL,2016,8,24,10.03,67
+New Nicolechester,BRB,2021,1,17,25.65,43
+New Theresa,ROU,2011,12,1,-11.01,51
+Zimmermanmouth,BGD,2022,10,7,-3.6,19
+Lake Eric,MNE,2016,12,20,5.11,47
+Natashaburgh,CYP,2016,9,27,10.17,31
+South Brittany,AZE,2016,4,19,17.9,97
+Millerstad,NAM,2011,12,9,13.89,43
+Leeport,SUR,2016,10,9,-6.1,74
+Potterbury,BHR,2014,11,12,-13.78,63
+West Ericfort,POL,2017,8,24,33.22,13
+Christinebury,FIN,2016,8,25,38.42,6
+East Taylor,CYP,2023,8,6,30.76,58
+Port Kristinemouth,URY,2014,9,17,39.79,73
+Lake Kathryn,BLR,2022,2,10,1.43,79
+East Nicholasville,SAU,2014,7,20,-8.18,55
+New Alanview,VNM,2012,4,2,34.11,78
+Garrettberg,SLB,2018,11,21,24.11,59
+New Sherry,GUY,2021,5,10,34.14,14
+Davidtown,ARG,2019,9,8,19.04,42
+Thomasland,SDN,2020,4,8,24.05,50
+West Jennifer,WSM,2016,3,22,-5.77,52
+South Ryan,BTN,2017,12,19,17.53,54
+West Margaret,SYR,2022,3,25,-14.73,99
+Deannaborough,BOL,2019,6,21,10.3,11
+New Michaelborough,CIV,2012,11,3,-11.35,89
+South Samuelchester,SVN,2013,7,18,26.63,44
+Port Amandafort,RWA,2020,3,20,14.61,91
+South Johnport,HND,2019,5,16,14.18,7
+Port Timothy,YEM,2022,7,17,23.6,58
+Langberg,USA,2018,12,9,-13.22,12
+New Williamland,BHS,2022,8,19,28.68,96
+Schmidtberg,GUY,2017,12,27,-15.7,61
+East Nancy,MWI,2014,5,14,14.46,0
+Hillton,DOM,2021,5,8,-14.52,71
+Jessicaton,GBR,2012,11,14,-16.18,62
+East Aaron,GNQ,2021,8,10,-17.91,65
+Lake Ashley,BLR,2023,6,11,23.02,7
+West Courtney,CRI,2019,12,9,29.92,97
+West Courtneyview,BWA,2021,8,28,-5.04,85
+East Scottside,GBR,2017,4,7,-4.9,60
+East Heatherville,EGY,2023,5,3,9.65,30
+West Tyrone,BDI,2021,3,10,26.26,24
+Derrickport,IND,2019,9,6,9.78,89
+Lake Heathertown,SLV,2011,3,6,39.46,47
+Finleyfort,ERI,2022,4,24,-4.91,93
+Bonillaborough,TZA,2012,9,14,22.44,4
+Gregorychester,DOM,2015,6,13,-16.26,24
+Colinstad,SVK,2019,8,1,24.06,15
+Spencemouth,RUS,2018,6,22,-14.01,45
+East Angelaside,CUB,2019,10,11,22.76,47
+Port Ruben,CHN,2021,9,25,-16.29,92
+Port Danamouth,CYP,2015,5,12,-6.91,17
+South Christianchester,BGR,2013,7,20,-0.59,42
+Amandaton,BGD,2011,9,22,13.6,3
+Williamview,BFA,2021,1,26,19.14,62
+West Sandra,LKA,2020,6,21,-7.65,70
+Alexanderport,MUS,2012,3,17,26.26,36
+East Debraberg,MLI,2014,2,9,7.24,36
+Jacksonmouth,MNG,2018,6,24,39.22,53
+Karenport,UKR,2015,3,14,6.97,93
+Whitneyland,NZL,2019,11,27,5.53,9
+Lake Jeffrey,ISR,2019,11,17,-19.21,3
+West Samuelhaven,CHN,2010,1,2,27.3,48
+Cabreraburgh,NZL,2015,10,26,-7.05,77
+North Nicholasbury,JOR,2012,11,3,25.88,23
+Randyton,PAN,2016,6,6,5.3,41
+North Stacy,MLI,2012,7,15,31.99,81
+New Ashley,BIH,2013,6,20,24.16,58
+East James,BLZ,2012,6,15,32.26,84
+Lake Lynn,TUN,2012,11,24,34.58,64
+Lake Brian,COD,2018,10,19,27.08,72
+Benjaminville,SMR,2011,8,20,-6.54,63
+West Aaronville,SLB,2016,3,11,4.91,16
+North Jean,MCO,2014,1,17,36.96,79
+Goodmanstad,PAK,2022,3,8,14.3,61
+South Richardshire,GRC,2021,2,13,16.61,44
+East Robertmouth,GNB,2023,2,14,20.83,64
+West Lancetown,TGO,2014,7,20,3.17,76
+Port Randallfort,ARM,2010,1,10,-5.41,38
+Lake Sydneymouth,PAK,2018,7,20,31.88,29
+Brownport,LVA,2010,5,3,35.46,60
+Johnfurt,TLS,2012,12,22,-0.7,44
+Coopershire,GNQ,2013,3,28,-0.27,96
+Susanbury,BOL,2023,11,15,23.54,26
+Port Gregory,KEN,2011,12,9,36.67,26
+Kellystad,LSO,2015,2,8,29.57,84
+Danielleburgh,BRN,2013,2,25,26.3,98
+Davidmouth,LCA,2012,10,11,32.19,48
+Melissaberg,LUX,2020,9,26,18.62,7
+Ortizview,ZMB,2010,4,3,-12.47,70
+South Victoriashire,AUT,2011,11,15,29.65,8
+Chadstad,NIC,2010,11,28,1.11,24
+Markside,CUB,2016,4,5,-12.67,65
+Michelleberg,CHL,2010,9,18,1.25,7
+Williamsborough,LCA,2012,9,25,6.02,22
+Port Renee,BEN,2017,6,23,20.06,26
+East Jennifer,ISL,2010,5,22,7.51,46
+East Kimfort,NZL,2018,10,1,-17.25,91
+West Charlesmouth,AUT,2012,6,26,6.38,83
+Davisbury,THA,2019,4,12,31.09,79
+East Lisatown,NLD,2022,11,21,-1.55,70
+Lake Cheyennefort,ZMB,2020,4,8,16.32,54
+New Paulachester,VNM,2011,8,12,31.95,91
+East Gregoryberg,ETH,2022,5,17,8.46,57
+South Dakota,PLW,2019,9,25,32.1,12
+Olsenbury,DMA,2010,6,6,18.16,49
+Benjaminfort,CMR,2011,6,27,-5.04,48
+North Sandramouth,ZMB,2023,7,11,-0.15,55
+West Janet,USA,2020,7,15,-12.67,33
+Jacksonville,ROU,2013,12,24,36.82,48
+South Paulfurt,KHM,2015,9,17,8.85,95
+Curtiston,BRN,2023,12,13,-17.18,34
+Newtonmouth,MKD,2013,4,22,-13.61,31
+East Frankfurt,JOR,2022,1,15,18.13,37
+Port Jessica,NIC,2022,10,18,-1.32,22
+East Gabrielletown,SVK,2019,3,7,-9.06,41
+Ashleystad,KGZ,2021,4,14,25.6,28
+Michaelhaven,MLT,2023,3,9,-3.55,15
+Murphymouth,TJK,2012,8,4,14.21,2
+Pamelashire,PLW,2015,8,14,-10.58,76
+Tonybury,CPV,2012,2,24,18.05,34
+Johnstonchester,USA,2013,5,18,31.28,38
+Michaelhaven,MHL,2017,11,10,26.48,40
+Laurenmouth,FSM,2020,4,3,39.71,81
+Lynnmouth,VAT,2021,1,11,-11.3,84
+Christown,SVK,2018,8,14,19.32,91
+North Maliktown,MNG,2015,2,8,10.75,6
+West Samuelstad,BIH,2018,4,26,26.55,75
+South Lynn,NIC,2010,7,18,5.65,52
+West Melissachester,TKM,2021,10,28,-17.69,50
+South Steve,QAT,2015,4,26,22.38,83
+East Sandrachester,ARM,2021,11,9,-6.82,80
+Waltonhaven,BRA,2014,9,1,15.19,50
+Port Sarah,TUN,2022,12,15,20.09,89
+Lake Larry,BHS,2020,11,25,-15.2,99
+East Christinaville,LAO,2018,5,4,-12.19,14
+North Maureenport,PAN,2012,5,20,1.7,20
+Lesliebury,AND,2013,2,10,4.62,24
+North Pattyfort,KAZ,2016,3,9,-10.0,55
+New Brenda,PSE,2020,3,15,36.55,57
+East Elizabeth,PLW,2023,7,22,21.99,40
+Conleyport,BOL,2021,11,12,39.04,61
+Lucasmouth,MOZ,2012,9,16,21.17,49
+Port Diane,ALB,2014,10,26,35.4,39
+Matthewfurt,CPV,2019,11,21,0.87,92
+Craigfurt,KAZ,2018,9,14,-3.6,55
+Riddleland,GRC,2021,4,12,38.87,82
+Alexstad,USA,2012,5,14,1.35,50
+Wellsfort,MHL,2011,12,11,18.28,90
+Smithfort,SDN,2023,10,13,31.6,83
+North Steve,SMR,2021,2,20,29.33,70
+Walkerview,UGA,2012,9,17,-15.39,87
+Brooketown,DMA,2023,1,6,-1.21,9
+Lake Christineshire,SUR,2018,8,25,38.58,90
+South Keith,PAK,2017,2,19,20.45,37
+Jenniferside,SLE,2019,8,14,-3.06,27
+New Emilymouth,PNG,2021,9,28,31.86,61
+North Richardchester,ECU,2015,9,16,-15.68,37
+New Alexandrastad,HRV,2023,3,17,15.05,59
+South Juliefort,KNA,2012,1,28,18.44,73
+Pamelaberg,VAT,2010,4,24,5.82,86
+Stephensmouth,MOZ,2016,11,3,13.56,18
+Port Jeffreymouth,NAM,2016,8,6,25.61,77
+Jacobburgh,JAM,2021,1,12,0.63,35
+Hunterside,BDI,2021,8,21,2.44,25
+Amyton,TCD,2021,4,19,30.82,80
+Cassandrashire,BDI,2014,9,26,20.73,52
+South Susanview,PRY,2017,4,10,1.3,85
+Harveyberg,MOZ,2020,3,2,0.31,74
+New Dawn,BGD,2014,9,8,33.14,96
+Lake Deborah,BHS,2013,7,23,1.41,1
+Port Richard,CYP,2020,6,7,-3.39,47
+East Lisashire,VEN,2010,7,11,-9.27,14
+Frazierstad,SYR,2015,10,14,4.6,14
+New Beverlyborough,DMA,2023,7,19,38.56,0
+West Pedroburgh,IND,2015,9,5,18.37,42
+West Tonyatown,TON,2012,6,4,-0.01,30
+Ochoahaven,TUN,2013,6,25,1.66,66
+East Mitchellview,KWT,2015,6,3,20.25,64
+Lucasview,MHL,2011,4,21,16.0,59
+North Erinmouth,PRK,2019,5,11,10.0,18
+New Rebeccabury,MHL,2018,6,3,28.59,83
+Lisashire,YEM,2023,9,6,-5.41,32
+New William,SWZ,2019,6,3,37.89,60
+Davidfurt,RUS,2018,4,5,25.66,71
+Hendrickshaven,LIE,2021,7,15,1.28,41
+Dennisburgh,TON,2017,6,23,0.9,44
+Westburgh,LTU,2013,5,3,12.04,7
+Watkinston,MNE,2020,5,22,34.32,64
+South Mariestad,LBN,2015,9,4,21.82,38
+New Heatherborough,FSM,2013,9,1,-18.31,39
+South Kenneth,CHE,2017,3,28,6.26,19
+North Michelle,BTN,2023,9,23,-19.54,50
+Dominiqueton,BEL,2014,2,16,-19.46,2
+Donnafurt,SLB,2023,1,14,33.9,91
+South Mariah,PSE,2021,9,11,5.99,71
+Josephborough,UKR,2013,12,24,-3.89,82
+Billyton,ZWE,2012,2,16,9.0,74
+Desireefurt,CHE,2016,1,25,12.14,19
+East Katelynport,POL,2012,9,13,23.26,53
+North Mariahaven,LUX,2016,7,18,-19.57,2
+West Dean,MHL,2022,3,25,-7.27,24
+Wallmouth,ETH,2011,4,4,-5.51,45
+Port Ericstad,LKA,2023,12,12,33.04,65
+West Kennethview,KOR,2022,5,28,4.49,82
+Amandahaven,CAF,2011,3,24,-16.37,3
+East Anthonyville,TKM,2015,12,12,36.83,55
+Chandlerland,SOM,2018,8,28,-4.08,13
+Michellebury,LBN,2011,7,14,-17.19,29
+Perezhaven,BGD,2010,11,6,0.73,36
+East Melissa,USA,2012,9,21,28.89,57
+Port Alexandra,GAB,2020,5,6,-8.33,89
+Johnmouth,PAN,2013,1,20,-4.41,82
+East Gavinbury,LCA,2017,11,17,3.93,13
+Michaelaburgh,CMR,2023,8,9,33.46,87
+Warrenport,SMR,2014,6,4,27.1,97
+North Michaelberg,HTI,2022,2,20,-5.07,68
+New Codyfurt,ECU,2020,11,20,27.37,8
+Kellybury,AZE,2010,2,28,-0.3,53
+Santoston,LKA,2022,3,22,11.87,53
+Davidbury,BHR,2019,6,11,-16.76,34
+Port Courtney,UZB,2010,5,14,-11.85,36
+Loriborough,MLT,2017,9,9,19.12,12
+North Lacey,MLI,2021,6,14,24.24,36
+South Adam,SWE,2015,12,21,31.03,89
+North Misty,GUY,2016,7,1,24.16,50
+New Trevorfort,AZE,2020,10,24,13.06,24
+Port Robertstad,COL,2012,11,24,6.46,93
+Derrickshire,GHA,2011,11,23,-5.83,13
+Port Stacey,WSM,2011,6,25,37.43,72
+Jessicabury,NOR,2023,2,18,1.1,86
+Andrewfurt,TUR,2020,5,10,18.18,22
+Port Brittany,ERI,2010,9,24,5.52,3
+Morrisfurt,LTU,2022,9,3,27.54,7
+Codyfort,AND,2013,6,22,35.28,26
+Williamton,KHM,2011,5,22,-17.66,90
+Greenechester,SAU,2011,8,10,19.06,89
+New Larry,BGD,2017,4,15,-4.69,31
+West Johnburgh,SVN,2013,1,17,18.95,58
+South Daniel,IND,2018,8,3,-10.33,91
+West Sethfort,KOR,2022,5,6,-1.22,54
+Wellsberg,KIR,2012,11,1,33.26,41
+North Desiree,BDI,2018,5,11,-8.62,35
+New Jonathan,TTO,2013,11,24,21.01,94
+New Loriburgh,HND,2013,12,21,26.87,38
+Monicaside,SUR,2019,2,22,38.24,52
+East Jenniferfurt,VUT,2021,7,1,12.55,50
+North Ronaldfort,CUB,2011,12,6,-7.76,80
+Simpsonburgh,PSE,2022,8,12,11.03,44
+Thompsonmouth,SEN,2013,4,26,14.86,43
+Lucaschester,KAZ,2017,12,16,11.17,30
+Rochaborough,NPL,2014,5,1,9.23,55
+New Russellside,QAT,2021,4,23,35.88,88
+Lake Adammouth,ARE,2011,7,15,-16.69,37
+East Jasonberg,EST,2015,9,10,-13.83,41
+Colebury,HTI,2013,8,22,8.54,24
+North Richardchester,NER,2015,6,10,20.15,16
+Rachelland,SLB,2016,12,5,-10.32,91
+Port Phyllisbury,CHE,2015,5,18,8.96,16
+Bruceton,UGA,2010,4,23,3.14,67
+Kiddview,LTU,2021,6,25,34.98,49
+North Zacharyton,JAM,2014,10,14,24.85,81
+Lauraview,ISR,2012,3,18,3.17,72
+Victoriaview,IDN,2023,4,15,6.69,35
+Patelhaven,URY,2021,3,15,21.55,28
+Johnstad,TUV,2017,2,8,22.35,9
+North Gabriella,GIN,2012,10,1,33.55,54
+New Jamiechester,ITA,2023,1,14,-0.85,40
+Joelfort,MDG,2012,12,5,2.19,56
+East Sean,CYP,2018,8,11,-10.55,21
+Lopezstad,ZWE,2013,12,17,35.51,98
+Janetchester,NOR,2015,12,24,22.38,77
+New David,BDI,2012,6,26,31.97,99
+Mullinsport,BOL,2014,12,2,32.95,56
+Kelleymouth,LVA,2018,3,11,-19.36,72
+New Tiffany,NRU,2017,8,15,21.04,2
+East Christophertown,BGR,2012,7,24,10.67,75
+New Mathew,LVA,2012,8,2,6.38,87
+Lake Lynn,POL,2010,2,12,33.23,69
+West Adamfurt,GRD,2017,10,10,-3.0,80
+New Tinamouth,QAT,2013,4,28,-19.52,14
+Jimmyland,NIC,2017,4,25,14.94,67

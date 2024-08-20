@@ -1,0 +1,141 @@
+Data Science Roadmap
+|
+|-- Fundamentals
+|   |-- Mathematics
+|   |   |-- Linear Algebra
+|   |   |-- Calculus
+|   |   |-- Probability and Statistics
+|   |
+|   |-- Programming
+|   |   |-- Python
+|   |   |-- R
+|   |   |-- SQL
+|
+|-- Data Collection and Cleaning
+|   |-- Data Sources
+|   |   |-- APIs
+|   |   |-- Web Scraping
+|   |   |-- Databases
+|   |
+|   |-- Data Cleaning
+|   |   |-- Missing Values
+|   |   |-- Data Transformation
+|   |   |-- Data Normalization
+|
+|-- Data Analysis
+|   |-- Exploratory Data Analysis (EDA)
+|   |   |-- Descriptive Statistics
+|   |   |-- Data Visualization
+|   |   |-- Hypothesis Testing
+|   |
+|   |-- Data Wrangling
+|   |   |-- Pandas
+|   |   |-- NumPy
+|   |   |-- dplyr (R)
+|
+|-- Machine Learning
+|   |-- Supervised Learning
+|   |   |-- Regression
+|   |   |-- Classification
+|   |
+|   |-- Unsupervised Learning
+|   |   |-- Clustering
+|   |   |-- Dimensionality Reduction
+|   |
+|   |-- Reinforcement Learning
+|   |   |-- Q-Learning
+|   |   |-- Policy Gradient Methods
+|   |
+|   |-- Model Evaluation
+|   |   |-- Cross-Validation
+|   |   |-- Performance Metrics
+|   |   |-- Hyperparameter Tuning
+|
+|-- Deep Learning
+|   |-- Neural Networks
+|   |   |-- Feedforward Networks
+|   |   |-- Backpropagation
+|   |
+|   |-- Advanced Architectures
+|   |   |-- Convolutional Neural Networks (CNN)
+|   |   |-- Recurrent Neural Networks (RNN)
+|   |   |-- Transformers
+|   |
+|   |-- Tools and Frameworks
+|   |   |-- TensorFlow
+|   |   |-- PyTorch
+|
+|-- Natural Language Processing (NLP)
+|   |-- Text Preprocessing
+|   |   |-- Tokenization
+|   |   |-- Stop Words Removal
+|   |   |-- Stemming and Lemmatization
+|   |
+|   |-- NLP Techniques
+|   |   |-- Word Embeddings
+|   |   |-- Sentiment Analysis
+|   |   |-- Named Entity Recognition (NER)
+|
+|-- Data Visualization
+|   |-- Basic Plotting
+|   |   |-- Matplotlib
+|   |   |-- Seaborn
+|   |   |-- ggplot2 (R)
+|   |
+|   |-- Interactive Visualization
+|   |   |-- Plotly
+|   |   |-- Bokeh
+|   |   |-- Dash
+|
+|-- Big Data
+|   |-- Tools and Frameworks
+|   |   |-- Hadoop
+|   |   |-- Spark
+|   |
+|   |-- NoSQL Databases
+|       |-- MongoDB
+|       |-- Cassandra
+|
+|-- Cloud Computing
+|   |-- Cloud Platforms
+|   |   |-- AWS
+|   |   |-- Google Cloud
+|   |   |-- Azure
+|   |
+|   |-- Data Services
+|       |-- Data Storage (S3, Google Cloud Storage)
+|       |-- Data Pipelines (Dataflow, AWS Data Pipeline)
+|
+|-- Model Deployment
+|   |-- Serving Models
+|   |   |-- Flask/Django
+|   |   |-- FastAPI
+|   |
+|   |-- Model Monitoring
+|       |-- Performance Tracking
+|       |-- A/B Testing
+|
+|-- Domain Knowledge
+|   |-- Industry-Specific Applications
+|   |   |-- Finance
+|   |   |-- Healthcare
+|   |   |-- Retail
+|
+|-- Ethical and Responsible AI
+|   |-- Bias and Fairness
+|   |-- Privacy and Security
+|   |-- Interpretability and Explainability
+|
+|-- Communication and Storytelling
+|   |-- Reporting
+|   |-- Dashboarding
+|   |-- Presentation Skills
+|
+|-- Advanced Topics
+|   |-- Time Series Analysis
+|   |-- Anomaly Detection
+|   |-- Graph Analytics
+|   |-- *PH4N745M*
+└-- Comments
+    |-- # Single-line comment (Python)
+    └-- /* Multi-line comment (Python/R) */

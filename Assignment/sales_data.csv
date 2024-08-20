@@ -1,0 +1,1001 @@
+ProductID,ProductName,CategoryName,SalesDate,Region,Country,City,SalesQuantity,UnitPrice,Discount,CustomerID,CustomerName,CustomerEmail,CustomerPhone,TotalRevenue
+1,Product 1,Beauty,2021-08-07,South,Madagascar,North Brandonbury,45,502.8,0.07,1,Tami Park,reyesvanessa@gmail.com,553-923-9853,21042.18
+2,Product 2,Beauty,2021-11-22,West,Mongolia,East Kevinstad,48,585.27,0.05,2,Phillip Kent,pgonzalez@gmail.com,189.537.0739,26688.311999999998
+3,Product 3,Electronics,2021-03-25,South,Libyan Arab Jamahiriya,New David,65,249.14,0.06,3,Sabrina Oliver,mdavis@lam-smith.org,+1-225-820-4890x335,15222.453999999998
+4,Product 4,Home,2020-03-18,South,Senegal,Lake John,68,177.34,0.16,4,James Schmidt,joseph15@hotmail.com,677.180.2496,10129.6608
+5,Product 5,Sports,2022-12-30,East,Nigeria,Matthewberg,68,860.99,0.2,5,Karen Smith,rollinsanthony@gould-chen.com,674.771.5672x21267,46837.856
+6,Product 6,Beauty,2022-09-18,North,Macao,West Timothyfort,10,67.95,0.14,6,Jessica Williams,schang@gmail.com,352-907-9869,584.37
+7,Product 7,Beauty,2022-05-19,West,Palau,Hudsonshire,84,475.91,0.29,7,Ebony Cooper,kimberly28@yahoo.com,798.532.5318x86164,28383.2724
+8,Product 8,Home,2021-08-28,North,Northern Mariana Islands,West Brooke,22,124.68,0.07,8,Kimberly Obrien,marshallmatthew@reyes-ray.net,879.517.4810x46375,2550.9528
+9,Product 9,Beauty,2023-01-24,North,Comoros,East Johnathanfort,37,462.49,0.23,9,Miranda Dorsey,daniel97@flores.com,415.665.6763x323,13176.340100000001
+10,Product 10,Home,2022-06-12,West,United States Minor Outlying Islands,West Richardmouth,88,980.16,0.26,10,Garrett Brooks,devans@lynch.biz,(345)279-6294,63828.0192
+11,Product 11,Sports,2022-01-19,East,Saint Kitts and Nevis,Nunezmouth,71,429.47,0.17,11,Amanda Davis,gina65@boyd.net,748.819.8488x2026,25308.667100000002
+12,Product 12,Clothing,2021-06-21,North,Taiwan,West Matthewville,89,858.55,0.14,12,Kenneth Roman,kathryn42@yahoo.com,4659994775,65713.417
+13,Product 13,Sports,2020-09-09,East,Austria,New Sarah,89,126.14,0.18,13,Jackson Snyder,williamsscott@shelton-wright.com,001-936-381-8528x4876,9205.697200000002
+14,Product 14,Clothing,2023-06-07,South,Lao People's Democratic Republic,South Jerry,13,278.54,0.13,14,Robert Mcbride,shannon26@mcfarland.info,0519955755,3150.2874
+15,Product 15,Home,2023-08-01,East,Iran,Jenniferberg,59,409.75,0.17,15,Bryan Ford,stevenshannah@cole.com,+1-466-355-2349,20065.4575
+16,Product 16,Clothing,2020-02-09,South,Isle of Man,North Williamside,66,405.81,0.13,16,Nicholas Stewart,james84@mcclain-parker.com,099-294-6066x416,23301.6102
+17,Product 17,Electronics,2021-11-09,South,Faroe Islands,South Miguelhaven,40,674.67,0.12,17,Carla Wilkinson,charleskemp@lopez-morrow.org,6482193805,23748.384
+18,Product 18,Sports,2021-02-11,North,Guadeloupe,New Joseburgh,88,351.27,0.21,18,Jose Wood,xbuchanan@wade-garcia.com,520.024.5474,24420.290399999998
+19,Product 19,Home,2023-01-09,East,Guam,West Davidshire,47,716.63,0.03,19,Christina Bruce,xblack@yahoo.com,+1-750-256-4058,32671.1617
+20,Product 20,Sports,2022-09-13,East,Brazil,Gouldmouth,89,642.8,0.05,20,William Ware,iramirez@hotmail.com,001-142-803-8765,54348.74
+21,Product 21,Sports,2022-09-28,South,Morocco,South Paulahaven,82,405.17,0.26,21,Jill Montgomery,cpugh@adams-leonard.com,4439058755,24585.715600000003
+22,Product 22,Clothing,2022-03-14,East,Macedonia,Brendafurt,38,437.44,0.23,22,Sandra Christian,dustin18@yahoo.com,001-843-253-4685x14731,12799.494400000001
+23,Product 23,Home,2022-05-04,West,Central African Republic,West Hectormouth,26,618.38,0.08,23,Jacqueline Murray,jasonperry@barrera.com,001-195-162-9248x294,14791.6496
+24,Product 24,Electronics,2023-01-28,East,Cambodia,New Stevenborough,78,79.34,0.11,24,David Reid,joseph48@yahoo.com,+1-294-462-9535,5507.782800000001
+25,Product 25,Electronics,2020-02-05,South,British Indian Ocean Territory (Chagos Archipelago),Liburgh,73,824.18,0.28,25,William Rodriguez,haleyhughes@gmail.com,001-652-436-2329x3832,43318.900799999996
+26,Product 26,Home,2022-05-25,South,Kuwait,Port April,10,656.89,0.25,26,Jeffery Jones,betty95@yahoo.com,+1-307-104-7106x925,4926.674999999999
+27,Product 27,Beauty,2024-01-07,North,Mali,West Jessica,21,729.08,0.18,27,Rhonda Thomas,kristinaperry@rogers-carrillo.com,829-513-1415x0649,12554.7576
+28,Product 28,Sports,2023-02-08,East,Saint Kitts and Nevis,Lake Margaret,81,541.55,0.07,28,James Cannon,mchase@barajas.com,001-757-557-2120,40794.96149999999
+29,Product 29,Electronics,2021-11-20,East,Portugal,Port Katrinaport,70,119.37,0.01,29,Tracy Bowen,carrolljessica@sanford-mccall.com,+1-590-682-7818x835,8272.341
+30,Product 30,Home,2022-10-14,North,Croatia,New Joshuaberg,80,410.99,0.13,30,Betty Rice MD,jermainebyrd@gmail.com,(689)447-1354x120,28604.904
+31,Product 31,Beauty,2023-11-03,South,Yemen,Robertville,48,411.32,0.2,31,Joseph Galloway,rodneyclark@robertson.com,615.646.0347,15794.688000000002
+32,Product 32,Home,2023-03-25,West,Cocos (Keeling) Islands,Port Kathrynbury,65,327.83,0.25,32,Heather Williams,oconnorrobert@hotmail.com,001-302-364-3544x2768,15981.712500000001
+33,Product 33,Sports,2020-11-17,South,India,East Evan,83,39.65,0.26,33,Jeffrey Duncan,reginaldsolomon@yahoo.com,001-994-271-2700x00154,2435.303
+34,Product 34,Clothing,2022-12-03,South,Iran,Watkinsbury,89,739.88,0.01,34,Nathan Warren,bkhan@hotmail.com,(423)504-8877x48872,65190.826799999995
+35,Product 35,Sports,2024-04-30,North,Guam,Rossport,50,118.69,0.07,35,Mark Williams,nrivera@gmail.com,370.980.7894x6564,5519.085
+36,Product 36,Beauty,2023-09-08,South,Tuvalu,Gomezside,30,610.25,0.1,36,Jennifer Nelson,megan51@ryan-lamb.net,001-554-448-2776x023,16476.75
+37,Product 37,Beauty,2020-07-09,South,Belize,Robinsonmouth,20,706.19,0.06,37,Vincent Davis,oking@ashley-mcfarland.info,+1-982-255-8346x52521,13276.372
+38,Product 38,Sports,2021-03-31,West,Saint Lucia,North Tyler,20,638.44,0.24,38,Candice Garrett,figueroapaul@hotmail.com,(856)381-8987x567,9704.288
+39,Product 39,Home,2021-02-09,South,Mongolia,East Perry,15,959.55,0.23,39,Jennifer Lewis,parrishstephen@ponce.net,4122757992,11082.8025
+40,Product 40,Electronics,2021-10-19,South,United States of America,Jamesburgh,40,112.27,0.16,40,Tiffany Brown,robin76@yahoo.com,001-757-189-3844x5604,3772.272
+41,Product 41,Sports,2024-03-20,South,Iceland,East Mallory,33,868.5,0.29,41,Christopher Serrano,wmoon@harvey.org,001-994-517-9373x1938,20348.954999999998
+42,Product 42,Electronics,2022-06-23,South,Antarctica (the territory South of 60 deg S),Jasonstad,66,38.9,0.04,42,Brendan Knox,theodore16@gmail.com,001-530-117-7387x4237,2464.704
+43,Product 43,Electronics,2021-08-06,West,Ghana,Williamsville,10,539.57,0.27,43,Cheyenne Rhodes,lisa36@gmail.com,001-659-202-1765x90475,3938.8610000000003
+44,Product 44,Beauty,2023-10-19,East,Uganda,Claytonfurt,58,410.2,0.03,44,Nancy Moody,cochoa@singleton.com,+1-534-430-5526x67248,23077.852
+45,Product 45,Electronics,2020-12-28,South,Malaysia,Port Oliviamouth,33,528.94,0.05,45,Sarah Barnett,melanie16@yahoo.com,001-936-520-4657x65200,16582.269
+46,Product 46,Sports,2022-10-08,West,Sao Tome and Principe,Smithton,32,371.45,0.21,46,Jennifer Wells,kennethyates@bradley.com,624.593.4898x14373,9390.256
+47,Product 47,Beauty,2021-12-04,North,Saint Barthelemy,Port Nicholasburgh,75,198.66,0.03,47,Nicholas Baker,jasonmiller@gmail.com,329-804-9930,14452.515
+48,Product 48,Home,2023-09-04,North,Slovakia (Slovak Republic),Port Travisbury,24,28.93,0.17,48,Lisa Dean,larsoncory@hotmail.com,413.039.1198x3523,576.2855999999999
+49,Product 49,Clothing,2023-07-06,East,Qatar,East Robertside,36,522.97,0.13,49,Kristine Mayo,allisonpatterson@wilson.com,014.881.9091x6277,16379.4204
+50,Product 50,Home,2023-08-15,West,United States of America,East Kimberly,76,844.35,0.22,50,Kyle Graves,umartinez@griffith-roberts.biz,001-644-266-1926x4214,50053.068
+51,Product 51,Electronics,2021-05-20,West,Kenya,Allenhaven,56,379.48,0.27,51,Richard Tate,sergio68@brown.net,001-263-066-4889x22686,15513.1424
+52,Product 52,Clothing,2023-03-29,East,Somalia,Samanthaland,29,230.64,0.23,52,Scott Hensley,kennedytony@orozco.org,+1-768-033-3989x5426,5150.191199999999
+53,Product 53,Sports,2020-09-17,North,United Arab Emirates,Lake Kari,35,89.73,0.25,53,Amber Hunter,hollandmarc@yahoo.com,001-568-705-5906x32910,2355.4125000000004
+54,Product 54,Clothing,2023-05-03,South,Guam,North Danielle,1,94.46,0.01,54,Kristen Goodman,jonathan54@bradford.com,634-762-0192,93.5154
+55,Product 55,Clothing,2022-02-01,South,New Zealand,Sandraside,1,229.18,0.09,55,Charles Mendoza,jackiewalker@yahoo.com,+1-434-849-9728,208.55380000000002
+56,Product 56,Clothing,2023-02-22,West,Monaco,Montgomeryfurt,37,109.01,0.15,56,David Jones,meghan62@oneill.info,698.492.3459x3417,3428.3645
+57,Product 57,Sports,2020-03-03,West,Cyprus,Laurenfort,54,272.39,0.12,57,Miguel Wilcox,yhayes@yahoo.com,169.080.8586x3307,12943.9728
+58,Product 58,Beauty,2021-08-26,East,Norfolk Island,Lake Allison,6,75.49,0.07,58,Linda Briggs MD,thomascantu@moses-jacobs.com,205.907.5161,421.23419999999993
+59,Product 59,Electronics,2020-01-19,North,San Marino,Veronicabury,39,74.95,0.09,59,Brian Summers,samuel05@yahoo.com,774.901.6129x148,2659.9755000000005
+60,Product 60,Electronics,2020-11-26,East,Central African Republic,Bateshaven,18,857.71,0.28,60,Edwin Garcia,bowerselizabeth@yahoo.com,001-359-989-3336x36315,11115.9216
+61,Product 61,Home,2022-01-10,South,Pakistan,Murrayberg,80,170.5,0.09,61,Leah Burns,vsellers@hotmail.com,+1-191-771-9058,12412.4
+62,Product 62,Sports,2021-01-19,West,Congo,North Mary,5,564.09,0.11,62,Robert Branch,kyleschwartz@compton.com,+1-438-916-9674,2510.2005000000004
+63,Product 63,Beauty,2022-06-19,South,Singapore,East Sarahburgh,43,775.72,0.0,63,Jason Yoder,elizabethestrada@gmail.com,001-952-575-9978x084,33355.96
+64,Product 64,Electronics,2020-04-01,East,Austria,Jarvisville,59,461.85,0.25,64,Deborah Parks,mollymitchell@johnson.biz,(444)564-5252x62129,20436.862500000003
+65,Product 65,Home,2020-03-25,East,Kuwait,South Alejandromouth,32,161.84,0.05,65,Diana Simmons,carterderek@harrell.com,(625)796-4497,4919.936
+66,Product 66,Sports,2021-11-09,West,United Arab Emirates,North Tina,2,207.6,0.06,66,Rachel Bailey,phillipsmichelle@terrell.info,8374082443,390.28799999999995
+67,Product 67,Home,2023-12-24,North,Papua New Guinea,Garciaport,66,438.65,0.08,67,Jacqueline Marquez,johnsonronald@cannon.biz,+1-423-485-3974x08754,26634.827999999998
+68,Product 68,Electronics,2021-09-08,South,British Indian Ocean Territory (Chagos Archipelago),Lake Joshuashire,42,532.95,0.27,68,Kelly Joyce,wmorgan@hotmail.com,268.970.5087x92827,16340.247000000001
+69,Product 69,Sports,2022-09-09,North,Kuwait,Lake Sandra,58,355.95,0.06,69,Kelly Hernandez,chelsea66@garcia.com,070-822-8577x68022,19406.393999999997
+70,Product 70,Home,2022-06-15,East,Bermuda,Patrickview,36,783.66,0.24,70,Theresa Acosta,megandawson@bailey.net,+1-493-820-9788x523,21440.937599999997
+71,Product 71,Sports,2021-11-18,South,Norfolk Island,Walkerview,12,753.51,0.24,71,Katherine Berry,meadowssarah@rowland.com,060-047-0301x6681,6872.011199999999
+72,Product 72,Clothing,2023-08-26,East,China,Schultzhaven,47,927.94,0.28,72,Robert King,cassandra46@madden-sloan.com,+1-049-040-4151,31401.4896
+73,Product 73,Sports,2021-04-11,West,France,South Jadeside,83,38.66,0.03,73,Michele Anderson,iphillips@davis-sanchez.com,001-411-440-2376x3514,3112.5165999999995
+74,Product 74,Sports,2020-10-01,South,Wallis and Futuna,Weeksville,92,896.73,0.07,74,Cheyenne Hamilton,smack@gmail.com,695.268.3352x394,76724.2188
+75,Product 75,Sports,2023-04-12,East,Moldova,New Patrick,1,398.64,0.22,75,David Cole,jeremiah30@yahoo.com,(769)716-3338,310.9392
+76,Product 76,Home,2023-02-04,East,Slovenia,Anahaven,15,879.59,0.06,76,Donna Salinas,dixonrichard@miller-cooper.com,542-377-2088x29797,12402.219
+77,Product 77,Beauty,2020-04-09,South,Russian Federation,Knappfort,54,693.88,0.09,77,Michael Moore,ysanders@yahoo.com,943-920-8734x024,34097.2632
+78,Product 78,Electronics,2021-10-29,East,Italy,New Chad,13,987.48,0.05,78,Patricia Vasquez,riverabryan@yahoo.com,575.423.0763x96309,12195.377999999999
+79,Product 79,Sports,2024-06-06,North,Spain,East Cassandra,43,761.69,0.05,79,Devon Miller,njacobson@yahoo.com,1070128738,31115.036500000002
+80,Product 80,Beauty,2020-08-04,East,Mauritania,Jenniferport,85,370.9,0.14,80,Rachel Jackson,slee@torres-hickman.com,4634567413,27112.789999999997
+81,Product 81,Home,2020-04-04,North,Portugal,Kimberlymouth,76,506.05,0.03,81,Isaac Phillips,heathercantu@williams.com,(149)213-1863,37306.006
+82,Product 82,Sports,2020-12-28,South,Guadeloupe,Howellfort,69,382.63,0.1,82,Stephanie Farrell,annkim@gomez.com,6940324256,23761.323
+83,Product 83,Clothing,2020-12-29,East,El Salvador,Brownburgh,7,371.26,0.13,83,Linda Williams,harrisondestiny@harrison.net,001-674-204-9819x97561,2260.9734
+84,Product 84,Home,2020-03-28,North,Belgium,Coopershire,69,268.3,0.01,84,Jennifer Mack,kara99@richards.com,001-936-544-2100x1225,18327.573
+85,Product 85,Clothing,2023-12-18,West,Brazil,North Tyler,48,501.01,0.12,85,Natalie Wilson,oosborne@yahoo.com,001-112-221-8827,21162.6624
+86,Product 86,Clothing,2021-11-09,North,Lithuania,East Tylerbury,4,684.92,0.03,86,John Nolan,bradley00@yahoo.com,(843)766-4107x10644,2657.4896
+87,Product 87,Clothing,2021-09-07,North,Sudan,Smithview,77,284.57,0.15,87,Beth Brooks,jessica15@hotmail.com,(983)532-5976x002,18625.106499999998
+88,Product 88,Electronics,2021-12-18,South,Jordan,New Amanda,53,529.14,0.25,88,Daniel Levy,longdarin@foster.com,001-261-003-5961,21033.315
+89,Product 89,Sports,2022-04-01,North,British Indian Ocean Territory (Chagos Archipelago),New Aliciaside,79,126.21,0.25,89,Sheena Soto,john84@hotmail.com,713-163-4690,7477.9425
+90,Product 90,Home,2023-12-28,North,Ireland,Stevenchester,16,168.25,0.02,90,Ann Campos,sanchezkevin@hotmail.com,+1-935-037-9002,2638.16
+91,Product 91,Beauty,2024-01-30,South,Malaysia,Frederickburgh,21,56.34,0.18,91,Jake Delacruz,cheyenne65@yahoo.com,6976152515,970.1748000000001
+92,Product 92,Electronics,2024-02-01,East,Palau,Kellyshire,59,971.02,0.25,92,Gabrielle Miller DDS,campbellbrian@yahoo.com,068-998-6266x4863,42967.635
+93,Product 93,Electronics,2024-03-11,North,Wallis and Futuna,Theodoreview,24,13.82,0.07,93,John Carrillo,jopowers@bolton.com,384-257-6838,308.4624
+94,Product 94,Clothing,2022-06-24,North,Thailand,Port James,80,186.79,0.23,94,Chelsea Hester,henrypatrick@glenn.info,+1-419-618-5946,11506.264
+95,Product 95,Clothing,2021-05-03,East,Micronesia,East Matthewtown,14,616.74,0.27,95,Derek Nicholson,danielleward@cooper.biz,(047)754-7167,6303.0828
+96,Product 96,Electronics,2021-04-05,West,Northern Mariana Islands,Francesstad,86,90.56,0.24,96,Jonathan Castillo,jacquelinebrooks@dixon.com,(679)922-1046x888,5919.0016
+97,Product 97,Electronics,2021-02-18,South,Guinea-Bissau,Davidburgh,49,883.08,0.03,97,Ashley Greene,michael98@yahoo.com,4347699043,41972.792400000006
+98,Product 98,Sports,2021-05-31,South,French Polynesia,East Austin,50,722.42,0.0,98,Cameron Curry,patriciahernandez@hotmail.com,0521424423,36121.0
+99,Product 99,Beauty,2023-11-10,West,Ukraine,Lake Dakota,70,966.73,0.06,99,Carrie Johnson,amy88@taylor.org,001-028-357-1715,63610.834
+100,Product 100,Sports,2021-08-18,West,Fiji,New Davidton,42,512.56,0.08,100,William Edwards,rfields@gmail.com,+1-773-480-4923x8290,19805.318399999996
+101,Product 101,Home,2023-11-21,South,Cyprus,Michaelburgh,36,307.4,0.18,101,Rodney Scott DDS,wrightvictoria@hotmail.com,316.022.1582,9074.448
+102,Product 102,Sports,2023-07-18,East,Jordan,West Justin,65,554.01,0.12,102,Ruth Brady,cpruitt@weber.biz,(127)061-4126,31689.372000000003
+103,Product 103,Clothing,2022-10-17,East,Costa Rica,Lake Chad,96,931.51,0.21,103,Paige Flowers,rebeccareynolds@martinez.com,+1-724-842-2910x37304,70645.7184
+104,Product 104,Clothing,2020-06-17,South,Anguilla,West Christopherland,70,525.55,0.11,104,Michael Evans,mallory94@dalton.biz,013.517.3625,32741.765
+105,Product 105,Sports,2021-01-01,East,Sri Lanka,Lake Wanda,95,274.53,0.05,105,Brian Thompson,williamsdebbie@yahoo.com,001-819-036-1152x853,24776.332499999997
+106,Product 106,Beauty,2022-09-13,West,Uganda,Christineland,1,878.62,0.09,106,Brett Ortiz,pagemichael@hotmail.com,+1-397-190-9968x30318,799.5442
+107,Product 107,Sports,2023-10-17,West,Kenya,Stephenland,51,378.2,0.27,107,Jessica Gonzales,rebeccarodriguez@thompson.org,372-790-6007x0152,14080.386
+108,Product 108,Home,2024-03-31,North,Kazakhstan,Lake Jeffrey,37,11.37,0.29,108,Mrs. Tammy Wright MD,ceaton@gmail.com,703-637-6173,298.68989999999997
+109,Product 109,Beauty,2024-03-13,West,Armenia,Ryanmouth,35,255.21,0.06,109,Timothy Roth,phuffman@mckinney.com,+1-700-153-1725,8396.409
+110,Product 110,Beauty,2024-05-26,East,Iceland,West Ryanshire,49,325.05,0.24,110,Alexander Pope,jennifer41@bird.com,141.587.1295x028,12104.862000000001
+111,Product 111,Home,2022-05-17,West,United Kingdom,West Julia,94,860.19,0.08,111,Richard Rose,wfrazier@gmail.com,567.984.5532x99502,74389.23120000001
+112,Product 112,Electronics,2022-09-10,North,Marshall Islands,New Deniseberg,4,463.92,0.27,112,Ashley Davidson,jonathanjackson@hotmail.com,210-641-0405,1354.6464
+113,Product 113,Home,2023-09-07,North,Paraguay,Rosschester,99,450.14,0.05,113,April Haynes,alandry@hotmail.com,273-382-3316,42335.667
+114,Product 114,Sports,2023-02-26,West,Bangladesh,Davenportport,43,342.74,0.2,114,Joseph Barnes,uwoods@gmail.com,8739760964,11790.256000000001
+115,Product 115,Electronics,2020-05-09,West,Rwanda,Johnview,78,881.87,0.03,115,Heather Miller,faulknerjohn@hernandez.com,820-588-6585x6779,66722.2842
+116,Product 116,Beauty,2023-03-04,South,Ethiopia,Reevesland,22,945.58,0.29,116,Dawn Patel,sandra28@clarke.com,414.054.0423x6579,14769.9596
+117,Product 117,Sports,2024-06-16,North,Serbia,Hernandezborough,74,991.97,0.21,117,Scott Francis,jaime24@green.com,(924)427-1582,57990.5662
+118,Product 118,Home,2020-02-25,South,United States Minor Outlying Islands,Williamsfurt,1,382.97,0.25,118,Crystal Ramirez,stephensteresa@hotmail.com,(530)075-6342,287.2275
+119,Product 119,Clothing,2024-07-05,South,Bermuda,Hernandezland,11,966.49,0.17,119,Amy West,jonessylvia@smith.info,+1-114-063-0029,8824.053699999999
+120,Product 120,Clothing,2020-11-06,North,Somalia,Ashleystad,44,793.96,0.14,120,Jennifer Jones,david41@ponce-higgins.biz,(190)775-5211x73786,30043.446400000004
+121,Product 121,Electronics,2021-07-09,East,Philippines,East Timothy,59,678.93,0.19,121,Chelsea Miller,kphillips@hotmail.com,248-693-9462x0938,32446.0647
+122,Product 122,Home,2021-12-19,South,Mayotte,North Elizabeth,24,252.44,0.16,122,Victoria Hickman,linda28@hotmail.com,+1-756-089-7968x6495,5089.1903999999995
+123,Product 123,Electronics,2021-12-29,South,French Polynesia,Lake Brianville,60,224.29,0.14,123,Timothy Burton,orowe@stone-ramos.net,+1-386-036-4590x379,11573.364
+124,Product 124,Clothing,2024-05-30,South,Georgia,West Cynthiaside,3,174.39,0.23,124,Michele Davidson,david10@wheeler-horton.info,(504)581-8384x3508,402.8409
+125,Product 125,Home,2022-06-01,North,Ireland,Lake Jacquelinebury,99,923.53,0.05,125,Darrell Garcia,catherinehall@yahoo.com,169.981.8118,86857.9965
+126,Product 126,Clothing,2023-08-28,South,Taiwan,West Sharonhaven,63,301.14,0.05,126,Linda Jones,jamesward@hotmail.com,(793)800-6041x7997,18023.229
+127,Product 127,Home,2021-07-19,South,Monaco,North Bobby,36,458.56,0.13,127,Molly Jenkins,urobbins@weaver.biz,(361)499-9284x10882,14362.0992
+128,Product 128,Beauty,2020-02-14,North,Afghanistan,West Christopher,95,499.02,0.1,128,April Burnett,john50@yahoo.com,7259055505,42666.21
+129,Product 129,Electronics,2021-03-02,West,New Zealand,Port Jack,68,780.39,0.02,129,Ryan Jennings,melissa48@yahoo.com,(497)475-5703x0581,52005.1896
+130,Product 130,Electronics,2023-05-11,North,Guadeloupe,Schneiderstad,83,845.79,0.25,130,Stacy Shelton,russellsylvia@yahoo.com,001-851-824-9608x61845,52650.42749999999
+131,Product 131,Clothing,2023-03-17,West,El Salvador,Tracyfort,47,147.68,0.23,131,Johnny Conner,douglasmccullough@ingram.com,391-353-4190x06631,5344.5392
+132,Product 132,Clothing,2023-12-16,South,Greenland,Villarrealbury,21,432.64,0.16,132,Ashley Ramos,bentleysarah@hotmail.com,(571)257-4052x20468,7631.7696000000005
+133,Product 133,Electronics,2022-11-29,North,Bulgaria,South Marvinbury,82,844.43,0.29,133,Antonio Lopez,nburke@hale-anderson.com,(040)794-7362x04700,49162.71459999999
+134,Product 134,Sports,2020-10-21,East,Ethiopia,Bradshawview,51,819.85,0.02,134,April Rosario,brucefigueroa@wright.com,568-541-9095x0428,40976.102999999996
+135,Product 135,Sports,2022-10-24,East,Luxembourg,Ambertown,28,111.39,0.23,135,Ashley Daniel,johnsonangela@mason.com,(452)690-5068x2956,2401.5684
+136,Product 136,Sports,2021-03-27,West,New Caledonia,Port Michelle,15,164.82,0.08,136,Carlos Small,wsanchez@yahoo.com,706-533-8058,2274.5159999999996
+137,Product 137,Electronics,2020-09-04,North,Aruba,Port Destiny,42,311.16,0.11,137,John Jackson,donna98@king.net,001-980-658-3676x507,11631.160800000001
+138,Product 138,Electronics,2023-10-29,North,Saint Pierre and Miquelon,Shawburgh,59,84.61,0.07,138,Megan Jones,pricejason@newman.com,439.438.4628x2653,4642.5507
+139,Product 139,Electronics,2020-12-09,West,Philippines,North David,66,430.42,0.24,139,Cynthia Porter,allenkaitlyn@nelson.org,2730009892,21589.8672
+140,Product 140,Clothing,2021-02-05,North,Lesotho,Lake Jack,37,116.54,0.04,140,Ernest Reid,annette48@walker.com,(277)139-3097,4139.500800000001
+141,Product 141,Sports,2020-07-06,East,Mali,New Luisville,11,572.54,0.25,141,Angela Rangel,kingamanda@hotmail.com,001-136-830-7886x69311,4723.455
+142,Product 142,Sports,2020-08-18,East,Palau,Hardinland,87,254.09,0.2,142,Diane Johnson MD,marie00@hotmail.com,(678)026-7248,17684.664
+143,Product 143,Electronics,2023-12-24,South,Paraguay,Lake Breanna,44,600.47,0.02,143,Brian Jones,heather27@fox.info,(821)910-3544,25892.2664
+144,Product 144,Beauty,2023-10-19,West,Ukraine,New Dean,12,126.35,0.24,144,Gregg Adkins,megansmith@hotmail.com,884.604.5126x7636,1152.312
+145,Product 145,Electronics,2022-09-08,South,Comoros,Chungborough,3,976.13,0.19,145,Frederick Hughes,castrotoni@meza.org,001-330-965-8160x841,2371.9959
+146,Product 146,Home,2023-01-10,East,Sierra Leone,Bakerburgh,52,933.24,0.27,146,Danielle Smith,cromero@gmail.com,+1-649-167-3277,35425.7904
+147,Product 147,Electronics,2022-07-02,South,India,Port Robert,81,397.88,0.22,147,Zachary Ford,smiller@stephens-martinez.com,360-962-9326,25138.0584
+148,Product 148,Electronics,2021-09-14,West,France,South Lukestad,33,249.76,0.17,148,Patrick Sloan,thompsonchristopher@evans.com,746.328.5552x893,6840.926399999999
+149,Product 149,Sports,2020-03-20,East,Denmark,Lake Edward,55,257.89,0.25,149,Joshua Barnes,deborah99@yahoo.com,001-857-134-9660x21666,10637.9625
+150,Product 150,Electronics,2024-04-08,East,Kuwait,East Kimberly,1,488.56,0.08,150,Jeremy Mcdowell,emilymcbride@hicks.info,117.095.4468,449.47520000000003
+151,Product 151,Clothing,2021-10-05,West,Singapore,Grahamville,39,49.59,0.16,151,Joy Liu,kevinking@hotmail.com,714.399.2964x725,1624.5684
+152,Product 152,Clothing,2021-01-24,West,Kiribati,Claytonchester,20,643.31,0.09,152,Emily Bowman,joel65@yahoo.com,001-548-804-2614x67279,11708.242
+153,Product 153,Electronics,2023-07-14,North,Jersey,South Savannah,47,414.22,0.29,153,Monica Smith,john29@gmail.com,6777842785,13822.5214
+154,Product 154,Beauty,2021-01-12,East,Timor-Leste,Lake Donnaborough,43,383.63,0.07,154,Angela Sanchez,courtneysanchez@chang.com,(006)361-8659,15341.3637
+155,Product 155,Clothing,2022-10-16,East,Lao People's Democratic Republic,Georgeland,57,811.27,0.0,155,Danielle Baker,jacksonbrenda@yahoo.com,768.847.6297x37318,46242.39
+156,Product 156,Electronics,2023-04-23,West,Equatorial Guinea,West Joseph,61,711.95,0.1,156,Sarah Lopez,robinjacobson@hotmail.com,+1-210-672-4045,39086.05500000001
+157,Product 157,Electronics,2022-02-28,North,Kuwait,Patriciatown,78,954.79,0.15,157,Laurie Harris,waltersandre@larson.net,(188)280-8463x3058,63302.577
+158,Product 158,Sports,2022-01-12,East,Cook Islands,West Jennifer,31,358.42,0.01,158,Brian Walker,brightdiana@hamilton.biz,(215)853-9609,10999.9098
+159,Product 159,Beauty,2020-04-12,North,Faroe Islands,East Anne,25,898.57,0.17,159,Catherine Moore,carrie54@gmail.com,021.022.0759x77764,18645.3275
+160,Product 160,Sports,2021-07-06,West,Cyprus,South Kellyview,3,772.27,0.26,160,Clifford Smith,joycecochran@zimmerman.biz,001-090-433-7861x875,1714.4394
+161,Product 161,Electronics,2023-12-24,West,Barbados,Wrightshire,4,363.85,0.21,161,Donald West,leelinda@gmail.com,001-686-106-3963,1149.766
+162,Product 162,Home,2020-09-28,North,Kenya,West Jeffreyville,95,625.45,0.19,162,Charlotte Tate,cmoore@gmail.com,6843119380,48128.37750000001
+163,Product 163,Electronics,2023-01-31,West,Holy See (Vatican City State),Howardland,99,295.68,0.29,163,Nicholas Hunt,jamesking@fox.biz,002.948.7448,20783.3472
+164,Product 164,Clothing,2020-07-20,East,Tokelau,Evantown,14,875.66,0.29,164,Patricia Owens,jennifer51@yahoo.com,001-207-489-9762x911,8704.0604
+165,Product 165,Electronics,2021-06-03,West,Solomon Islands,Nathanbury,41,121.3,0.25,165,Wayne Murray,jennifercisneros@yahoo.com,(019)105-5983x157,3729.9750000000004
+166,Product 166,Home,2021-11-19,North,Peru,Julieland,73,220.31,0.18,166,Todd Oliver,richardjohn@scott.com,+1-862-076-2394x152,13187.756600000002
+167,Product 167,Home,2020-07-20,North,Congo,Port Brianchester,20,191.2,0.15,167,Dylan Harvey,wandalong@jones.org,766.074.2324x51712,3250.4
+168,Product 168,Beauty,2022-04-18,East,United Kingdom,Port Doris,96,409.0,0.0,168,Karina Vega,emily51@yahoo.com,001-509-293-0843,39264.0
+169,Product 169,Clothing,2023-12-05,North,Kenya,North Angelaborough,73,747.78,0.18,169,Jeremy Snyder,waguilar@yahoo.com,866.372.6452,44762.1108
+170,Product 170,Electronics,2021-03-20,East,Guinea-Bissau,Freemanhaven,27,531.64,0.3,170,Jose Rodriguez,nbridges@hotmail.com,(060)918-5652,10047.996
+171,Product 171,Sports,2022-01-21,East,Angola,South Brianburgh,67,492.8,0.25,171,Tanya Lane,jacobjohnson@walker-bautista.com,413.434.6052x8484,24763.199999999997
+172,Product 172,Beauty,2024-04-16,South,Swaziland,Wyattville,53,10.54,0.1,172,Adriana Strickland,mmartin@hotmail.com,+1-887-607-3769x93775,502.75800000000004
+173,Product 173,Electronics,2021-09-01,East,Timor-Leste,Danfort,68,431.15,0.05,173,Anthony Anderson,zachary38@lee-espinoza.com,621.639.4582x5673,27852.289999999997
+174,Product 174,Sports,2020-12-28,West,Tanzania,West Dennis,62,72.92,0.24,174,Shannon Leonard,mitchellbeth@gmail.com,(141)050-2181x7530,3435.9904
+175,Product 175,Electronics,2020-07-03,East,Benin,North Jonathanfurt,15,216.17,0.22,175,Stanley Williams,orozcolauren@sanchez-parks.com,0769019316,2529.189
+176,Product 176,Beauty,2023-11-10,South,Bhutan,Walkershire,97,933.07,0.29,176,Gina Acosta,christophergordon@kennedy-morrison.com,+1-753-820-1754x837,64260.530900000005
+177,Product 177,Clothing,2021-02-03,North,Macao,Smithview,5,223.24,0.26,177,Preston Gilmore,pricetammy@rodriguez.com,400.107.2340,825.988
+178,Product 178,Home,2021-11-17,East,Guadeloupe,Robertstown,68,859.75,0.17,178,Jose Perry,kevin68@hotmail.com,+1-030-549-8957,48524.29
+179,Product 179,Home,2021-03-16,South,Uzbekistan,Jacksonberg,12,804.86,0.03,179,Ricky Chavez,blairdaryl@jones.biz,592.959.2829x879,9368.570399999999
+180,Product 180,Beauty,2022-01-14,East,Netherlands Antilles,Paulfurt,87,167.55,0.15,180,Elizabeth Ruiz,wagnerfrank@yahoo.com,+1-340-052-1905x162,12390.3225
+181,Product 181,Sports,2023-11-26,South,Uzbekistan,West Cassandramouth,78,609.65,0.09,181,Fernando Guerra,olucas@yahoo.com,818-770-7485x06672,43272.957
+182,Product 182,Clothing,2020-01-10,South,Tajikistan,Noahbury,76,124.51,0.15,182,Brandon Wood,rossalan@zimmerman.info,212-519-4667x736,8043.346
+183,Product 183,Clothing,2022-06-26,East,Georgia,East Kevin,57,730.61,0.09,183,Joseph Valdez,elizabeth72@yahoo.com,792-304-9722x183,37896.7407
+184,Product 184,Electronics,2023-01-23,North,Costa Rica,Hoganton,17,641.09,0.26,184,Richard Elliott,natalie91@phillips.org,219-096-2089x0025,8064.912200000001
+185,Product 185,Clothing,2020-11-21,North,Nicaragua,New Jessica,25,813.82,0.25,185,Bradley Lawrence,jeremy16@hotmail.com,+1-159-990-1278x7326,15259.125
+186,Product 186,Clothing,2022-09-05,South,Poland,Martinberg,30,484.59,0.09,186,Bruce Rose,carrolldavid@gmail.com,001-259-212-3195x45334,13229.306999999999
+187,Product 187,Home,2024-06-04,East,Sao Tome and Principe,Robinsonberg,22,915.71,0.18,187,Peter Myers,henryjoseph@hotmail.com,001-392-750-9660x7696,16519.408400000004
+188,Product 188,Sports,2021-12-02,East,Macao,Howardchester,26,58.86,0.13,188,Peter Hicks,mjimenez@delacruz.com,222.380.7193,1331.4132
+189,Product 189,Home,2023-06-11,East,Turkey,Port David,81,299.96,0.27,189,Jerry Myers,littlemichael@yahoo.com,7301345397,17736.6348
+190,Product 190,Electronics,2020-10-24,East,Argentina,Mooreville,61,717.9,0.06,190,Tanya Hughes,robert22@harris.com,478.657.0612,41164.386
+191,Product 191,Sports,2023-07-11,East,Netherlands Antilles,New Tammychester,62,423.93,0.21,191,David Lynn Jr.,heatherriley@hotmail.com,(347)559-4338x657,20764.0914
+192,Product 192,Beauty,2023-05-21,West,China,North Lauren,84,181.22,0.29,192,Michael Washington,jmoore@hinton.info,(488)604-4994,10807.960799999999
+193,Product 193,Clothing,2024-03-08,West,Georgia,Johnsonborough,34,116.14,0.05,193,Michael Lopez,roberthill@aguilar.com,767.288.3702x28969,3751.322
+194,Product 194,Electronics,2024-04-21,West,San Marino,Lake Randy,33,819.17,0.06,194,Kristin Johnson,oadkins@gmail.com,001-328-342-2444x7110,25410.653399999996
+195,Product 195,Beauty,2020-01-19,South,Nauru,Lopezhaven,71,478.41,0.21,195,Eric Michael,vincentjones@gomez-stephens.com,041.061.1911,26834.016900000002
+196,Product 196,Beauty,2024-03-24,North,United Arab Emirates,East Amandastad,86,883.46,0.23,196,Austin Contreras,turnerkenneth@hotmail.com,(693)036-9671x551,58502.7212
+197,Product 197,Sports,2022-11-19,South,American Samoa,Colemanborough,32,735.96,0.15,197,Michelle Hart,rickytaylor@hotmail.com,+1-586-776-5869x76007,20018.112
+198,Product 198,Sports,2022-08-06,North,Ethiopia,West Terri,14,415.63,0.18,198,Gary Gross,jose03@moore.net,982.367.1501x00594,4771.4324
+199,Product 199,Home,2024-05-25,West,Guinea,New Jeffery,72,379.78,0.06,199,Brad Evans,christina55@jones.org,(806)029-9802,25703.510399999996
+200,Product 200,Home,2023-08-26,South,Belgium,North Matthewland,57,520.48,0.14,200,Ann Marshall,kaylaford@walsh.com,001-871-748-4388,25513.9296
+201,Product 201,Beauty,2022-09-05,East,Liechtenstein,Morganchester,25,890.17,0.03,201,Tiffany Powers,mitchellnicholas@burke.biz,(442)042-6329,21586.622499999998
+202,Product 202,Home,2020-06-03,North,Benin,East Williambury,80,739.91,0.1,202,Joseph Snyder,burtoncrystal@yahoo.com,(035)164-0063,53273.52
+203,Product 203,Clothing,2023-12-15,West,Grenada,Baileyburgh,42,15.1,0.09,203,Russell Nicholson,torresvictoria@yahoo.com,001-264-528-2343x3798,577.122
+204,Product 204,Sports,2021-04-14,East,Saint Pierre and Miquelon,Morenoview,19,697.22,0.13,204,Kelly Thompson,mcconnelledward@miller.com,+1-621-853-1859x903,11525.0466
+205,Product 205,Electronics,2020-09-16,South,Central African Republic,North Davidport,41,920.31,0.28,205,Kimberly Mosley,nlewis@yahoo.com,744.391.0553x919,27167.551199999998
+206,Product 206,Beauty,2023-03-12,North,Poland,West Corey,55,713.35,0.05,206,Kristy Brown,millerdavid@nielsen.biz,+1-034-044-8789,37272.5375
+207,Product 207,Electronics,2024-05-23,West,Northern Mariana Islands,Lake Brenda,80,185.24,0.12,207,Miguel Anderson,bradley85@mills.com,+1-924-368-2389x2838,13040.896
+208,Product 208,Home,2020-09-26,East,Georgia,North Codymouth,12,488.68,0.18,208,Rachel Burns,fchase@ferrell.com,8736565264,4808.6112
+209,Product 209,Electronics,2024-03-21,South,New Zealand,Port Aprilberg,39,148.91,0.28,209,Jasmine Newton,anthonyphillips@jackson.net,926-100-2032,4181.3928
+210,Product 210,Sports,2021-04-24,South,Hungary,Josephland,94,365.41,0.04,210,John Hill,wfisher@mccoy.org,+1-836-915-4822,32974.5984
+211,Product 211,Home,2023-10-24,North,Suriname,Ericksonbury,2,937.75,0.28,211,Laura Hughes,rossgary@hotmail.com,884.079.4519x46987,1350.36
+212,Product 212,Clothing,2024-01-14,South,Uzbekistan,East Johnside,96,924.07,0.02,212,Lindsey Williams,eflores@ward.net,176.591.8611,86936.5056
+213,Product 213,Clothing,2021-06-21,North,Wallis and Futuna,Rodriguezshire,45,290.01,0.14,213,Rhonda Mack,williamsadam@scott-burke.info,977-365-7803,11223.386999999999
+214,Product 214,Beauty,2020-10-14,West,Japan,Bryantville,89,346.23,0.14,214,Christine Miller,kevingordon@gonzalez.com,(835)083-7543x8165,26500.4442
+215,Product 215,Home,2022-12-12,West,Zimbabwe,Lake Christineview,25,604.21,0.06,215,Richard Jimenez,djohnson@yahoo.com,619.229.5227x18392,14198.935
+216,Product 216,Sports,2021-10-12,East,Estonia,Lake Jimmytown,68,963.57,0.1,216,Stacey Lam,graytracy@yahoo.com,669.912.6505,58970.484000000004
+217,Product 217,Home,2023-01-18,East,Netherlands,West April,83,156.32,0.14,217,Ryan Johnson,tbenjamin@gmail.com,001-209-470-2117,11158.121599999999
+218,Product 218,Home,2020-02-15,East,Cayman Islands,West Claire,4,264.35,0.26,218,Logan Mendoza,kristina06@stone.biz,289-058-4979x8079,782.4760000000001
+219,Product 219,Sports,2020-11-10,North,New Caledonia,Lake Johnfurt,77,874.82,0.29,219,Jesse Martinez,julieevans@brown-taylor.biz,(461)771-5475,47826.4094
+220,Product 220,Sports,2023-08-03,West,Cambodia,Damonbury,36,496.97,0.16,220,Penny Sparks,sheltonjonathan@coffey.com,495.726.3112x1654,15028.372800000001
+221,Product 221,Clothing,2024-03-08,East,Bouvet Island (Bouvetoya),Armstrongmouth,87,899.97,0.26,221,Melissa Jensen,uschultz@baldwin.biz,(040)323-0938,57940.0686
+222,Product 222,Home,2023-06-06,East,Svalbard & Jan Mayen Islands,New Mike,62,193.66,0.18,222,James Anderson,brittany85@jones-perez.com,+1-665-640-5903x85431,9845.674400000002
+223,Product 223,Beauty,2020-06-09,East,Angola,Scottborough,70,537.34,0.1,223,Richard Moore,jsilva@griffith.com,773.252.1229x80933,33852.420000000006
+224,Product 224,Beauty,2020-08-16,East,Dominica,South Maryside,88,333.01,0.06,224,Dr. Julia Curtis DVM,jacob18@yahoo.com,193-702-1286,27546.587199999994
+225,Product 225,Electronics,2022-08-03,South,Bolivia,Norrisside,44,323.38,0.12,225,Chris Washington,timothyrice@gmail.com,850.050.2920,12521.273599999999
+226,Product 226,Electronics,2022-12-08,West,Equatorial Guinea,South Kathleen,33,452.41,0.16,226,Jo Kelley,thomasrobinson@smith.net,(046)613-6005,12540.8052
+227,Product 227,Sports,2020-01-29,South,Bahrain,Masonview,12,438.75,0.01,227,Lauren Luna,katiechen@gmail.com,(811)467-1510x4652,5212.35
+228,Product 228,Clothing,2020-05-12,North,Liberia,Robertmouth,85,363.77,0.04,228,Kimberly Cooper,phall@yahoo.com,924-892-9155,29683.631999999998
+229,Product 229,Home,2023-07-06,South,Saint Vincent and the Grenadines,East Michael,11,915.82,0.18,229,Peter Carr,wardjames@howell-carroll.biz,(268)679-4044x36035,8260.6964
+230,Product 230,Clothing,2022-11-22,West,Myanmar,Parkershire,55,734.43,0.07,230,Brittany Lawrence,richard00@gmail.com,(514)829-3466x186,37566.09449999999
+231,Product 231,Clothing,2020-04-13,East,Gabon,South Andrew,38,730.27,0.25,231,Emma Kent,dennis84@hotmail.com,861.508.8179x9856,20812.695
+232,Product 232,Clothing,2022-03-21,West,Togo,Smithhaven,29,297.01,0.1,232,Becky Bauer,linda23@gmail.com,+1-111-891-6096x4923,7751.960999999999
+233,Product 233,Beauty,2022-04-15,North,Bouvet Island (Bouvetoya),Cesarbury,3,581.93,0.03,233,Robert Watson,bethpope@hotmail.com,510.830.6364,1693.4162999999999
+234,Product 234,Beauty,2024-05-24,West,Guatemala,Lake Samanthaside,28,781.39,0.03,234,Reginald Klein,mcooper@gmail.com,746-790-8659x258,21222.552399999997
+235,Product 235,Sports,2022-02-14,South,Mayotte,Cunninghamshire,84,797.63,0.28,235,Jacob Brown,samuel72@skinner.com,(413)973-5351x3718,48240.662399999994
+236,Product 236,Beauty,2021-06-04,North,Antarctica (the territory South of 60 deg S),South Meghanland,90,351.09,0.04,236,Heather Larson,taylor41@smith.org,(307)553-0723x559,30334.175999999996
+237,Product 237,Electronics,2023-03-16,East,Indonesia,East Joshua,24,773.16,0.04,237,Benjamin Walker,mgonzalez@garcia.com,+1-398-100-2231x90543,17813.6064
+238,Product 238,Beauty,2023-12-20,South,Mozambique,West Antonio,54,738.53,0.26,238,Jose Jones,michelle23@hotmail.com,386-869-6524,29511.658799999997
+239,Product 239,Sports,2023-06-19,South,French Southern Territories,East Jeanettebury,52,150.09,0.08,239,Patty Henry,hayesbruce@hotmail.com,624-984-0700,7180.305600000001
+240,Product 240,Beauty,2021-07-07,East,Jordan,Henrychester,47,867.29,0.2,240,Jerry Curry,tfitzgerald@donovan.biz,386-647-4130x44784,32610.104
+241,Product 241,Electronics,2020-05-31,West,Estonia,South Rachelton,21,446.91,0.25,241,Anna Shah,stantoncharles@hotmail.com,170-975-3424x08190,7038.8325
+242,Product 242,Clothing,2023-05-07,North,Saint Vincent and the Grenadines,Rogershire,54,491.55,0.18,242,Caroline Garcia,kennethhuff@yahoo.com,949.006.6101x92567,21765.834000000003
+243,Product 243,Beauty,2022-12-16,South,United States Virgin Islands,Maryton,30,453.89,0.29,243,Angel Mcconnell,cassandrawalker@yahoo.com,(993)558-2516x938,9667.856999999998
+244,Product 244,Electronics,2022-09-13,South,Equatorial Guinea,North Janicechester,68,572.17,0.21,244,Brian Allen,tylerramirez@jones.biz,+1-253-390-3704x55404,30736.9724
+245,Product 245,Home,2022-12-03,East,Spain,Martinview,36,624.96,0.03,245,Jonathan Watson,elizabethberg@baker-navarro.biz,001-152-924-3923x54809,21823.6032
+246,Product 246,Clothing,2020-04-11,South,Brazil,Lake Rodneyport,40,503.2,0.17,246,David Roy MD,jennifer67@hotmail.com,001-312-042-3250x88418,16706.239999999998
+247,Product 247,Beauty,2021-01-31,West,Vanuatu,Foleyview,10,868.12,0.22,247,Matthew Reilly,mcguiredave@fuller.com,001-533-644-2347x15167,6771.336000000001
+248,Product 248,Sports,2023-03-02,North,Cayman Islands,Haneytown,74,631.46,0.24,248,Alexandra Barajas,christopher90@yahoo.com,001-239-367-1468x2421,35513.3104
+249,Product 249,Beauty,2021-09-19,West,Svalbard & Jan Mayen Islands,New Jenniferton,42,407.41,0.01,249,Sonia Carter,wfischer@kaiser.com,(695)550-9642x95075,16940.1078
+250,Product 250,Sports,2021-11-04,South,Greece,Lake Rebecca,24,422.52,0.22,250,Jennifer Craig,vholmes@hotmail.com,370-580-0687x92380,7909.5743999999995
+251,Product 251,Sports,2022-08-11,West,Monaco,North Michael,4,812.73,0.25,251,Stephanie Farmer,tiffany48@guzman.com,+1-566-759-2720x727,2438.19
+252,Product 252,Electronics,2021-01-31,North,Luxembourg,Romerotown,47,354.71,0.22,252,Nathan Rogers,maddenricardo@hotmail.com,(663)742-6959x14579,13003.668599999999
+253,Product 253,Electronics,2022-03-13,South,Burkina Faso,Port Jane,91,219.34,0.15,253,Shirley Porter,ashley06@gmail.com,034.315.1594,16965.948999999997
+254,Product 254,Beauty,2022-02-14,South,Switzerland,New Joshua,51,68.79,0.14,254,Morgan Barry,brian59@mitchell.com,595-521-8293x06368,3017.1294000000003
+255,Product 255,Home,2023-03-05,West,Peru,Richardsmouth,4,877.27,0.16,255,Alejandro Graves,kathyharris@reilly.com,+1-266-826-7724x3736,2947.6272
+256,Product 256,Home,2021-09-01,North,Maldives,North Darlene,32,919.36,0.21,256,Curtis Smith,rthomas@ortega.net,875-884-2454,23241.4208
+257,Product 257,Beauty,2020-06-01,West,San Marino,West Tammy,10,128.92,0.28,257,Laura Torres,rosemary@gmail.com,277.993.4745x551,928.2239999999998
+258,Product 258,Electronics,2020-08-31,West,Tonga,East Jeremiahtown,11,341.13,0.19,258,Stephen Hawkins,michael10@spencer-moody.com,135-768-9837x8195,3039.4683
+259,Product 259,Beauty,2023-07-19,East,Libyan Arab Jamahiriya,Rollinsport,28,183.62,0.27,259,Mariah Dawson,katrina95@gmail.com,(360)118-1942x4636,3753.1928000000003
+260,Product 260,Clothing,2024-03-14,East,Dominican Republic,New Pamelaton,46,124.74,0.21,260,Sierra Larsen MD,mcdonaldtroy@hotmail.com,0647248820,4533.0516
+261,Product 261,Sports,2022-03-02,West,San Marino,New Emily,72,900.87,0.02,261,Tiffany Horn,fcox@hotmail.com,(074)653-2391x5551,63565.3872
+262,Product 262,Electronics,2022-07-01,East,Nicaragua,New Taylor,40,66.31,0.15,262,Wyatt Boyd,johnhansen@hotmail.com,+1-008-935-0445x5820,2254.54
+263,Product 263,Clothing,2022-06-15,East,Tajikistan,Griffinburgh,62,980.68,0.09,263,Jeremy Cook Jr.,adamsmith@chambers.com,144.129.5406x4209,55329.965599999996
+264,Product 264,Electronics,2024-03-23,North,Macao,Briggschester,86,105.49,0.09,264,Susan Bray,amy39@garza.info,393-665-1063,8255.6474
+265,Product 265,Beauty,2023-07-17,East,Gabon,New Clarence,98,864.84,0.11,265,Connie Perez,moconnor@jordan.info,7564137236,75431.3448
+266,Product 266,Beauty,2021-12-04,North,Botswana,North Shannonside,45,570.84,0.09,266,Misty Wood,heatherevans@novak.biz,(177)822-7409,23375.898000000005
+267,Product 267,Home,2020-11-29,West,Nauru,North Christopherfort,35,374.24,0.17,267,Michelle Williams,blakefisher@yahoo.com,4338922367,10871.671999999999
+268,Product 268,Electronics,2022-11-27,North,United Kingdom,Caitlinburgh,35,348.92,0.21,268,Samantha Shields,qrobles@hotmail.com,963-147-8231x540,9647.638
+269,Product 269,Clothing,2023-08-07,East,Iran,East Karenside,89,759.79,0.08,269,Susan Jones,michaelfleming@conley.biz,320-428-7965x035,62211.6052
+270,Product 270,Electronics,2020-10-03,South,Czech Republic,Benjaminside,34,321.43,0.04,270,Mr. Benjamin Walker,gardnercharles@stewart.com,001-334-052-4314x76922,10491.4752
+271,Product 271,Electronics,2020-07-10,West,Solomon Islands,East Aprilberg,6,660.75,0.02,271,Justin Sharp,etaylor@hotmail.com,002.544.0309x1870,3885.21
+272,Product 272,Sports,2020-10-24,West,Madagascar,Jamesmouth,37,522.15,0.17,272,Susan Brock,christie20@yahoo.com,+1-975-247-8833x16176,16035.226499999999
+273,Product 273,Sports,2020-06-23,West,Kuwait,East Cameronport,1,490.12,0.06,273,Michael Townsend,morganrandall@smith.com,001-188-821-8469,460.71279999999996
+274,Product 274,Electronics,2021-09-10,West,Papua New Guinea,Claytonside,76,902.15,0.0,274,Dominic Willis,christy14@gmail.com,+1-463-730-5391x4550,68563.4
+275,Product 275,Clothing,2023-07-31,North,Saint Martin,North Julie,35,559.1,0.28,275,April Johnson,swansonjohn@gmail.com,(672)517-7593x621,14089.32
+276,Product 276,Electronics,2022-03-02,West,Korea,West Bernard,70,828.59,0.16,276,Deanna Hale,tjohnson@hotmail.com,(846)218-1367,48721.092000000004
+277,Product 277,Sports,2021-02-07,East,Liberia,East Michaelville,54,728.32,0.03,277,Jennifer Stephens,pamela75@martin.net,165-606-1865x137,38149.401600000005
+278,Product 278,Clothing,2022-09-24,South,Fiji,Alexandershire,81,48.17,0.25,278,Denise Nixon,samuelhernandez@hotmail.com,344.529.9142x025,2926.3275
+279,Product 279,Home,2024-04-10,East,Canada,Frederickstad,63,775.38,0.29,279,Lauren Romero,browndiana@cruz-schneider.com,+1-134-295-3297x383,34682.7474
+280,Product 280,Home,2021-07-03,East,Timor-Leste,South Deborahburgh,9,224.7,0.13,280,Jasmin Sutton,rsteele@gmail.com,(302)973-3748,1759.4009999999998
+281,Product 281,Clothing,2020-07-27,North,Uganda,New Jeffreyton,62,904.12,0.01,281,Louis Martinez,cjenkins@hawkins.org,429-294-0930x5953,55494.8856
+282,Product 282,Electronics,2021-08-29,West,Uganda,North Zachary,2,52.49,0.04,282,Daniel Vaughn,sarah73@hotmail.com,163.276.8644,100.7808
+283,Product 283,Beauty,2022-10-04,West,Philippines,Jamesstad,82,339.74,0.11,283,Robert Butler,sramos@guerra.com,614-877-9060,24794.2252
+284,Product 284,Beauty,2022-01-12,South,Northern Mariana Islands,Paulfort,36,108.74,0.27,284,Mr. Justin Thompson II,zachary33@gmail.com,5949194447,2857.6872
+285,Product 285,Electronics,2020-06-22,North,Uganda,Davidhaven,92,480.83,0.04,285,Melanie Wilson,carloshaynes@gmail.com,896.135.2283x97959,42466.9056
+286,Product 286,Electronics,2024-03-08,North,Netherlands Antilles,Estradaberg,41,821.82,0.25,286,Derek Bush,joannegreer@townsend.biz,764-010-8073x126,25270.965000000004
+287,Product 287,Home,2024-06-18,East,Iraq,Sharpstad,37,305.21,0.0,287,Harold Ashley,kathrynolson@roberts.com,(955)536-0492,11292.769999999999
+288,Product 288,Beauty,2023-09-04,East,Slovenia,Andersenhaven,49,159.43,0.14,288,Connie Rogers,zsullivan@hotmail.com,001-713-019-4168,6718.3802000000005
+289,Product 289,Electronics,2022-09-03,North,Zambia,Jordanport,26,336.96,0.19,289,Melissa Arnold,juliethomas@hotmail.com,7694381737,7096.3776
+290,Product 290,Home,2023-02-22,North,Ireland,Melissahaven,68,815.74,0.02,290,Brian Garcia,pwilson@yahoo.com,001-405-842-6285x776,54360.9136
+291,Product 291,Clothing,2022-08-10,South,Malta,Port Ericmouth,36,148.98,0.18,291,Ashley Chapman,ricky06@bailey-carter.com,004-171-2196,4397.8896
+292,Product 292,Sports,2024-05-27,North,Somalia,North Tom,31,235.09,0.28,292,Heather Hunter,zhill@williams-lara.com,717-872-9512,5247.208799999999
+293,Product 293,Home,2020-03-22,West,Jamaica,East Jonathanport,30,78.16,0.05,293,Yolanda Hicks,mallorynicholson@hotmail.com,+1-358-673-9165x708,2227.5599999999995
+294,Product 294,Electronics,2022-06-16,North,Peru,Kirstenmouth,34,708.65,0.22,294,Rebecca Gonzalez,emilypreston@maynard.biz,3629443180,18793.398
+295,Product 295,Clothing,2022-01-18,East,Gambia,North Angela,19,401.28,0.18,295,Robert Mullen,torresbrittany@shaffer-white.com,763-591-7924,6251.9424
+296,Product 296,Home,2021-06-17,North,Mauritius,New Aaron,18,317.73,0.06,296,Nicole Gillespie,powersbrenda@hotmail.com,398.354.8805x32884,5375.9916
+297,Product 297,Electronics,2023-08-19,East,Antarctica (the territory South of 60 deg S),South Julieshire,94,721.44,0.0,297,Susan Rich,tammydennis@brown.net,699.770.5467x53343,67815.36
+298,Product 298,Electronics,2020-01-08,West,Eritrea,New Justinmouth,85,342.62,0.0,298,Jennifer Mills,owenssonya@smith-johnson.com,(889)011-3317x7109,29122.7
+299,Product 299,Electronics,2022-04-12,South,Cote d'Ivoire,Alextown,3,730.49,0.16,299,Alexandria Cain,blanchardgina@larson-rios.com,977.245.4641,1840.8348
+300,Product 300,Clothing,2020-02-15,East,Solomon Islands,Port James,70,817.05,0.28,300,William Hendrix,christopher30@yahoo.com,+1-120-333-4323,41179.32
+301,Product 301,Home,2020-04-15,West,Estonia,New Ryan,13,225.49,0.19,301,Jerry Cruz,brandon96@yahoo.com,+1-494-502-1938,2374.4097
+302,Product 302,Sports,2020-10-02,South,Bouvet Island (Bouvetoya),Brownbury,45,974.08,0.21,302,Matthew Woods,karen72@hotmail.com,+1-929-988-1293,34628.544
+303,Product 303,Home,2020-03-28,South,Benin,Port Timothyburgh,67,170.73,0.15,303,Stephanie Mckinney,vreynolds@king-wagner.info,892.932.9619,9723.0735
+304,Product 304,Home,2021-07-29,West,Equatorial Guinea,East Brianport,92,297.93,0.17,304,Zachary Guerrero,ngreene@gmail.com,001-952-977-2707x3314,22749.9348
+305,Product 305,Sports,2021-12-07,East,Lesotho,Port Christopherberg,86,188.0,0.04,305,Kelly Baldwin,vwong@hotmail.com,5922731491,15521.279999999999
+306,Product 306,Electronics,2023-05-01,North,Faroe Islands,Raytown,40,352.05,0.26,306,Chelsey Thomas,rrobinson@hotmail.com,001-162-056-9805x68872,10420.68
+307,Product 307,Sports,2022-12-03,South,Cape Verde,Port Margarethaven,40,485.26,0.23,307,Jose Harris,adam45@johnson-schmidt.com,(822)857-1215,14946.008000000002
+308,Product 308,Beauty,2024-06-15,South,Aruba,Carlosshire,76,526.95,0.3,308,Barry Young,sabrinawright@hotmail.com,972.052.5695,28033.74
+309,Product 309,Beauty,2022-03-06,South,Ghana,Joneshaven,23,855.07,0.09,309,Rebecca Murray,kleinwanda@burns.com,+1-902-475-5215x4258,17896.615100000003
+310,Product 310,Beauty,2023-12-05,West,Georgia,South Luisburgh,31,890.55,0.07,310,Audrey Lewis,lawrence85@peck.com,738.536.7728,25674.5565
+311,Product 311,Home,2024-04-22,North,Reunion,Kimfort,18,227.9,0.04,311,Dawn Sexton,corey09@gmail.com,001-539-800-9817x3352,3938.1119999999996
+312,Product 312,Sports,2020-08-14,North,Yemen,Leahview,71,626.67,0.29,312,Crystal Vargas,kgomez@osborne-cox.biz,+1-838-410-2492x22310,31590.434699999998
+313,Product 313,Clothing,2024-01-12,West,New Caledonia,Williamshaven,72,120.38,0.23,313,Mark Wade,jbowers@crawford.org,(843)020-2290x5796,6673.867200000001
+314,Product 314,Clothing,2021-06-27,South,Bouvet Island (Bouvetoya),East Markchester,19,464.38,0.05,314,Frederick Burns,juliarandolph@gmail.com,(118)757-4914x83133,8382.059
+315,Product 315,Beauty,2020-09-07,East,Italy,Port Connie,93,329.11,0.17,315,Pamela Tate,denisespencer@harris.com,001-812-682-5322,25404.0009
+316,Product 316,Sports,2022-07-28,North,Tajikistan,Joshuamouth,44,323.34,0.12,316,Edward Benson,farmermary@yahoo.com,001-470-232-1548x9869,12519.7248
+317,Product 317,Home,2020-03-19,North,Kenya,Scottfort,84,487.76,0.05,317,Cody Koch,jeffrey31@simmons.com,+1-753-063-0438x619,38923.24799999999
+318,Product 318,Electronics,2024-04-05,South,Lithuania,West April,50,732.53,0.05,318,Ashley Gray,timothygarner@yahoo.com,862.740.8624x893,34795.174999999996
+319,Product 319,Clothing,2020-06-03,East,Grenada,Donaldhaven,42,78.49,0.29,319,Samuel Gutierrez,tina60@hotmail.com,1321691767,2340.5717999999997
+320,Product 320,Clothing,2021-09-08,South,Azerbaijan,Coreyshire,94,880.38,0.09,320,Michael Dorsey,maria50@gmail.com,(625)872-3102x926,75307.7052
+321,Product 321,Home,2022-07-19,East,Paraguay,Meltonmouth,47,737.47,0.28,321,Joseph Warner,bhodges@alvarez.org,659.983.4857,24955.984800000002
+322,Product 322,Home,2023-12-15,East,Isle of Man,South Deanville,22,184.73,0.02,322,Amy Johnson,pchristensen@yahoo.com,469-419-1917,3982.7788
+323,Product 323,Home,2020-06-09,East,Macao,Port Kimberlyhaven,74,939.77,0.14,323,Lori Johnson,matthew68@allen.com,217.858.5290,59806.962799999994
+324,Product 324,Home,2020-06-01,East,Falkland Islands (Malvinas),Melissaborough,90,511.25,0.04,324,Wanda Lucas,kylestevenson@kim-baxter.net,(874)870-0962x32074,44172.0
+325,Product 325,Electronics,2022-04-20,West,Armenia,South Cathyshire,97,999.81,0.0,325,Emma Jenkins,jerry00@floyd.com,4031855189,96981.56999999999
+326,Product 326,Home,2020-02-06,South,Bangladesh,New Nicholas,92,205.29,0.17,326,Kayla Rodriguez,rhonda18@davis-hernandez.biz,517-108-6975x952,15675.9444
+327,Product 327,Sports,2021-06-30,West,Russian Federation,Lisaton,74,539.56,0.03,327,William Reyes,gentrykevin@contreras.com,850.361.2064,38729.616799999996
+328,Product 328,Electronics,2021-08-31,South,Swaziland,Jenningsshire,29,297.35,0.22,328,Pamela Ortiz,daniel40@yahoo.com,0549379654,6726.057000000002
+329,Product 329,Electronics,2022-12-10,North,Lao People's Democratic Republic,Brittanyburgh,82,311.13,0.21,329,Michael Lopez,brandirichards@gmail.com,(046)429-6385x0740,20155.0014
+330,Product 330,Home,2022-10-07,South,Antarctica (the territory South of 60 deg S),Amandabury,59,595.15,0.05,330,Michael Allen,bakerbrandy@hotmail.com,+1-130-266-6588x12755,33358.157499999994
+331,Product 331,Clothing,2024-02-12,North,Estonia,Williammouth,1,922.5,0.28,331,Jamie Oneill,markellis@hotmail.com,486.099.0013x9571,664.1999999999999
+332,Product 332,Clothing,2020-06-16,East,Cyprus,West Richardfurt,87,807.21,0.22,332,David Rodriguez,kpratt@brandt-rodriguez.com,(291)248-6051x01155,54777.2706
+333,Product 333,Sports,2023-03-07,North,Armenia,Elizabethberg,64,726.7,0.09,333,Nicole Fowler,leesarah@walker.com,001-642-091-2666x6857,42323.008
+334,Product 334,Home,2020-04-25,South,Saint Lucia,Markshire,17,563.58,0.21,334,Gregory Cole,jhernandez@gmail.com,(250)950-7804x59896,7568.879400000001
+335,Product 335,Home,2020-06-08,West,Sweden,Lopezland,37,923.08,0.22,335,David Mitchell,parksdavid@gmail.com,(438)715-3730,26640.0888
+336,Product 336,Beauty,2022-04-27,South,Netherlands Antilles,Kingville,95,497.44,0.1,336,Savannah Thomas,wvillegas@yahoo.com,(097)129-2328x7542,42531.12
+337,Product 337,Sports,2021-03-04,West,Haiti,Port Robertmouth,25,875.09,0.11,337,Alicia Nelson,pbentley@yahoo.com,(830)476-2144x3202,19470.7525
+338,Product 338,Clothing,2023-01-25,South,Nauru,Lake Josephbury,64,835.64,0.11,338,Pamela Thomas,tony26@mccall.net,(034)828-1557,47598.0544
+339,Product 339,Home,2020-04-04,East,Micronesia,Lake Luke,68,221.7,0.18,339,Steven Moore,qmaldonado@hodges-arnold.net,+1-660-250-2964x3527,12361.992
+340,Product 340,Electronics,2023-01-08,South,Marshall Islands,Paulhaven,52,773.51,0.27,340,Emily Hart,pachecochristina@hotmail.com,001-590-439-8765x1969,29362.439599999998
+341,Product 341,Beauty,2023-05-01,West,Nigeria,Port Linda,9,22.05,0.05,341,Alan Ward,julie00@maldonado.biz,224.501.9480x121,188.5275
+342,Product 342,Clothing,2021-03-31,North,Honduras,Lake Christopherborough,57,329.6,0.26,342,Sarah Vasquez,ypearson@tran-wilson.com,001-927-529-6472x2360,13902.528
+343,Product 343,Electronics,2024-07-13,North,Bouvet Island (Bouvetoya),Maryfurt,92,237.27,0.01,343,Michelle Nichols,gomezhenry@gmail.com,+1-150-056-7517x432,21610.5516
+344,Product 344,Home,2021-12-29,East,Ireland,Fishermouth,94,511.79,0.2,344,Joshua White,robertburnett@yahoo.com,425-239-4295x5399,38486.608
+345,Product 345,Clothing,2020-09-12,North,Ghana,Mitchellburgh,88,739.48,0.12,345,Jeffrey Maldonado,deanna33@gmail.com,+1-846-666-8506,57265.33120000001
+346,Product 346,Sports,2021-09-19,North,Georgia,Port Mary,33,106.7,0.24,346,James Medina,jeffrey18@yahoo.com,804-000-9366x8973,2676.036
+347,Product 347,Electronics,2021-08-14,North,Gabon,South Susan,20,519.77,0.22,347,Meagan Shannon,kelseybrown@randolph-rose.com,001-207-536-7299x17089,8108.412
+348,Product 348,Home,2020-06-20,West,United Arab Emirates,Burgesston,73,939.03,0.14,348,Vanessa Lindsey,stephensnatasha@flores.com,818-970-8828,58952.303400000004
+349,Product 349,Beauty,2024-01-26,East,Maldives,Petersberg,72,236.36,0.19,349,Kathryn Smith,jdennis@mcdowell.com,+1-052-661-7334x11753,13784.515200000002
+350,Product 350,Home,2022-12-24,West,Antigua and Barbuda,Port Ronaldchester,88,680.37,0.15,350,Stacy Baker,sparksjoseph@mitchell-soto.org,+1-752-010-6403,50891.676
+351,Product 351,Home,2023-02-22,East,Yemen,Christopherland,14,596.95,0.24,351,Ashley Osborne,john34@mann.com,(807)514-9710x5026,6351.548000000001
+352,Product 352,Beauty,2024-02-28,West,Guernsey,Christophermouth,59,19.96,0.14,352,Jose Calderon,mpatrick@weaver-james.com,495-167-9655,1012.7704000000001
+353,Product 353,Electronics,2020-12-07,East,Ecuador,Michelleshire,82,481.07,0.16,353,Matthew Fuentes,russelladam@mercado-chaney.net,969.776.1829,33136.101599999995
+354,Product 354,Electronics,2022-01-20,North,Togo,Amyville,56,711.68,0.08,354,Alicia Gordon,garrettwilson@salas-taylor.org,0435930743,36665.7536
+355,Product 355,Sports,2020-10-26,South,Venezuela,Smithhaven,65,53.54,0.18,355,Kara Hines,eharrison@jones.info,0425669343,2853.6820000000002
+356,Product 356,Beauty,2022-11-24,East,Northern Mariana Islands,West Marc,76,880.73,0.09,356,Gary Holden,victoriafarrell@watkins.net,(968)833-7167x753,60911.2868
+357,Product 357,Beauty,2022-04-01,North,Latvia,Mitchellhaven,93,524.88,0.17,357,Adam Brown,elizabethprince@yahoo.com,(140)289-7651x439,40515.487199999996
+358,Product 358,Home,2022-09-01,South,Tonga,Michaelborough,37,40.35,0.05,358,James Skinner,martinshirley@scott.com,(591)255-9177,1418.3025
+359,Product 359,Home,2021-01-10,South,Portugal,Bryantfurt,26,232.17,0.05,359,Robert Morgan,elizabethlane@hotmail.com,836.415.3417x06135,5734.599
+360,Product 360,Electronics,2022-04-20,North,Guinea,Chapmanton,33,954.14,0.13,360,Gary Holland,kelly08@yahoo.com,987.820.7090x22694,27393.359399999998
+361,Product 361,Beauty,2023-09-05,East,Algeria,Lake Debbie,43,586.5,0.13,361,Colleen Roberts,lauren93@gmail.com,304-108-1137,21940.965
+362,Product 362,Electronics,2021-10-19,South,Macao,Lindaside,15,116.4,0.08,362,Christopher Fisher,trogers@gmail.com,923-434-6360,1606.3200000000002
+363,Product 363,Beauty,2021-07-05,North,Macedonia,New Kara,87,294.67,0.04,363,Angel Higgins MD,michael22@brown-cox.biz,(149)962-6631,24610.8384
+364,Product 364,Beauty,2024-02-04,West,Christmas Island,New Joan,29,462.14,0.01,364,Mr. John Martinez Jr.,fzimmerman@hotmail.com,9134655941,13268.0394
+365,Product 365,Electronics,2023-11-15,North,Nepal,South Erikaside,21,30.74,0.01,365,Dana Mccann,murphysarah@marks-atkins.org,015.628.1515x6402,639.0845999999999
+366,Product 366,Home,2021-12-15,East,Armenia,Johnnyville,83,417.5,0.08,366,Jamie Doyle,willienorman@gmail.com,+1-792-595-3621x8227,31880.300000000003
+367,Product 367,Home,2021-07-29,West,Gabon,North Lisaberg,69,494.56,0.14,367,Michael Ford,amandasimmons@medina.com,+1-511-180-5105,29347.1904
+368,Product 368,Clothing,2021-07-27,North,Cameroon,East Robert,23,251.24,0.22,368,Michael Mccarthy,martinsarah@cole-phillips.net,+1-586-439-8274,4507.2456
+369,Product 369,Clothing,2020-12-10,South,Mongolia,Colehaven,84,592.75,0.14,369,Christopher Rivera,heather39@guzman.com,+1-962-298-9987x2111,42820.26
+370,Product 370,Sports,2023-11-17,East,Iraq,North Kevinland,8,755.71,0.27,370,Sarah Berry,alexis78@hotmail.com,(367)572-4883,4413.3464
+371,Product 371,Beauty,2020-03-29,North,Norway,East Kimmouth,73,243.48,0.01,371,Maria Brown,millereric@gmail.com,+1-764-772-7846,17596.299600000002
+372,Product 372,Electronics,2023-03-15,West,Benin,Owensfort,62,624.29,0.05,372,Lori May,jamespaul@yahoo.com,(896)417-1345,36770.681
+373,Product 373,Electronics,2021-07-04,North,Bosnia and Herzegovina,New Melissaport,14,643.23,0.1,373,Laurie Baird,arthurrobinson@meyer.biz,999.167.7754x2673,8104.698000000001
+374,Product 374,Electronics,2024-01-26,West,Solomon Islands,Mcguireton,6,949.05,0.17,374,Jennifer Chapman,browncole@hotmail.com,415.198.2456x6692,4726.268999999999
+375,Product 375,Clothing,2020-08-22,East,Antigua and Barbuda,Martinmouth,1,780.49,0.26,375,Daniel Torres,tammywilliams@hotmail.com,433.096.0565x69206,577.5626
+376,Product 376,Clothing,2024-03-10,East,Iraq,New Christina,9,849.86,0.11,376,Jeffrey Casey,nlee@dean.com,397.231.6231x42047,6807.3786
+377,Product 377,Electronics,2022-02-19,East,Kuwait,Alexanderside,80,495.52,0.08,377,Sheila Harris,megan36@yahoo.com,297.465.5383,36470.272
+378,Product 378,Beauty,2024-02-27,West,Slovenia,West Brandi,80,193.5,0.02,378,Kristen Hardy,shawnscott@gmail.com,264.146.7173x1349,15170.4
+379,Product 379,Electronics,2020-07-04,West,Germany,South Carlos,54,995.86,0.25,379,John Vazquez,darryl48@bender.com,+1-473-633-3457x096,40332.33
+380,Product 380,Electronics,2024-04-07,South,Barbados,South Brittany,12,138.06,0.11,380,Connor Casey,nwilliams@quinn-beltran.com,522-297-3690,1474.4808
+381,Product 381,Beauty,2021-04-21,North,Nigeria,Jorgeview,5,476.74,0.17,381,Monica Walker,newmanandrea@johnson.com,(541)101-4442x60564,1978.4709999999998
+382,Product 382,Sports,2022-10-13,West,Israel,Greenstad,40,77.41,0.3,382,Stephanie Johnson,christina91@yahoo.com,+1-662-770-6328x48377,2167.4799999999996
+383,Product 383,Sports,2021-04-15,East,Mauritania,West Tamara,93,944.41,0.0,383,Amy Knight,gberg@carlson-sanders.net,650.048.2046,87830.12999999999
+384,Product 384,Home,2024-01-27,South,Cape Verde,Port Patricia,46,965.28,0.04,384,Sue Obrien,pcollins@norris.net,(108)483-7500x424,42626.7648
+385,Product 385,Beauty,2022-08-22,West,Grenada,Port Tammyborough,27,722.2,0.23,385,Melanie Gonzales,susan69@morris-hernandez.org,001-811-808-6836x0396,15014.538000000002
+386,Product 386,Beauty,2020-06-02,North,El Salvador,Lake Jonathonhaven,75,356.49,0.24,386,Andrew Johnson,millercheryl@gmail.com,1440058797,20319.93
+387,Product 387,Sports,2024-03-23,East,Falkland Islands (Malvinas),Williamsonland,53,261.84,0.23,387,Kayla Bonilla,amyallen@yahoo.com,001-854-089-8449,10685.6904
+388,Product 388,Clothing,2022-03-25,North,Rwanda,New Timothy,50,272.65,0.16,388,Stacy Heath,terriwyatt@yahoo.com,915.678.5184,11451.299999999997
+389,Product 389,Beauty,2021-02-14,North,Lesotho,South Brandon,92,136.02,0.29,389,Michael Hopkins,ericanderson@caldwell-kaiser.org,(539)666-6689x6863,8884.8264
+390,Product 390,Electronics,2021-04-02,North,Fiji,West Johnfort,52,530.55,0.12,390,Kayla Williams,douglasrichardson@hotmail.com,(531)876-1509x666,24277.967999999997
+391,Product 391,Home,2021-06-10,East,Tonga,Angelaside,19,150.4,0.18,391,Tanya Flores,watkinsjoseph@yahoo.com,397.739.9161x435,2343.232
+392,Product 392,Clothing,2020-11-29,North,Mauritius,New Devonfort,35,323.56,0.02,392,Margaret Porter,otorres@hotmail.com,333.783.0552,11098.108
+393,Product 393,Home,2022-04-04,South,Jamaica,South Sheri,52,630.44,0.12,393,Larry Howell,cwilliamson@young.net,785.835.2853x556,28848.934400000006
+394,Product 394,Sports,2020-12-09,West,New Caledonia,South Kristenland,31,730.27,0.22,394,Kenneth Duarte,pperry@phillips.net,755-186-5153,17657.9286
+395,Product 395,Clothing,2023-10-09,North,Macedonia,Port Adam,54,34.03,0.07,395,Andrea Bailey,millerwilliam@hotmail.com,971-384-8069x9014,1708.9866
+396,Product 396,Beauty,2021-12-23,East,United Arab Emirates,Reedburgh,59,435.81,0.28,396,Troy Ingram,lewiseddie@gmail.com,(898)220-9118x4642,18513.2088
+397,Product 397,Clothing,2023-05-18,West,Ireland,Robertland,44,655.6,0.21,397,Jacob Daugherty,melissa86@patterson-hill.biz,427-615-7499,22788.656000000003
+398,Product 398,Home,2020-06-05,West,Chad,Smithton,56,854.71,0.09,398,Katie Morris,matthew76@hotmail.com,(189)611-3143x3128,43556.0216
+399,Product 399,Electronics,2022-07-21,West,Angola,East Lisamouth,19,480.57,0.23,399,Mr. Keith Gonzalez,janetrussell@gmail.com,784.821.1998,7030.7391
+400,Product 400,Electronics,2021-03-15,North,Zambia,Davisfurt,46,969.51,0.02,400,Heidi Harris,andre33@hotmail.com,(215)374-0012x35543,43705.5108
+401,Product 401,Electronics,2020-01-02,North,South Africa,Lake Laurieburgh,88,272.98,0.29,401,Andrea Flores,lopezrichard@ball-perez.org,586.425.8140x71631,17055.7904
+402,Product 402,Sports,2020-07-26,West,Bolivia,New Sylvia,66,23.37,0.01,402,Christina Mitchell,joeconley@evans-campbell.org,(437)496-6913x40547,1526.9958000000001
+403,Product 403,Beauty,2023-04-28,East,New Zealand,East Joseph,71,488.92,0.28,403,Bradley Jones,schneiderandrew@crosby.com,333-585-8120x0431,24993.590399999997
+404,Product 404,Clothing,2022-09-21,North,Mauritania,Harristown,54,263.55,0.08,404,Sophia Carroll,laura00@yahoo.com,(545)669-4201x115,13093.164
+405,Product 405,Electronics,2022-05-05,North,Gibraltar,Brandiberg,49,825.48,0.23,405,Michelle Rodriguez,george80@ball.biz,(134)339-0368x9883,31145.360400000005
+406,Product 406,Beauty,2021-09-24,North,Cyprus,Millerland,95,240.44,0.0,406,Debra Lynn,diamondmurphy@marshall-johnson.com,147.452.3503x012,22841.8
+407,Product 407,Beauty,2021-07-01,East,United Arab Emirates,West Mariabury,60,317.52,0.08,407,Roy Moyer,ibarrajennifer@stark.com,2861019757,17527.104
+408,Product 408,Home,2023-03-31,East,Netherlands,North Kellymouth,81,793.32,0.22,408,Pamela Marshall,jacobsonkimberly@hernandez.com,+1-558-597-6914x245,50121.95760000001
+409,Product 409,Clothing,2020-03-07,North,Turks and Caicos Islands,East Todd,27,717.99,0.16,409,Jacob Richards,brianrivera@gmail.com,(166)057-8411,16284.0132
+410,Product 410,Electronics,2022-03-08,West,Estonia,Brooksbury,36,562.47,0.03,410,Allen Dawson,chadgardner@gmail.com,012.409.2620,19641.452400000002
+411,Product 411,Clothing,2020-07-16,North,Ukraine,South Leah,59,707.9,0.12,411,Wesley Henry,kathylam@barry.info,(891)075-3129x906,36754.168
+412,Product 412,Sports,2023-11-04,South,Falkland Islands (Malvinas),Hannahbury,50,424.45,0.11,412,Jessica Lam,kennethbrown@yahoo.com,445-680-4743,18888.025
+413,Product 413,Clothing,2020-07-14,East,Armenia,North David,74,15.26,0.17,413,Joseph Mitchell,vdavis@smith.net,(405)227-6219,937.2692
+414,Product 414,Electronics,2020-11-01,North,Timor-Leste,Port Derrick,45,21.24,0.2,414,Stacey Simpson,blacksuzanne@yahoo.com,718.786.4115x83351,764.64
+415,Product 415,Clothing,2024-06-26,North,Kuwait,Port Cliffordville,14,516.11,0.25,415,Bethany Friedman,brendamorgan@yahoo.com,459-554-4637,5419.155
+416,Product 416,Beauty,2023-05-14,West,Mauritania,East Eric,71,92.46,0.15,416,Cheryl Jacobson,davidadams@wilson.com,(827)337-2994,5579.960999999999
+417,Product 417,Beauty,2023-04-12,East,France,Port Jennifer,39,60.56,0.12,417,Lisa Mayo,jennifer13@pacheco-walker.net,396.927.9437x618,2078.4192000000003
+418,Product 418,Home,2022-01-05,South,Zambia,Lake Kimberlyville,40,965.86,0.04,418,Amanda Blake,ggreen@yahoo.com,810-293-4420x4223,37089.024
+419,Product 419,Sports,2020-05-21,South,Ukraine,Whitefort,9,860.41,0.24,419,Jacqueline Fuller,madelineramsey@salazar.com,948.346.4695x9031,5885.2044
+420,Product 420,Clothing,2020-09-13,South,Swaziland,Leeland,14,160.51,0.21,420,Jose Carter,heather70@gmail.com,+1-866-834-1394x683,1775.2406
+421,Product 421,Electronics,2024-05-31,South,Russian Federation,East Scottville,8,10.66,0.12,421,Kaitlin Boyle,stevensmichael@gmail.com,+1-835-341-6179,75.0464
+422,Product 422,Sports,2022-08-12,South,Equatorial Guinea,Cristiantown,81,942.25,0.16,422,Karen Garcia,melissamahoney@clayton-west.com,001-907-739-0165x529,64110.689999999995
+423,Product 423,Beauty,2022-06-05,South,Poland,Williamhaven,23,285.54,0.2,423,David Palmer,daniel36@kim.net,+1-637-177-7203x47544,5253.936000000001
+424,Product 424,Clothing,2023-09-05,East,Puerto Rico,East Paul,80,194.04,0.05,424,Rachel Richardson,phillipsvictoria@yahoo.com,(875)722-2867,14747.039999999999
+425,Product 425,Sports,2022-01-11,North,Iceland,Vazquezberg,90,694.59,0.01,425,John Rich,aaroncampbell@yahoo.com,(912)438-7059x48245,61887.969000000005
+426,Product 426,Beauty,2023-05-27,West,Chad,New Carl,9,117.81,0.1,426,Michael Sandoval,dunnrachel@shaffer.com,(884)158-6359,954.261
+427,Product 427,Beauty,2020-07-15,West,Micronesia,Ochoamouth,7,272.0,0.18,427,Marissa Wood,bennettbryan@wheeler-wilson.biz,(089)324-1669x39919,1561.2800000000002
+428,Product 428,Sports,2022-11-20,North,Czech Republic,East Shannon,82,975.34,0.15,428,John Butler,ktaylor@pitts.com,001-476-484-2085x46655,67981.198
+429,Product 429,Beauty,2022-01-31,South,United States Minor Outlying Islands,Jenniferview,72,643.07,0.21,429,Sean Campbell,peter83@hotmail.com,+1-754-503-5329x2278,36577.8216
+430,Product 430,Home,2022-08-26,South,El Salvador,Jonesmouth,85,525.47,0.25,430,Carolyn Boyle,thomas44@randall.org,+1-576-059-4435x368,33498.7125
+431,Product 431,Beauty,2022-08-07,East,Denmark,North Lindseyside,90,403.94,0.15,431,Mrs. Jennifer Becker MD,carrie67@ayala-rose.com,001-791-803-6576x16917,30901.409999999996
+432,Product 432,Beauty,2022-02-06,East,Cambodia,North Russellview,67,776.76,0.04,432,Cynthia Martinez,zavalajeff@merritt.com,+1-509-299-4012,49961.203199999996
+433,Product 433,Clothing,2020-03-03,South,Czech Republic,Conwayside,61,149.55,0.26,433,Alexis Fitzgerald,daniellewebb@yahoo.com,631-653-3460x27332,6750.687000000001
+434,Product 434,Sports,2022-03-30,South,Papua New Guinea,Susanchester,17,967.66,0.17,434,James Suarez,khansteven@gmail.com,7651294159,13653.6826
+435,Product 435,Sports,2020-04-01,East,Christmas Island,Sullivanshire,57,862.51,0.22,435,Kelly Johnson,rwalker@gmail.com,016-827-1829x00145,38347.1946
+436,Product 436,Clothing,2022-04-22,South,Switzerland,Garcialand,24,621.48,0.21,436,Sarah Butler,michael15@harmon.com,600.645.2770,11783.2608
+437,Product 437,Electronics,2021-10-14,South,Saint Martin,Schmidtbury,25,52.48,0.29,437,James Macdonald,lmason@anderson-robles.info,+1-965-120-7650x27126,931.52
+438,Product 438,Home,2024-01-01,West,Dominican Republic,Lake Timothyfort,5,703.85,0.09,438,William Nichols,tjacobs@boyd.com,(704)226-9431,3202.5175
+439,Product 439,Home,2024-02-25,West,Nauru,Lindaburgh,50,914.15,0.21,439,Teresa Gray,daniel12@mcbride-rogers.biz,001-846-199-6645x2743,36108.925
+440,Product 440,Home,2020-10-01,East,Australia,Dorishaven,88,529.33,0.11,440,Robert Holmes,rhonda88@gmail.com,+1-898-904-6450x739,41457.1256
+441,Product 441,Electronics,2022-12-24,South,Namibia,Bestfort,31,360.68,0.12,441,Sean Cherry,tracykeller@peters.org,(839)341-7491,9839.3504
+442,Product 442,Sports,2020-02-01,West,Iceland,Pamelaview,55,129.07,0.07,442,Cassidy Padilla,gomezlauren@roberts-fowler.info,(057)301-0256x245,6601.9304999999995
+443,Product 443,Clothing,2020-06-10,North,Libyan Arab Jamahiriya,Reidmouth,26,757.35,0.1,443,Elizabeth Martinez,bjohnson@hughes.com,887.536.3633x59762,17721.99
+444,Product 444,Home,2020-10-09,South,Montenegro,Bobbyton,21,886.17,0.28,444,Matthew Cox,devin36@yahoo.com,913-064-6457,13398.890399999998
+445,Product 445,Sports,2022-02-17,North,Namibia,Dawnchester,98,109.25,0.09,445,Tonya Brown,uconway@baker-martinez.com,901-267-6454,9742.915
+446,Product 446,Clothing,2024-06-12,West,Paraguay,East Patrickfort,58,761.39,0.07,446,Jessica Washington,dawn01@yahoo.com,113.206.3403x794,41069.3766
+447,Product 447,Beauty,2021-07-12,South,Bermuda,North Jasmin,24,26.89,0.17,447,Jerry Kim,gyoung@gmail.com,496.212.2148x60851,535.6487999999999
+448,Product 448,Sports,2020-08-10,South,Vietnam,Port Nathanside,28,967.38,0.08,448,Timothy Arnold,taylorheather@gmail.com,451.245.1683x283,24919.7088
+449,Product 449,Home,2022-03-16,North,Slovenia,West Reneechester,30,618.91,0.14,449,Jesse Adkins,millerdiana@yahoo.com,+1-594-038-7057x49563,15967.877999999999
+450,Product 450,Beauty,2022-10-22,North,Costa Rica,Sherrymouth,34,556.91,0.25,450,Dave Nolan,danielpatterson@perkins.net,001-976-246-7395x56314,14201.204999999998
+451,Product 451,Electronics,2024-06-27,East,Slovakia (Slovak Republic),Hubbardbury,54,302.99,0.07,451,Victoria Clark,cassandragonzalez@hotmail.com,(331)730-5393,15216.157799999999
+452,Product 452,Electronics,2022-10-25,North,Mozambique,North Jasonburgh,52,930.0,0.13,452,Cynthia Powers,dunnangela@gmail.com,(989)212-2060,42073.2
+453,Product 453,Sports,2021-09-10,North,Liberia,East Markside,87,273.25,0.18,453,Mary Black,amberenglish@johnston-fleming.com,001-338-823-9256x96387,19493.655000000002
+454,Product 454,Electronics,2022-08-12,North,Burkina Faso,Port Paulborough,8,829.87,0.16,454,Laura Watkins,allison18@conner.com,740.086.6062x745,5576.7264
+455,Product 455,Electronics,2020-05-23,North,Sri Lanka,North Ricardo,10,985.26,0.29,455,Dean Cobb,moorecharles@gmail.com,+1-652-847-9119,6995.346
+456,Product 456,Clothing,2024-05-19,South,Norfolk Island,Port Lynnburgh,55,785.56,0.2,456,Roberto Abbott,macdonaldamber@hansen-baker.com,001-687-878-0434,34564.64
+457,Product 457,Clothing,2021-03-08,South,Iran,North John,1,523.8,0.22,457,Amber Williams,diana30@gmail.com,734.873.2870,408.56399999999996
+458,Product 458,Electronics,2021-07-07,West,Equatorial Guinea,Donaldberg,84,75.41,0.29,458,William Turner,vanessa35@wong-howell.net,001-032-817-2143x361,4497.452399999999
+459,Product 459,Home,2023-08-14,North,Central African Republic,West Shaun,37,477.69,0.12,459,Angelica Castaneda,jasonpowell@hotmail.com,136.530.9064x7834,15553.586399999998
+460,Product 460,Electronics,2020-03-03,West,Anguilla,Port Laurashire,82,443.87,0.11,460,Natalie Morris,farrellmichael@hotmail.com,297.927.8946x607,32393.632600000004
+461,Product 461,Beauty,2024-03-11,West,Tuvalu,Wallacefort,21,210.77,0.01,461,Jose Hernandez MD,irussell@yahoo.com,(589)594-4849x0648,4381.9083
+462,Product 462,Home,2021-05-02,East,Guinea-Bissau,Natalieberg,4,429.35,0.06,462,Nicholas Parker,brandon53@fox-elliott.com,+1-450-327-0500,1614.356
+463,Product 463,Clothing,2023-05-01,South,Niger,Bettytown,43,364.18,0.07,463,Kyle Garcia,qjohnston@hotmail.com,620.825.2547,14563.5582
+464,Product 464,Clothing,2020-02-21,South,Cocos (Keeling) Islands,Martinezville,66,172.05,0.06,464,Sandra Garcia,james63@silva-jackson.biz,(514)641-0280x9231,10673.982
+465,Product 465,Beauty,2021-06-20,East,Congo,West Erinstad,21,446.96,0.23,465,Michelle Jackson,fmoore@burns-hatfield.com,546.092.1554x4748,7227.3432
+466,Product 466,Home,2020-03-19,South,Saint Martin,East Lindahaven,37,270.17,0.16,466,Darren Clements,woliver@suarez.biz,+1-716-051-3012x6799,8396.883600000001
+467,Product 467,Sports,2023-11-05,West,Fiji,Millerville,69,526.84,0.2,467,Deborah Cobb,whill@gmail.com,001-376-152-1838x0980,29081.568
+468,Product 468,Beauty,2022-12-03,North,Bahamas,Claytonport,81,44.81,0.25,468,Anne Greer,jonesrebecca@gmail.com,010.451.8364x9894,2722.2075
+469,Product 469,Sports,2020-09-01,South,Tunisia,Kevinfort,48,907.17,0.07,469,Nathan Lawson,jessicadecker@pacheco.net,001-344-522-9492x05862,40496.068799999994
+470,Product 470,Sports,2022-09-01,West,Namibia,Robertmouth,11,818.2,0.1,470,John Gregory,markdavis@woodward.info,960-753-6102x995,8100.180000000001
+471,Product 471,Electronics,2021-01-21,East,Guam,East Vanessaburgh,95,557.06,0.21,471,April Torres,aaronjacobson@simpson.com,449.272.4933x12970,41807.353
+472,Product 472,Sports,2020-10-16,North,Sweden,Crosston,92,853.29,0.12,472,Michael Kaufman,jlyons@johnson-adams.com,5686435789,69082.3584
+473,Product 473,Electronics,2024-02-20,West,Korea,Sarahmouth,44,962.77,0.01,473,Katrina Jackson,amber59@yahoo.com,5149764503,41938.26119999999
+474,Product 474,Sports,2023-02-26,West,Poland,North Alyssa,64,119.42,0.13,474,Bethany Franklin,adyer@gmail.com,(905)600-2580x0968,6649.3056
+475,Product 475,Sports,2020-02-29,South,Maldives,Crawfordtown,32,634.52,0.27,475,Melody Jackson DVM,obennett@cook-howell.com,216.414.2763,14822.3872
+476,Product 476,Electronics,2023-12-27,West,South Africa,Aguirreburgh,21,998.01,0.12,476,Nicole Wells,petertaylor@brown.com,001-325-821-7990x9650,18443.2248
+477,Product 477,Beauty,2021-05-16,West,Northern Mariana Islands,Cookchester,71,988.01,0.1,477,Ana Valencia,baxterstephen@gmail.com,603.385.7909,63133.83900000001
+478,Product 478,Clothing,2021-07-28,South,Malawi,West Ericton,10,607.29,0.3,478,Melanie Barrett,scottamanda@gmail.com,+1-705-033-0582x334,4251.03
+479,Product 479,Home,2023-12-21,West,Moldova,Savagemouth,61,136.74,0.19,479,Elizabeth Allen,nicholashall@gmail.com,+1-210-924-7236x74159,6756.323400000001
+480,Product 480,Sports,2024-05-10,South,Macedonia,Brettchester,92,587.36,0.11,480,Mary Riddle,nicholewatson@yahoo.com,(156)047-3905x205,48093.0368
+481,Product 481,Sports,2020-12-27,West,Nauru,Cunninghamville,36,12.04,0.03,481,Mark Cochran,laura10@yahoo.com,361.267.1724,420.43679999999995
+482,Product 482,Beauty,2020-12-13,West,Uzbekistan,Port Shannon,84,206.92,0.24,482,Cynthia Davis,brian87@kramer.com,+1-068-122-3038x8502,13209.772799999999
+483,Product 483,Beauty,2021-03-01,North,Libyan Arab Jamahiriya,New Lisa,77,956.56,0.21,483,Victoria Miller,tylerdodson@gibson.biz,397-084-0701,58187.544799999996
+484,Product 484,Beauty,2022-03-21,East,Venezuela,Port Ericmouth,19,337.14,0.28,484,Dr. Yvonne Prince,batkins@hotmail.com,(632)811-3735x856,4612.075199999999
+485,Product 485,Sports,2022-01-31,East,Sudan,Jonathonshire,75,642.01,0.07,485,Crystal Weaver,rosebrianna@woods.com,(039)063-1172,44780.197499999995
+486,Product 486,Sports,2022-07-12,East,Mali,East Adamburgh,99,288.05,0.03,486,Rebecca Gilmore,brendasanchez@sanders-randall.com,+1-703-521-8779x380,27661.4415
+487,Product 487,Clothing,2020-07-30,North,Honduras,New Daniel,98,948.34,0.22,487,Alyssa Brewer,candicewoods@doyle.com,006-119-6417x028,72491.10960000001
+488,Product 488,Electronics,2021-12-19,West,Mali,Gomezland,44,731.27,0.06,488,Rebecca Smith,pdominguez@johnson-vang.com,212.106.6990x1772,30245.327199999996
+489,Product 489,Electronics,2022-07-13,South,Dominican Republic,Buckview,4,336.35,0.05,489,Katie Berry,francisco99@yahoo.com,(596)457-4559,1278.13
+490,Product 490,Clothing,2023-06-30,East,Niger,Ortizville,13,793.84,0.1,490,Brandy Hughes,bryanjessica@yahoo.com,001-024-563-2259,9287.928
+491,Product 491,Home,2022-05-08,North,Ghana,Patelshire,59,117.08,0.25,491,Tammie Arroyo,phillipsjennifer@santos.info,(546)527-1638,5180.79
+492,Product 492,Sports,2022-12-31,East,Tajikistan,North Matthew,2,398.4,0.16,492,Kevin Hamilton,woodjacob@curry.com,(982)264-8102x751,669.3119999999999
+493,Product 493,Sports,2021-04-17,West,Bulgaria,Kaitlinside,1,229.01,0.01,493,Joseph Johnson,ashleybradshaw@hotmail.com,1845683502,226.7199
+494,Product 494,Home,2023-03-18,North,French Polynesia,Whiteville,40,686.89,0.14,494,Emily Ramsey,timothy44@gmail.com,+1-129-620-8420x07947,23629.016
+495,Product 495,Home,2022-02-20,North,Senegal,Lake Christineville,25,111.42,0.21,495,Daniel Clark,rojasashley@bell.com,152-506-4240x42924,2200.545
+496,Product 496,Electronics,2020-04-06,South,Holy See (Vatican City State),North Angela,59,403.06,0.16,496,Patrick Smith,christopher94@dougherty.biz,(152)816-7977,19975.6536
+497,Product 497,Beauty,2020-10-29,West,Bermuda,North Tracy,37,283.88,0.17,497,Eric Adams,suzanne76@hotmail.com,001-318-264-8499x504,8717.9548
+498,Product 498,Home,2022-09-30,North,Philippines,New Cynthia,70,511.28,0.07,498,Nicole Knight,ymeza@smith-guerrero.com,389.637.4205,33284.327999999994
+499,Product 499,Home,2022-12-21,West,Poland,East Richardhaven,7,356.4,0.25,499,Deborah Gray,armstrongrandy@austin-fry.com,+1-235-968-6882,1871.1
+500,Product 500,Beauty,2021-10-22,West,United Arab Emirates,Pottsville,4,709.35,0.17,500,Christopher Bailey,jonathan69@hotmail.com,(634)825-8103x0482,2355.042
+501,Product 501,Beauty,2022-12-27,West,Gibraltar,South Stanleyfurt,99,34.33,0.21,501,Dale Gibbs,michael17@gmail.com,7145360242,2684.9492999999998
+502,Product 502,Beauty,2021-06-29,North,Swaziland,Brownton,41,637.65,0.29,502,Martin Lane,robertprice@hotmail.com,+1-752-225-2219x940,18561.991499999996
+503,Product 503,Electronics,2023-12-15,West,Yemen,East Kyle,61,238.27,0.13,503,Heather Cisneros,franciscovaldez@swanson.net,851-249-7128x539,12644.9889
+504,Product 504,Clothing,2021-06-29,West,Mauritius,New Nicolemouth,34,276.02,0.26,504,Jacqueline Evans,valerie31@hotmail.com,1041078519,6944.6632
+505,Product 505,Clothing,2020-09-21,South,Kuwait,East Dawnton,29,802.25,0.0,505,Jacob Fernandez,pageeric@yahoo.com,332.866.7789x6557,23265.25
+506,Product 506,Clothing,2021-08-22,South,Nauru,South Kelli,69,956.01,0.01,506,Richard Davis,julianrosales@gilbert.com,410.727.3027,65305.0431
+507,Product 507,Home,2021-05-09,East,Oman,New Judy,27,323.38,0.18,507,Luke Sellers,peggy92@bender.com,001-473-348-5656x4560,7159.633200000001
+508,Product 508,Home,2021-12-08,West,Slovakia (Slovak Republic),Robinsonton,97,828.54,0.09,508,Stephen Logan,nathanmcfarland@martin.com,787-225-8170x829,73135.2258
+509,Product 509,Electronics,2023-12-25,West,Micronesia,Lake Alexis,52,112.95,0.07,509,Patrick Rosales,westcarly@gmail.com,001-033-546-3112x394,5462.262
+510,Product 510,Electronics,2023-05-30,South,Saint Helena,Jessicafurt,74,637.64,0.08,510,Tiffany Tate,lisasullivan@yahoo.com,846-192-6768,43410.531200000005
+511,Product 511,Beauty,2022-09-06,East,Cote d'Ivoire,Francisborough,54,753.52,0.1,511,Ana Moyer,williamsmary@gmail.com,416-660-6968x859,36621.072
+512,Product 512,Beauty,2022-12-28,North,Bosnia and Herzegovina,Port Seanview,70,164.42,0.22,512,David Hines,iramirez@lynn.com,521-047-7821,8977.332
+513,Product 513,Clothing,2021-02-15,East,Congo,East Steven,34,431.74,0.17,513,Dennis Turner,brianlambert@white-green.com,703-279-4490,12183.7028
+514,Product 514,Beauty,2021-04-26,East,Syrian Arab Republic,New Brianmouth,8,893.78,0.24,514,William Mitchell,esims@yahoo.com,(877)998-4530x6335,5434.1824
+515,Product 515,Sports,2020-12-09,South,Guam,New Jeremy,95,112.54,0.25,515,Joanne Hamilton,melissa38@gmail.com,001-845-745-6216x02990,8018.475
+516,Product 516,Electronics,2022-04-22,East,Bulgaria,North James,73,27.92,0.25,516,Shannon Whitaker,jhendrix@bush-rogers.com,(141)905-1930x5218,1528.6200000000001
+517,Product 517,Clothing,2021-04-15,West,Netherlands Antilles,Nelsonbury,85,594.68,0.12,517,Michael Garcia,samantha39@thornton.org,+1-947-979-9835x182,44482.064
+518,Product 518,Home,2021-01-12,North,Iraq,Barbarafurt,8,441.18,0.13,518,Ronald Adams,ginasanchez@gates-edwards.org,001-809-867-9925x9106,3070.6128
+519,Product 519,Beauty,2023-06-06,South,Gambia,Donaldton,68,800.7,0.28,519,Cynthia Garrett,barkereric@gmail.com,453-349-4597,39202.272000000004
+520,Product 520,Electronics,2021-03-16,East,Senegal,Karaport,86,924.22,0.2,520,Jennifer Cowan,jcampbell@gmail.com,001-089-357-2552,63586.336
+521,Product 521,Sports,2022-10-13,South,Falkland Islands (Malvinas),Brianside,92,306.16,0.02,521,Danielle Floyd,amymartinez@yahoo.com,204-925-5619x9197,27603.3856
+522,Product 522,Beauty,2020-10-23,East,Wallis and Futuna,Longtown,68,394.52,0.16,522,Terry Brown,isuarez@hotmail.com,(004)834-4417,22534.9824
+523,Product 523,Beauty,2023-10-31,East,Yemen,East Jennifer,85,491.41,0.11,523,Connie Smith,morascott@decker-johnson.com,(406)601-9621x813,37175.1665
+524,Product 524,Beauty,2021-02-28,West,Estonia,East Rhonda,72,592.27,0.3,524,Matthew Martinez,hickmanaimee@yahoo.com,+1-246-877-3698x1963,29850.408
+525,Product 525,Electronics,2021-04-18,North,Gabon,Andersenton,84,984.02,0.0,525,Vincent Hunt,cartercarly@yahoo.com,001-697-858-9746x043,82657.68
+526,Product 526,Electronics,2024-01-29,East,Eritrea,West Michael,96,700.36,0.18,526,Jacob Scott,daniel86@hotmail.com,001-595-115-6317,55132.3392
+527,Product 527,Beauty,2021-03-01,West,Serbia,East Bruceborough,1,395.65,0.22,527,Paul Mann,castillomitchell@hotmail.com,(246)403-3312,308.60699999999997
+528,Product 528,Clothing,2021-05-30,North,Australia,Lake Robert,6,271.13,0.09,528,Anna Campos,elizabethjohnson@holmes.com,662-087-6522x90314,1480.3698
+529,Product 529,Electronics,2022-05-22,West,Armenia,East Kaitlinstad,92,945.18,0.29,529,Amy Estes,danielfernandez@gmail.com,(055)523-0276x7203,61739.1576
+530,Product 530,Electronics,2020-07-22,East,Argentina,Amandaborough,31,144.19,0.26,530,Samantha Campbell,denise77@yahoo.com,913-548-2278,3307.7186
+531,Product 531,Sports,2022-11-02,West,New Zealand,Angelaton,74,723.06,0.27,531,Michael Nguyen,iroberts@wilson-torres.com,155.430.2406x091,39059.701199999996
+532,Product 532,Sports,2020-06-17,South,Syrian Arab Republic,North Bryan,84,926.14,0.01,532,Francisco Woodard Jr.,batesdestiny@gmail.com,2694579180,77017.8024
+533,Product 533,Clothing,2021-09-23,East,Malta,New Adamberg,8,668.02,0.17,533,John Greene,danielbrown@hotmail.com,001-355-867-0706x111,4435.6528
+534,Product 534,Home,2020-03-05,South,Netherlands Antilles,West Lauraton,22,428.82,0.09,534,Carrie Pacheco,john57@hotmail.com,151.188.1991x17253,8584.9764
+535,Product 535,Electronics,2022-10-19,South,San Marino,Port Mikaylashire,93,207.0,0.25,535,David Morrison,breanna57@long-brown.info,(499)363-0095,14438.25
+536,Product 536,Sports,2022-08-03,North,Rwanda,Danaview,9,373.8,0.19,536,Shawn Campbell,smithronald@petersen.com,001-054-062-7372x74028,2725.0020000000004
+537,Product 537,Home,2020-12-25,East,British Indian Ocean Territory (Chagos Archipelago),Port Charlenebury,44,709.8,0.16,537,Amanda Bentley,beckerkristie@gmail.com,+1-703-332-2447x33050,26234.207999999995
+538,Product 538,Clothing,2020-10-02,South,Bahrain,Juliaburgh,47,653.04,0.03,538,Jonathan Elliott,hgomez@gmail.com,405-686-6894x661,29772.093599999997
+539,Product 539,Beauty,2022-06-17,North,Taiwan,Cookton,1,928.7,0.16,539,Christopher Ward,michellemathis@davis-stephens.org,(099)611-9470x473,780.1080000000001
+540,Product 540,Beauty,2023-02-28,West,Tokelau,East Autumnchester,52,868.19,0.19,540,Jessica Mayer,jasonmorales@hotmail.com,512-703-8788x03736,36568.162800000006
+541,Product 541,Electronics,2022-05-21,West,Barbados,Lake Derekland,39,817.99,0.29,541,Lauren Jackson,kerri73@yahoo.com,140-619-2434,22650.143099999998
+542,Product 542,Electronics,2022-07-24,West,Azerbaijan,Shelbyshire,90,912.34,0.18,542,Phillip Kim,handerson@hotmail.com,(201)570-1275x63951,67330.69200000001
+543,Product 543,Sports,2021-12-06,North,Mali,Johnville,75,283.57,0.29,543,Veronica Harris,rkline@yahoo.com,(994)724-7662,15100.102499999999
+544,Product 544,Beauty,2023-01-31,North,Montenegro,Justinberg,99,375.83,0.29,544,Jeremy Harmon,oking@cole.com,637-126-5057,26417.090699999997
+545,Product 545,Sports,2020-10-07,West,Papua New Guinea,East Timothyside,88,386.09,0.2,545,Natalie Pope,andersenmarissa@moses.org,842.425.2570,27180.736
+546,Product 546,Home,2024-05-30,South,Liberia,Emmafurt,97,564.85,0.15,546,Courtney Herman,cynthia67@mason.com,(680)255-0749,46571.8825
+547,Product 547,Electronics,2023-06-25,South,Burkina Faso,East Chelseaport,84,671.54,0.14,547,Sabrina Peterson,wjoseph@wilson.com,(299)303-9144,48512.0496
+548,Product 548,Sports,2023-11-20,South,Spain,Deborahborough,27,293.85,0.27,548,Charles Harris,bonillagregory@evans-sheppard.com,+1-652-731-2454x122,5791.7835000000005
+549,Product 549,Home,2023-04-07,South,Turkmenistan,Glendabury,79,29.27,0.01,549,Joseph Cardenas,andrew69@orr-fuller.com,539.314.8451,2289.2066999999997
+550,Product 550,Clothing,2022-06-14,South,Ecuador,Reynoldsside,33,405.23,0.03,550,Kelly Holmes,kbailey@pittman.info,653.414.9967x8541,12971.4123
+551,Product 551,Beauty,2024-05-30,South,Papua New Guinea,Perezfort,71,315.44,0.03,551,Justin Lucero,soniacameron@lee.com,+1-027-818-9301x5022,21724.3528
+552,Product 552,Home,2024-07-10,North,Taiwan,Bridgesfort,98,942.76,0.23,552,James Miller,ashleydavis@yahoo.com,358-772-4557x02317,71140.6696
+553,Product 553,Electronics,2021-09-13,South,South Africa,North Stevenfurt,45,889.38,0.1,553,Shawna Moore,morrissarah@green-thompson.com,001-550-001-9771x57833,36019.89
+554,Product 554,Sports,2024-03-22,West,Myanmar,Rojasview,60,861.71,0.19,554,Brian Beck,johnbrown@yahoo.com,868.266.1018,41879.10600000001
+555,Product 555,Clothing,2022-04-17,East,Jamaica,Michaelhaven,58,656.47,0.18,555,David Berger,nholland@nelson.com,+1-713-775-4849x9579,31221.713200000006
+556,Product 556,Electronics,2022-02-20,East,Singapore,Jeffreyland,51,350.85,0.12,556,Bobby Barton,robert21@gmail.com,(118)223-5098x9834,15746.148000000003
+557,Product 557,Beauty,2022-11-20,East,Pitcairn Islands,Jonathantown,46,553.36,0.16,557,Matthew Hansen,jcochran@yahoo.com,521.134.7489x6646,21381.8304
+558,Product 558,Beauty,2023-10-17,North,Holy See (Vatican City State),Christopherland,5,817.07,0.19,558,Robert Nguyen,rsandoval@hotmail.com,(665)986-6747x25520,3309.1335000000004
+559,Product 559,Home,2020-06-27,West,United States Virgin Islands,Jessicachester,58,107.62,0.28,559,Ian Newman,hgill@gmail.com,3749649711,4494.2112
+560,Product 560,Clothing,2023-03-09,East,South Georgia and the South Sandwich Islands,South Carmenport,94,803.06,0.17,560,Heather Rios,cjensen@rodriguez-allen.info,001-884-055-0142x150,62654.7412
+561,Product 561,Beauty,2023-07-09,South,Malawi,Brownmouth,92,50.77,0.18,561,Nicholas Anderson,dgaines@carter.org,001-540-408-5972x77174,3830.0888000000004
+562,Product 562,Home,2024-04-25,East,Cape Verde,Port Tammyville,18,818.26,0.02,562,Aaron Lee,anthony47@villarreal-gregory.net,4104351106,14434.1064
+563,Product 563,Electronics,2023-10-29,East,Cook Islands,Bowersfurt,36,809.49,0.29,563,Jesse Hahn,anthonymichelle@curry-mckay.net,785-266-8652x81214,20690.5644
+564,Product 564,Electronics,2023-08-26,South,Malta,Emmaport,67,60.5,0.16,564,Kelly Lamb,sarahwilliams@gmail.com,597-609-9865x245,3404.94
+565,Product 565,Electronics,2021-02-21,West,Vanuatu,Port Luis,21,630.89,0.24,565,Stephanie Mendez,justinherrera@gmail.com,1681711867,10069.0044
+566,Product 566,Beauty,2023-04-05,East,Seychelles,West Tracyland,46,507.43,0.02,566,Jessica Fox,wilsonrobert@hotmail.com,+1-918-752-6202x0390,22874.944399999997
+567,Product 567,Home,2020-08-29,South,Latvia,Davidville,58,178.12,0.13,567,Bryan Jackson,peckjorge@smith.info,(886)664-3184x4367,8987.9352
+568,Product 568,Electronics,2024-02-28,West,Iceland,South Stevenland,80,156.9,0.08,568,John Brown,jasonforbes@yahoo.com,819.954.2729x8759,11547.84
+569,Product 569,Sports,2020-06-19,East,Jersey,South Erinview,37,775.53,0.08,569,Amy Roth,zwells@schaefer-brown.net,+1-591-827-1322x89144,26399.041200000003
+570,Product 570,Sports,2022-10-24,West,Uganda,Lake Elizabethborough,63,572.02,0.24,570,Ashley Hernandez,brooksmeredith@thompson.biz,(586)812-8666x83102,27388.317600000002
+571,Product 571,Sports,2021-03-28,West,Grenada,Jesusport,5,983.17,0.19,571,Erika Andrews,dclark@thompson.com,(311)865-5613x26267,3981.8385
+572,Product 572,Clothing,2020-01-02,East,Saint Pierre and Miquelon,Trujillobury,78,982.43,0.13,572,Mandy Fowler,tjohnson@garza-ford.net,938.300.9896x54515,66667.69979999999
+573,Product 573,Clothing,2021-01-29,West,Bolivia,Lisaport,31,992.74,0.0,573,Adam Kelly,drodriguez@hotmail.com,103.078.4882,30774.94
+574,Product 574,Electronics,2021-05-23,West,Bahrain,Lake Andrea,88,127.43,0.29,574,Kristine Dominguez,kpatterson@robertson.com,001-587-489-8036x4672,7961.8264
+575,Product 575,Sports,2023-01-10,North,United Kingdom,Shermanborough,99,938.87,0.29,575,Michael Sanchez,victoriasanchez@davila.com,+1-168-973-8924x860,65993.1723
+576,Product 576,Sports,2023-11-08,South,French Southern Territories,Waynehaven,36,252.12,0.07,576,Mrs. Dominique Duncan,qcurtis@yahoo.com,590-977-0129,8440.977599999998
+577,Product 577,Beauty,2021-08-24,South,Antigua and Barbuda,Bradyborough,74,463.63,0.01,577,Kurt Kim,scott55@sanchez-reed.com,(048)758-9285,33965.533800000005
+578,Product 578,Sports,2021-06-01,North,Cocos (Keeling) Islands,West Morganberg,91,759.83,0.16,578,Lydia Duran,jenniferpreston@hotmail.com,+1-584-973-6541x116,58081.405199999994
+579,Product 579,Home,2021-04-22,North,Yemen,Millerfurt,56,211.58,0.29,579,Colleen Williams,rachellarson@gmail.com,059.910.2449,8412.4208
+580,Product 580,Electronics,2023-07-09,South,Cote d'Ivoire,Nathanstad,27,570.65,0.27,580,Michael Kelly,holly37@hotmail.com,065.111.5229x756,11247.511499999999
+581,Product 581,Clothing,2020-03-27,North,Niger,Heatherport,23,193.96,0.18,581,Bradley Perez,michaelbullock@hahn-berg.info,001-043-684-8551x4784,3658.0856000000003
+582,Product 582,Beauty,2023-05-15,East,Holy See (Vatican City State),Wongfort,77,113.69,0.09,582,Mark Taylor,suttonjason@griffith.com,541.312.8740,7966.2582999999995
+583,Product 583,Sports,2021-09-07,South,New Zealand,Marioburgh,80,125.39,0.1,583,Gregory Turner,mdavis@gmail.com,219.225.9443x870,9028.080000000002
+584,Product 584,Beauty,2020-12-17,West,Netherlands,East Elizabeth,99,364.06,0.27,584,Laura Lang,deannakelly@sanders-lester.com,3094149151,26310.6162
+585,Product 585,Electronics,2021-05-18,North,Austria,North Peggy,91,14.61,0.15,585,Amanda Anderson,leebenjamin@jackson.biz,520-768-0126x82124,1130.0835
+586,Product 586,Electronics,2023-05-07,North,Lesotho,Nicholasfurt,52,430.61,0.04,586,Gary Monroe,francisjeffrey@yahoo.com,076-204-3073,21496.0512
+587,Product 587,Beauty,2024-07-09,North,Pakistan,East Richard,47,667.56,0.07,587,Gabrielle Lawson,brian16@tate.org,001-331-062-3906x6913,29179.047599999994
+588,Product 588,Electronics,2021-05-10,North,Guinea,Port Sarahland,81,407.67,0.08,588,Jesus Smith,susan69@freeman.net,704.706.3418,30379.568400000004
+589,Product 589,Electronics,2020-05-10,East,Nigeria,West Brendamouth,62,94.94,0.04,589,Roger Cook,dianewhite@chen-freeman.com,641.501.7038x217,5650.828799999999
+590,Product 590,Beauty,2021-08-26,West,Swaziland,South Dawn,61,72.06,0.14,590,Connor Anderson,mgould@gmail.com,173-311-7251,3780.2675999999997
+591,Product 591,Clothing,2023-09-16,East,Papua New Guinea,Port Roger,48,285.34,0.27,591,Kristen Johnson,simmonsrussell@johnson.com,365-690-6640x676,9998.3136
+592,Product 592,Electronics,2024-02-29,North,South Georgia and the South Sandwich Islands,Port Tonyafurt,1,177.62,0.2,592,Kelsey Parrish,iclayton@white-atkins.com,(080)836-4549x7417,142.096
+593,Product 593,Beauty,2022-12-10,West,Anguilla,Davidport,11,965.44,0.02,593,James Gonzalez,xdunn@king.info,533.814.6262,10407.4432
+594,Product 594,Beauty,2023-01-29,East,Costa Rica,Ellisstad,76,159.72,0.0,594,Brian Pugh,lopezkim@reid-jones.com,+1-688-160-5663,12138.72
+595,Product 595,Beauty,2022-01-18,East,Samoa,Carolynbury,14,807.41,0.08,595,Chad Bennett,christinawhite@rodriguez.net,+1-233-461-9319x55703,10399.4408
+596,Product 596,Electronics,2020-12-23,West,Iraq,Lake Jeromefurt,72,590.25,0.11,596,Dr. Adrienne Cochran,webertimothy@yahoo.com,452.180.5159x5234,37823.22
+597,Product 597,Beauty,2023-06-09,South,India,Allenville,95,573.59,0.23,597,Michael Cobb,valerienicholson@gmail.com,001-388-559-3322x287,41958.1085
+598,Product 598,Home,2023-11-19,South,Antigua and Barbuda,Perezview,7,516.96,0.29,598,Laura Ayala,preston29@hotmail.com,001-835-085-8671x452,2569.2912
+599,Product 599,Home,2024-06-30,North,Lao People's Democratic Republic,Larsonfort,46,972.05,0.12,599,Kathy Doyle,thomas90@yahoo.com,001-223-124-5986x2061,39348.583999999995
+600,Product 600,Electronics,2020-12-06,South,Holy See (Vatican City State),Kellyborough,31,370.21,0.21,600,Bethany Jackson,pflores@gmail.com,(521)222-8648x646,9066.4429
+601,Product 601,Home,2024-04-30,North,Bahrain,South John,16,790.04,0.3,601,Michael Mcintosh,andrew85@hotmail.com,001-616-198-0586x70028,8848.447999999999
+602,Product 602,Electronics,2020-08-08,South,French Guiana,Jacksonton,42,559.74,0.22,602,Destiny Jackson,allenaaron@yahoo.com,001-258-980-3828x3561,18337.082400000003
+603,Product 603,Electronics,2021-01-18,West,Comoros,East Denniston,39,401.68,0.19,603,Samuel Frazier,heather77@yahoo.com,708-479-3264x50311,12689.0712
+604,Product 604,Home,2023-07-20,South,Netherlands,Beardland,54,955.91,0.02,604,Michelle Wolf,christianmiranda@gmail.com,642-748-2182,50586.7572
+605,Product 605,Electronics,2024-01-25,West,United Kingdom,Mooreburgh,44,602.33,0.1,605,Katie Cooper,christine28@hotmail.com,832.774.5665x560,23852.268
+606,Product 606,Home,2021-01-02,West,Guinea-Bissau,West Hayley,83,127.73,0.27,606,Charles Johnson,fdaugherty@hotmail.com,7800809302,7739.1607
+607,Product 607,Home,2022-12-30,East,Puerto Rico,New Kirkfurt,8,423.36,0.06,607,Scott Mcdonald,hoffmancole@hotmail.com,5797613129,3183.6672
+608,Product 608,Clothing,2023-06-05,North,Madagascar,East Eric,93,783.77,0.25,608,Justin Green,danielwilliams@gmail.com,+1-692-730-1996x868,54667.957500000004
+609,Product 609,Electronics,2023-08-20,South,Ireland,Ronnieborough,66,696.81,0.21,609,Teresa Mitchell,bsweeney@gmail.com,001-465-579-6854x93543,36331.6734
+610,Product 610,Clothing,2020-09-12,West,Guyana,Mayostad,42,917.18,0.11,610,Christian Jones,dawntaylor@yahoo.com,001-802-879-3961x914,34284.1884
+611,Product 611,Home,2022-02-07,South,Seychelles,Aaronhaven,67,266.78,0.16,611,Teresa Jones,imcbride@hotmail.com,661-957-1451x15890,15014.378399999998
+612,Product 612,Electronics,2024-05-02,West,Falkland Islands (Malvinas),North Heatherview,93,760.61,0.16,612,David Harris,glen79@hotmail.com,+1-571-197-5649x8329,59418.8532
+613,Product 613,Sports,2021-04-09,North,Madagascar,East Christian,79,465.28,0.21,613,Christopher Yates,heatherschmitt@spears-simpson.org,663.438.0012x504,29038.124799999998
+614,Product 614,Clothing,2022-05-27,West,Venezuela,North Ashleyfurt,92,577.87,0.15,614,Norman Diaz,calvin45@smith.org,(497)535-8569x089,45189.434
+615,Product 615,Clothing,2022-03-10,North,Lithuania,West Josemouth,32,955.5,0.04,615,Joshua Garcia,knoxdarlene@cox.com,618.897.9069,29352.96
+616,Product 616,Electronics,2023-08-15,West,Lithuania,Walkerchester,94,979.49,0.23,616,Rebecca Ball,jeremy26@reid.net,303-159-4090x4965,70895.4862
+617,Product 617,Clothing,2023-12-24,East,Marshall Islands,Jonathanton,51,862.98,0.12,617,Stephanie Jones,xgutierrez@hotmail.com,001-737-648-4647,38730.542400000006
+618,Product 618,Electronics,2024-06-25,South,Malawi,South Alicia,47,365.51,0.29,618,Alyssa Stewart,franciscohartman@gmail.com,001-032-185-6517x256,12197.0687
+619,Product 619,Electronics,2023-07-02,West,Barbados,West Alexandrashire,94,888.82,0.09,619,Lori Phelps,reynoldsjill@parker.com,794-973-8504x8178,76029.6628
+620,Product 620,Home,2020-05-03,North,Uruguay,Andrewton,34,642.22,0.08,620,Amy Woodard,mwilliams@hotmail.com,001-873-603-0571,20088.6416
+621,Product 621,Home,2021-01-06,West,Albania,West Martin,13,435.7,0.1,621,Elizabeth Thomas,paul27@gmail.com,(998)587-0303,5097.69
+622,Product 622,Electronics,2020-01-14,North,Saint Barthelemy,Martinbury,97,45.39,0.17,622,Emily Lopez,reeveswilliam@yahoo.com,3731681916,3654.3489
+623,Product 623,Sports,2022-12-24,East,Peru,Port Michellehaven,81,772.43,0.27,623,David Burgess,williampatton@gmail.com,001-742-104-8875,45673.785899999995
+624,Product 624,Clothing,2020-05-01,West,Solomon Islands,North Angelica,67,507.08,0.05,624,Andrew Walker,kristyarmstrong@kelly.info,5513941124,32275.642
+625,Product 625,Clothing,2023-01-28,West,Gabon,Jessicaberg,73,788.33,0.08,625,Toni Chase,martinrobert@howard.org,(731)694-9946,52944.24280000001
+626,Product 626,Clothing,2024-06-14,West,Philippines,North Kelly,11,750.54,0.17,626,Abigail Friedman,davisantonio@chung.com,(717)000-5278,6852.430199999999
+627,Product 627,Beauty,2020-07-08,East,Gabon,West Megan,91,795.63,0.14,627,William Dillon,marksmith@gmail.com,+1-297-986-7079x72400,62266.0038
+628,Product 628,Electronics,2023-12-07,South,Greece,Lake Ericstad,28,307.64,0.13,628,Randy Shepard,mackenziethompson@jensen.info,578.795.9367,7494.1104
+629,Product 629,Beauty,2020-01-02,South,Cameroon,Laurenstad,57,802.79,0.25,629,Catherine Malone,xferguson@cunningham-wells.com,677.025.9220x90509,34319.2725
+630,Product 630,Home,2021-10-06,East,Somalia,Youngport,66,553.36,0.28,630,Nathan Lewis,elizabethsmith@acosta.com,658-270-4927,26295.6672
+631,Product 631,Home,2021-01-02,South,Svalbard & Jan Mayen Islands,North Hannah,65,478.59,0.14,631,Joe Davis,ckerr@chen.biz,001-344-458-6060x78811,26753.180999999997
+632,Product 632,Clothing,2023-04-26,East,Greece,Michaelmouth,70,678.37,0.21,632,Samantha Smith,amber19@deleon.com,+1-755-007-9298,37513.861000000004
+633,Product 633,Electronics,2023-10-25,South,Senegal,Patriciaside,89,31.15,0.24,633,Denise Scott,claytonpotter@mitchell.biz,001-431-849-3612x563,2106.986
+634,Product 634,Clothing,2021-06-08,West,Kenya,Robertport,35,111.29,0.16,634,Brenda Perez,ianclark@barr.com,393-548-2700x434,3271.926
+635,Product 635,Home,2024-05-25,North,Northern Mariana Islands,Nicholaschester,80,299.26,0.09,635,Cynthia Townsend,mackedward@hotmail.com,018-224-7186x40819,21786.128
+636,Product 636,Home,2020-09-16,North,Greenland,West Melissachester,4,983.16,0.19,636,Catherine Goodman,ebonythomas@hernandez.com,001-447-288-4336,3185.4384
+637,Product 637,Beauty,2023-11-22,West,Saint Barthelemy,Christensenstad,61,148.35,0.18,637,Raymond Roberts,laura61@hotmail.com,(250)432-5239x5408,7420.467000000001
+638,Product 638,Home,2024-03-09,West,Tunisia,Jacksonmouth,38,337.29,0.27,638,Allen Wolf,susan84@wilson.net,001-757-406-3825x4534,9356.4246
+639,Product 639,Home,2023-06-10,West,Honduras,Dalemouth,44,60.54,0.02,639,William Johnson,lisalove@gmail.com,805-192-3543,2610.4847999999997
+640,Product 640,Sports,2022-07-05,North,United Arab Emirates,East Samuelstad,84,337.96,0.27,640,Jamie Thomas,mendozamichelle@evans.org,(168)938-7924x91033,20723.7072
+641,Product 641,Home,2020-07-12,East,Armenia,North Curtisshire,89,327.12,0.16,641,Mary Dickerson,gibsonhannah@yahoo.com,001-473-934-7414x815,24455.4912
+642,Product 642,Clothing,2023-12-01,West,Cook Islands,Saratown,71,947.34,0.0,642,Caleb Carpenter,earlgraves@martinez-clark.com,(879)052-4039x1531,67261.14
+643,Product 643,Sports,2020-10-24,South,Japan,Elizabethshire,21,846.7,0.1,643,Benjamin Becker,donaldguzman@li.com,778.027.2339x454,16002.630000000001
+644,Product 644,Electronics,2020-02-24,North,Poland,West Amy,7,388.94,0.22,644,Victoria Richardson,dsimmons@gmail.com,001-288-183-5904x027,2123.6124
+645,Product 645,Electronics,2021-12-17,East,Belize,South Monica,29,34.52,0.15,645,Luis Davis,charleneharris@yahoo.com,706-125-4814x08390,850.918
+646,Product 646,Sports,2022-10-29,South,Moldova,Diazfurt,7,832.72,0.29,646,Jessica Caldwell,maloneronald@hotmail.com,+1-386-659-6687,4138.618399999999
+647,Product 647,Sports,2021-10-01,East,United States Minor Outlying Islands,North Ashleyport,67,663.93,0.13,647,Jamie Edwards DDS,leegina@hotmail.com,+1-005-386-6595x20994,38700.479699999996
+648,Product 648,Home,2023-05-28,North,Isle of Man,Boothburgh,93,160.84,0.1,648,Gregory Baker,bwhite@gregory.com,(540)548-8493x1430,13462.308
+649,Product 649,Clothing,2023-04-23,South,Ireland,Port Lisa,93,996.11,0.25,649,Alex Nunez,sandralee@crawford.com,925-174-4405,69478.6725
+650,Product 650,Beauty,2020-10-04,North,Bouvet Island (Bouvetoya),Jamesmouth,70,109.23,0.16,650,Paul Taylor,leekenneth@taylor.com,077-088-6630x9703,6422.724
+651,Product 651,Clothing,2021-12-04,South,Isle of Man,South April,74,868.44,0.2,651,Gabriel Cunningham,laura13@gmail.com,+1-006-133-1321,51411.64800000001
+652,Product 652,Clothing,2020-12-06,South,Lithuania,Ramoston,55,301.32,0.24,652,Todd Ortega,alexedwards@smith.com,532.382.3272x4307,12595.176
+653,Product 653,Clothing,2024-04-14,North,Guernsey,Boylebury,78,441.0,0.2,653,Robert Burns,tatetracy@yahoo.com,034-270-7528,27518.4
+654,Product 654,Home,2024-03-11,North,Hungary,West Edwardhaven,22,797.5,0.13,654,David Herrera,riverarachel@soto.com,766-855-5982x0381,15264.15
+655,Product 655,Sports,2023-02-11,West,Nauru,East Scott,32,680.73,0.04,655,Jamie Collins,barnettshannon@hotmail.com,964-540-0811,20912.0256
+656,Product 656,Clothing,2023-10-25,West,Kenya,Port Johnshire,82,938.49,0.17,656,Michelle Hayes,jonesgregory@hotmail.com,+1-725-344-1198,63873.629400000005
+657,Product 657,Clothing,2022-11-30,North,Falkland Islands (Malvinas),Port Danielburgh,36,624.93,0.27,657,Susan Adams,levypaul@moses.com,+1-600-036-9854x4447,16423.1604
+658,Product 658,Clothing,2022-06-06,West,Jersey,South Patrick,9,106.83,0.13,658,Laura Dennis,rayala@hotmail.com,(156)059-0858x36053,836.4789000000001
+659,Product 659,Home,2024-02-24,East,United Arab Emirates,Davisbury,26,885.52,0.27,659,Stephanie Stokes,gphillips@lin.com,+1-264-582-3258x20607,16807.1696
+660,Product 660,Home,2021-12-04,East,Hong Kong,New David,22,771.46,0.15,660,Amy Reid,taylortrevor@hotmail.com,470.330.2995,14426.302000000001
+661,Product 661,Beauty,2023-06-15,North,Latvia,South Rebeccaland,46,714.75,0.19,661,Blake Knox,sharonhanson@cummings.net,102-388-3685,26631.585000000003
+662,Product 662,Electronics,2023-06-06,North,Libyan Arab Jamahiriya,South Rebekah,87,63.2,0.25,662,Michael Robertson,anthonyvargas@yahoo.com,(687)472-8545,4123.8
+663,Product 663,Clothing,2023-07-12,South,Barbados,East Douglasshire,17,402.26,0.17,663,Todd Figueroa,eatkinson@yahoo.com,516.711.1534x894,5675.8886
+664,Product 664,Sports,2022-03-10,South,Macao,Boyerborough,26,175.76,0.03,664,Shannon York,wtran@clark-banks.net,(969)146-2980x3582,4432.6672
+665,Product 665,Electronics,2024-07-05,West,Lao People's Democratic Republic,South James,38,823.68,0.29,665,William Smith,jensenmelissa@yahoo.com,(471)171-4407x212,22222.886399999996
+666,Product 666,Beauty,2020-10-16,East,Senegal,Johnland,2,703.52,0.07,666,Nicole Pearson,margaret77@yahoo.com,001-561-260-7721x413,1308.5472
+667,Product 667,Electronics,2020-12-03,East,Philippines,North Ashley,6,884.25,0.21,667,Michael Johnston,jsmith@miller.com,2586190265,4191.345
+668,Product 668,Electronics,2023-02-10,South,Slovakia (Slovak Republic),Port Mitchell,71,966.91,0.15,668,James Sanchez,stephanie80@thomas-stevenson.com,4486294342,58353.0185
+669,Product 669,Clothing,2024-07-04,North,San Marino,Harveyburgh,13,777.0,0.14,669,Jenna Smith,joanne05@nunez.com,+1-476-188-2153x0662,8686.86
+670,Product 670,Beauty,2020-04-22,West,Malta,Nelsonborough,91,994.29,0.07,670,Ariel Maldonado,anthonyguerrero@hotmail.com,401.811.6835,84146.76269999999
+671,Product 671,Home,2023-01-30,East,Benin,Burgesston,75,618.62,0.22,671,Stephanie Moreno,rose25@butler.com,(332)687-1050x1711,36189.270000000004
+672,Product 672,Sports,2023-03-10,East,Uruguay,Craighaven,55,46.76,0.03,672,Karen Castillo,sherry82@hotmail.com,304-094-6919x6826,2494.6459999999997
+673,Product 673,Beauty,2022-03-08,North,Svalbard & Jan Mayen Islands,South Nicholasfurt,79,24.11,0.3,673,Kristen Lara,victor22@hotmail.com,494-476-1512,1333.283
+674,Product 674,Clothing,2022-01-31,North,Hungary,Davidport,63,348.68,0.25,674,Maria Leblanc,brandon40@hotmail.com,220.221.6448x944,16475.13
+675,Product 675,Sports,2022-08-16,East,Eritrea,Thomasburgh,73,825.24,0.16,675,Michael Moore,davisbeverly@hudson.org,(307)768-3971,50603.7168
+676,Product 676,Beauty,2021-05-03,West,Australia,New Stephenmouth,72,867.47,0.13,676,Sarah Hernandez,sjensen@williams.com,422-375-8927x127,54338.3208
+677,Product 677,Home,2020-01-18,South,Mali,Port Willieland,46,961.2,0.09,677,Jeffery Cole,amandaking@scott.com,(599)213-2971,40235.832
+678,Product 678,Home,2022-07-20,East,Martinique,New Jeffery,6,74.47,0.15,678,Julia Sharp,pollardbethany@navarro.biz,001-423-558-7096x87719,379.79699999999997
+679,Product 679,Electronics,2023-03-01,West,Grenada,East Joannaview,48,54.13,0.26,679,Leslie Martinez,nicole36@hayes.com,+1-989-242-0368x8137,1922.6976000000002
+680,Product 680,Clothing,2022-04-15,South,Saint Vincent and the Grenadines,North Nicholasside,60,914.15,0.08,680,Kimberly Rodriguez,garciajohn@hotmail.com,1612118770,50461.08
+681,Product 681,Beauty,2024-07-04,South,Belize,West Justintown,43,312.0,0.15,681,Alex Johnson,omartinez@hotmail.com,001-178-494-9009x04033,11403.6
+682,Product 682,Home,2023-10-07,East,United States of America,East Jeremiahhaven,68,562.41,0.07,682,Sarah Golden,gbarrera@hotmail.com,173.435.8726x7594,35566.808399999994
+683,Product 683,Sports,2021-10-11,South,Qatar,Brentbury,11,982.62,0.1,683,Abigail Cook,wweber@gmail.com,+1-735-174-2881x045,9727.938
+684,Product 684,Electronics,2024-01-03,West,Saint Helena,Haroldfurt,58,406.44,0.06,684,Lisa Andrews,martinmaureen@andersen.com,731-629-5741x1953,22159.108799999998
+685,Product 685,Beauty,2022-08-22,East,Tokelau,Jerryberg,92,669.21,0.3,685,Cynthia Day,lewiskristen@hotmail.com,(207)382-4439x774,43097.124
+686,Product 686,Beauty,2024-01-18,East,Zimbabwe,East Cheryl,90,406.87,0.17,686,Wanda Brown,teresa78@hotmail.com,(893)878-3778,30393.189000000002
+687,Product 687,Electronics,2023-10-18,West,Guinea-Bissau,Port Steven,4,770.51,0.22,687,Brittany Pearson,ashleyjones@yahoo.com,+1-890-474-7236x872,2403.9912
+688,Product 688,Beauty,2022-05-16,South,Palau,West Jeremy,79,532.44,0.03,688,Cameron Woods,nelsonsarah@gmail.com,486-670-3642x0355,40800.8772
+689,Product 689,Home,2021-01-11,North,Colombia,Ryanfurt,83,245.15,0.11,689,Tina Barnett,hilldwayne@yahoo.com,282-614-9438,18109.2305
+690,Product 690,Beauty,2022-12-29,West,Palestinian Territory,Thomasmouth,70,278.59,0.27,690,Heidi Franklin,michellethomas@hotmail.com,001-631-794-0490x81340,14235.948999999999
+691,Product 691,Clothing,2023-11-01,East,Belize,Carterside,59,265.48,0.03,691,Tasha Thomas,ncraig@hill.info,191-671-8555x8663,15193.4204
+692,Product 692,Home,2021-09-06,West,Bolivia,Zimmermanbury,5,537.0,0.05,692,Casey Spears,thomassierra@yahoo.com,920-897-9376x07716,2550.75
+693,Product 693,Home,2021-03-17,South,Cuba,Katherineton,18,706.16,0.19,693,Lisa Valdez,ashley45@mcneil-may.net,0018688876,10295.8128
+694,Product 694,Beauty,2023-11-19,East,Turkey,Mariabury,70,949.79,0.19,694,Vanessa Haynes,jeffsantana@huang.biz,+1-464-138-8312x95262,53853.09300000001
+695,Product 695,Electronics,2024-06-24,East,Finland,Robertfort,64,697.15,0.25,695,Bruce Jimenez,alvinchavez@gmail.com,(345)545-1971x611,33463.2
+696,Product 696,Clothing,2024-03-03,West,British Virgin Islands,Lake Susanmouth,95,783.38,0.28,696,Courtney Goodwin,lrhodes@hotmail.com,157.036.4404x400,53583.192
+697,Product 697,Electronics,2023-08-31,East,Uzbekistan,Gouldfurt,25,177.24,0.04,697,Peter Green,davidsonheidi@hotmail.com,938-374-0349,4253.76
+698,Product 698,Home,2021-09-26,East,Kyrgyz Republic,Shannonshire,4,380.32,0.08,698,Katherine Wilson,mcneilrichard@hicks.com,8165692182,1399.5776
+699,Product 699,Electronics,2022-03-28,West,Israel,Lake Lindsey,70,419.64,0.13,699,Amy Martinez,brianparker@hotmail.com,(144)209-1389,25556.076
+700,Product 700,Sports,2023-10-19,East,Honduras,Galvanview,41,689.52,0.0,700,Carla Burke,parksneil@stevenson-peters.com,(653)409-3766,28270.32
+701,Product 701,Sports,2021-01-11,North,Croatia,Lake Valerie,37,302.93,0.02,701,Hannah Carr,oflores@lewis.com,5605559236,10984.2418
+702,Product 702,Clothing,2020-04-05,West,Thailand,South Kellyview,59,310.26,0.07,702,Jeffrey Allen,juliemcdonald@torres-smith.biz,185-874-4938x35376,17023.9662
+703,Product 703,Beauty,2020-10-10,East,Rwanda,Sheafurt,50,362.33,0.14,703,Mason Ferguson Jr.,nancycastillo@yahoo.com,948.163.1330,15580.19
+704,Product 704,Beauty,2022-07-01,North,Korea,Lake Amyburgh,56,812.2,0.08,704,Ryan Foster,angelajones@hotmail.com,001-214-998-8284x665,41844.54400000001
+705,Product 705,Clothing,2020-07-05,West,Jamaica,Bethanyview,25,581.81,0.26,705,Troy Alexander,pjensen@young-robinson.org,001-787-876-0908x718,10763.484999999999
+706,Product 706,Beauty,2024-05-22,South,Saint Lucia,West Brian,34,84.52,0.1,706,Megan Romero,lisa76@ford.com,892-343-3869x51332,2586.312
+707,Product 707,Beauty,2021-06-01,East,Angola,Dukeside,19,87.46,0.28,707,Mrs. Jennifer Hughes,kramerchristine@hardy.biz,+1-538-458-0306,1196.4527999999998
+708,Product 708,Clothing,2021-04-20,South,Azerbaijan,North Madeline,98,377.57,0.29,708,Beth Kelly,bushhaley@warren.net,(904)539-8880,26271.3206
+709,Product 709,Clothing,2020-07-23,South,Guam,East John,79,768.93,0.13,709,Christine Sanchez,warrendebbie@diaz.com,001-589-992-3025,52848.558899999996
+710,Product 710,Beauty,2020-06-28,East,South Georgia and the South Sandwich Islands,Haleymouth,8,691.8,0.07,710,William Murphy,mooreraymond@gonzalez.com,(826)887-0088,5146.991999999999
+711,Product 711,Home,2021-03-03,West,Taiwan,Swansonhaven,54,710.9,0.09,711,Diamond Spencer,bauerlauren@escobar.biz,330.822.6238x483,34933.626
+712,Product 712,Sports,2024-02-07,South,Croatia,East Melaniebury,47,769.54,0.23,712,Sheila Hogan,jessicaholloway@martinez-hebert.net,+1-603-052-9874x37737,27849.652599999998
+713,Product 713,Clothing,2020-09-25,North,Bouvet Island (Bouvetoya),Hendersonborough,34,294.28,0.08,713,Paula Collins,stevennixon@hotmail.com,723-806-4609x0952,9205.078399999999
+714,Product 714,Home,2021-11-20,West,Morocco,Adamland,82,552.77,0.11,714,Emily Carpenter,benjaminwerner@yahoo.com,(124)892-0099x912,40341.1546
+715,Product 715,Beauty,2021-11-08,West,Greenland,Brandonchester,30,547.92,0.14,715,Patricia Johnston,rhondaburns@may.com,105.083.0434,14136.336
+716,Product 716,Electronics,2023-10-22,West,Saint Pierre and Miquelon,West Deborah,13,742.24,0.17,716,Terry Stewart,lbailey@liu.biz,+1-539-852-9439x423,8008.7696000000005
+717,Product 717,Beauty,2021-01-03,West,Guyana,North Latashaborough,47,957.3,0.3,717,Shane Phillips,ybarry@crane-howard.com,(592)374-8395x30655,31495.17
+718,Product 718,Clothing,2020-01-31,South,Saint Pierre and Miquelon,New Richardport,33,285.21,0.07,718,Austin Kelly,shannon36@hunter.com,201.013.3014x5486,8753.094899999998
+719,Product 719,Home,2020-03-23,West,Micronesia,Bakerview,35,795.35,0.11,719,Ana Cameron,jeremyjohnson@galvan.com,+1-960-534-4936x88143,24775.1525
+720,Product 720,Electronics,2021-05-09,East,Armenia,Lake Edward,88,663.37,0.08,720,Charles Watkins,haley39@knapp.net,(544)875-4919,53706.4352
+721,Product 721,Beauty,2022-03-09,West,Taiwan,New Anthonychester,26,584.44,0.11,721,Jessica Mcclure,ijennings@hotmail.com,+1-210-737-2337x4453,13523.941600000002
+722,Product 722,Sports,2020-07-22,South,Albania,West Diana,47,777.13,0.03,722,Bradley Berry,haleyaimee@stephens-rhodes.net,206-073-9563x212,35429.3567
+723,Product 723,Beauty,2020-10-08,East,Austria,Lisaburgh,53,944.59,0.11,723,Dennis Watson,jasonlove@hernandez.info,(065)943-7587x247,44556.310300000005
+724,Product 724,Electronics,2023-12-09,North,Christmas Island,North Veronicashire,65,46.32,0.27,724,Zachary Hickman,christopherford@smith.com,001-931-245-5558x39537,2197.884
+725,Product 725,Clothing,2022-01-07,North,Sierra Leone,Nicoleview,77,155.93,0.09,725,Breanna Morris,sheri80@gmail.com,+1-961-927-0691x8727,10926.0151
+726,Product 726,Home,2024-04-19,West,Korea,North Roberttown,74,758.72,0.11,726,Mr. Tom Gates,rfranklin@taylor.com,858.788.6269,49969.2992
+727,Product 727,Electronics,2020-10-20,East,Andorra,Hannaton,19,92.95,0.28,727,David Jones,pfreeman@gmail.com,001-925-656-6869x03395,1271.5559999999998
+728,Product 728,Home,2020-10-01,West,Argentina,Dixonville,5,520.96,0.22,728,Paul Klein,kristopher73@gmail.com,001-792-256-8669x933,2031.7440000000001
+729,Product 729,Sports,2021-01-13,South,Slovakia (Slovak Republic),East Bobby,8,227.66,0.16,729,Anthony Alexander,jasonbuchanan@gmail.com,001-284-292-4157,1529.8752
+730,Product 730,Sports,2023-02-28,West,Peru,East Kaitlynstad,4,281.55,0.23,730,Sandra Brock,jennifer19@watts.org,001-193-898-4937,867.1740000000001
+731,Product 731,Clothing,2020-04-22,North,Saint Vincent and the Grenadines,Cookfort,49,704.82,0.04,731,Brett Baker,ryandebra@gmail.com,676.540.8594,33154.7328
+732,Product 732,Beauty,2021-04-26,North,Brazil,Melissaview,77,39.89,0.14,732,Donna Valdez,johnmccarty@yahoo.com,+1-233-638-5821,2641.5158
+733,Product 733,Beauty,2023-02-18,West,Israel,Salazarfort,38,874.59,0.04,733,Meredith Henderson,nhatfield@yahoo.com,1417558923,31905.043199999996
+734,Product 734,Electronics,2022-12-31,North,Chad,Lake Bianca,49,450.03,0.07,734,Jeffrey Thomas,connorgordon@gmail.com,859-634-6955x742,20507.867099999996
+735,Product 735,Beauty,2020-10-25,East,Cayman Islands,Port Mary,83,507.37,0.04,735,Sarah Lewis,jordanshane@ellison.com,026.438.5155,40427.2416
+736,Product 736,Clothing,2021-02-09,South,Chad,Brianfort,52,544.65,0.11,736,Janice Perry,hailey56@gmail.com,226-408-9571x135,25206.402
+737,Product 737,Sports,2022-10-28,East,Belgium,Lake Robertville,50,649.09,0.11,737,Joseph Weaver,smithlauren@patton.com,001-976-190-0574x914,28884.505
+738,Product 738,Beauty,2023-07-02,South,Kenya,Russellborough,72,351.41,0.28,738,Wendy Evans,kathywilson@bautista.info,001-301-861-2197,18217.094399999998
+739,Product 739,Home,2021-08-26,North,Bhutan,West April,91,110.1,0.08,739,Jessica Sanchez,idrake@hotmail.com,079-770-7461,9217.572
+740,Product 740,Electronics,2024-04-15,South,Andorra,Katherineberg,50,325.2,0.14,740,Mary Ramos,william00@romero.com,001-668-552-8910x0929,13983.6
+741,Product 741,Electronics,2022-04-21,East,Dominica,Williamfurt,30,176.46,0.24,741,Anna Taylor,wayne30@howard-parker.com,013.295.5440,4023.288
+742,Product 742,Home,2022-05-18,North,Mozambique,West Laura,4,560.57,0.24,742,Caitlin Owen,allenkaren@gmail.com,(360)874-2135x687,1704.1328
+743,Product 743,Electronics,2023-02-10,South,Angola,Lake Amanda,75,324.85,0.23,743,Amy Watson,rtodd@solomon.com,0093763174,18760.0875
+744,Product 744,Electronics,2021-01-08,North,Cape Verde,Frederickport,85,958.49,0.09,744,Chris Horton,ystevens@gmail.com,+1-935-742-0754,74139.2015
+745,Product 745,Home,2024-01-30,North,British Virgin Islands,Connieborough,66,966.08,0.15,745,John Castro,richardchaney@yahoo.com,6127493461,54197.088
+746,Product 746,Beauty,2022-10-18,West,Netherlands,Wadeborough,21,623.92,0.06,746,Christina Jones,fullerpatrick@gmail.com,+1-926-085-9505x38943,12316.180799999998
+747,Product 747,Sports,2020-12-23,North,South Georgia and the South Sandwich Islands,Fletchermouth,81,621.32,0.06,747,Paul Decker,courtneylewis@hotmail.com,7468005042,47307.304800000005
+748,Product 748,Sports,2021-01-07,South,Moldova,West Jody,43,985.52,0.13,748,Jeremy Smith,ymiller@hotmail.com,(729)756-7661x822,36868.3032
+749,Product 749,Beauty,2022-04-05,North,Pitcairn Islands,Lake John,29,888.41,0.22,749,Rachel Briggs,jellis@shields.com,(333)896-6729,20095.8342
+750,Product 750,Beauty,2023-03-27,South,Equatorial Guinea,East Sarafurt,27,767.42,0.16,750,William Mann,vargasrichard@blankenship-neal.com,+1-163-169-2011x9289,17405.0856
+751,Product 751,Electronics,2020-03-26,North,Poland,Lake Pamelaton,88,320.45,0.27,751,Evan Hughes,sullivannicole@yahoo.com,4644543716,20585.708
+752,Product 752,Home,2020-02-04,West,French Guiana,North Ashley,53,371.88,0.25,752,Bryan Kirby,sheena50@hotmail.com,+1-349-228-2201x0064,14782.23
+753,Product 753,Home,2024-02-15,South,Andorra,Shieldsstad,49,209.25,0.01,753,Nancy Daniel,austincatherine@bentley-vasquez.com,751.995.2703,10150.7175
+754,Product 754,Home,2021-10-19,North,Montserrat,Port Ashleyview,67,492.28,0.17,754,Bryan Norton,michaelrangel@gmail.com,977.761.4296x612,27375.690799999993
+755,Product 755,Clothing,2020-12-19,West,Bolivia,Espinozachester,10,990.46,0.18,755,Diamond Smith,olivereddie@hotmail.com,128-843-3122x70106,8121.772000000001
+756,Product 756,Sports,2024-04-23,North,New Caledonia,Powellton,3,913.03,0.29,756,Hannah Black,kyle21@washington-cortez.com,453.409.2666x10823,1944.7539
+757,Product 757,Electronics,2023-04-05,South,Bosnia and Herzegovina,Kendraside,90,127.17,0.01,757,Amanda Martinez,nelsonkyle@travis.com,+1-252-618-2687x8276,11330.847
+758,Product 758,Electronics,2021-04-01,South,Pitcairn Islands,Mercadoshire,91,34.94,0.16,758,Brendan Paul,kelleymary@whitney.net,073.739.8028x187,2670.8136
+759,Product 759,Electronics,2022-06-08,South,Mauritania,South Thomas,69,899.65,0.06,759,Charles Williams,howecolleen@yahoo.com,307.102.2292,58351.29899999999
+760,Product 760,Home,2021-05-02,West,Venezuela,South Carrie,11,541.8,0.02,760,Robert Cardenas,jonathan15@king-gray.com,001-858-360-8538x1989,5840.603999999999
+761,Product 761,Home,2024-03-11,West,Macedonia,Dianamouth,13,208.19,0.18,761,Sean Anderson,christophercarter@schroeder.com,123.750.7553x099,2219.3054
+762,Product 762,Sports,2020-09-17,West,Greenland,Jamestown,98,676.92,0.23,762,Mr. Kenneth Hardin,daniellebates@hotmail.com,379.893.1120,51080.38319999999
+763,Product 763,Home,2022-08-13,North,Cuba,Raymondfurt,38,647.78,0.23,763,Lacey Pena,christopherlloyd@yahoo.com,001-122-224-7605x36624,18954.0428
+764,Product 764,Electronics,2021-11-15,West,Jordan,South Alisonburgh,40,130.86,0.01,764,Nancy Combs,nkelly@hotmail.com,001-622-158-1378x843,5182.0560000000005
+765,Product 765,Sports,2020-04-20,South,Philippines,Christophermouth,33,267.0,0.12,765,John Rice,romandonald@owen.info,623.098.9257,7753.68
+766,Product 766,Clothing,2024-05-12,West,Venezuela,Perkinsfort,34,69.48,0.01,766,Joanne Ruiz,shannon46@morales.com,(821)574-9691x26974,2338.6968
+767,Product 767,Clothing,2023-08-21,North,Uzbekistan,Port Ana,27,217.76,0.07,767,Dominique Haynes,taylorkara@yahoo.com,369-832-7231x7450,5467.953599999999
+768,Product 768,Electronics,2022-08-25,East,Kiribati,Port Melissatown,90,140.98,0.06,768,Karen Powers,donaldsonkimberly@edwards-washington.com,(009)314-8311x7425,11926.907999999998
+769,Product 769,Beauty,2024-04-14,North,Montserrat,Christopherfurt,51,201.3,0.06,769,Steven Brewer,gordon95@jones-harrington.org,(528)410-7750x27939,9650.322
+770,Product 770,Home,2020-07-13,East,Greece,Lake Jessica,89,688.61,0.1,770,Linda Walker,kparker@yahoo.com,+1-558-249-7501x898,55157.661
+771,Product 771,Home,2024-07-13,East,Monaco,South Emily,83,59.0,0.08,771,Mary Ross,thompsonstephanie@williams-morgan.com,339.853.8884,4505.24
+772,Product 772,Sports,2021-06-07,East,Guadeloupe,South Joshuaborough,21,110.84,0.29,772,Stephanie Mcintyre,nathan06@hotmail.com,940.599.0326,1652.6244
+773,Product 773,Clothing,2022-05-30,West,United Kingdom,Gilbertfort,95,142.83,0.11,773,Lydia Clark,maciassusan@villa.com,9474386876,12076.2765
+774,Product 774,Sports,2020-07-08,South,Morocco,Marcushaven,29,323.38,0.27,774,Jeffrey Scott,lpena@gmail.com,001-035-841-8196x59839,6845.9546
+775,Product 775,Sports,2021-06-07,North,Gambia,Brittanymouth,73,305.76,0.05,775,Laurie Collins,wmadden@hoffman-green.biz,001-042-944-7246,21204.456
+776,Product 776,Clothing,2022-11-27,East,Niger,East Steven,19,262.51,0.23,776,Randy Miller,james74@costa.com,690.045.7612,3840.5213
+777,Product 777,Sports,2021-01-27,North,Guyana,New Robertburgh,26,753.03,0.02,777,Bryan Hanson,kristinacooper@yahoo.com,(402)400-9608x0104,19187.2044
+778,Product 778,Electronics,2020-10-14,North,Ireland,Thompsonland,25,998.04,0.14,778,Laura Mcintosh,catherinejohnson@hotmail.com,956-731-5084,21457.86
+779,Product 779,Beauty,2023-02-26,East,Guernsey,Hawkinsside,40,538.64,0.0,779,Michelle Holloway,andrewwilliams@hotmail.com,615-572-6377x382,21545.6
+780,Product 780,Sports,2024-02-18,North,Mali,Peggychester,29,944.76,0.24,780,Jared Anderson,glenngrant@yahoo.com,674-482-1483x94732,20822.5104
+781,Product 781,Beauty,2021-06-25,South,Samoa,Alexanderview,25,402.64,0.29,781,Nicholas Cooper,hcannon@cook.net,(728)844-3775x97477,7146.86
+782,Product 782,Home,2020-06-14,South,Rwanda,Haydenfort,19,115.62,0.01,782,Vanessa Lee,antonio38@yahoo.com,001-550-006-5758x631,2174.8122000000003
+783,Product 783,Home,2021-08-30,West,Kiribati,Transhire,68,414.69,0.28,783,Robert Jennings,xsmith@hotmail.com,+1-875-762-8391x0411,20303.2224
+784,Product 784,Beauty,2020-06-26,South,Cambodia,South Bradland,45,303.17,0.23,784,Michael Pacheco,michaeledwin@yahoo.com,351-071-1083x04966,10504.840500000002
+785,Product 785,Home,2021-01-18,East,Niger,North Jacquelinehaven,84,498.47,0.11,785,Susan Jackson,htorres@hotmail.com,+1-391-544-6968x218,37265.6172
+786,Product 786,Sports,2023-10-03,South,Egypt,Howardmouth,46,660.47,0.27,786,Kimberly Mahoney,nancypaul@yahoo.com,+1-884-478-9652x7945,22178.5826
+787,Product 787,Clothing,2020-01-20,West,Paraguay,Port Jeremymouth,55,466.44,0.09,787,Nathan Orozco,woodardjeffrey@wells-jones.com,001-186-551-8396x3953,23345.322
+788,Product 788,Clothing,2020-06-23,North,Mali,Myershaven,1,935.81,0.12,788,Jeff Cross,thomasashley@gmail.com,484-259-6527x699,823.5128
+789,Product 789,Electronics,2024-04-09,North,Slovenia,Cruzmouth,11,885.92,0.03,789,Kyle Haynes,michellebishop@rivera.info,+1-911-682-3418,9452.766399999999
+790,Product 790,Electronics,2023-11-12,West,Bhutan,New Brent,68,704.96,0.2,790,James Mathis,kennethpeterson@gmail.com,(739)598-4758x4190,38349.824
+791,Product 791,Beauty,2022-07-09,North,Somalia,East Jamesberg,7,494.79,0.01,791,Cynthia Lloyd,fcrawford@hotmail.com,476-147-2306,3428.8947000000003
+792,Product 792,Beauty,2023-09-09,West,Jamaica,Sheppardberg,92,140.37,0.15,792,Nicole Moore,youngsheila@hotmail.com,(240)667-8317x5457,10976.934000000001
+793,Product 793,Sports,2024-04-06,West,Slovakia (Slovak Republic),Goodwinville,58,403.04,0.2,793,Ethan Fisher,christophermullins@lopez.com,+1-567-247-5997x27055,18701.056
+794,Product 794,Beauty,2022-03-06,South,Saint Kitts and Nevis,Mcdonaldmouth,71,707.36,0.25,794,Adrian Ward,susan27@hotmail.com,(138)056-6663x2280,37666.92
+795,Product 795,Clothing,2022-01-06,West,Austria,Ashleyview,20,292.04,0.04,795,Edward Vazquez,denise19@yahoo.com,439.585.2704x851,5607.168
+796,Product 796,Sports,2023-02-04,East,Bolivia,Ryanmouth,35,112.95,0.23,796,Dennis Cooper,jonesabigail@gmail.com,1447661519,3044.0025
+797,Product 797,Home,2021-12-13,South,Spain,Richardfort,51,908.82,0.22,797,Joseph Bradshaw,taracarpenter@hotmail.com,130.966.4303x7161,36152.8596
+798,Product 798,Home,2021-04-14,West,Lao People's Democratic Republic,North Devonburgh,21,711.96,0.17,798,Richard Barrera,kelly25@perez.biz,0604350887,12409.4628
+799,Product 799,Beauty,2024-01-02,East,Suriname,Clarkport,44,619.12,0.18,799,Rebecca Christian,gallegoschris@hotmail.com,141-790-2023x6956,22337.8496
+800,Product 800,Beauty,2024-03-11,West,Turks and Caicos Islands,Walshside,1,794.57,0.03,800,Robert Richardson,parsonskenneth@mullins-summers.com,385.761.2175,770.7329
+801,Product 801,Clothing,2022-10-29,North,Macao,North Sheri,67,837.29,0.18,801,Brooke Harris,smithdavid@rodriguez.net,044.447.2147x1340,46000.712600000006
+802,Product 802,Beauty,2022-01-05,East,Rwanda,South Peter,98,488.62,0.11,802,Russell Miller,russell55@hotmail.com,(598)067-3976,42617.436400000006
+803,Product 803,Beauty,2023-05-05,South,Finland,Lake Ellen,13,882.38,0.26,803,Savannah Morris,andrea90@rogers.com,887-394-9704x854,8488.4956
+804,Product 804,Sports,2022-11-16,West,Ghana,Holtmouth,16,917.25,0.09,804,Sarah Ward,nicole51@hotmail.com,(937)181-7665,13355.16
+805,Product 805,Home,2023-06-22,South,Bangladesh,South Jamiebury,34,278.84,0.17,805,Mrs. Janice Burnett,terrynicholas@warner.com,193-401-9336x7937,7868.864799999999
+806,Product 806,Beauty,2023-08-10,East,Ghana,Saundersborough,24,611.47,0.13,806,Richard Mathews,harrysullivan@edwards-clark.org,001-825-842-9389,12767.4936
+807,Product 807,Electronics,2023-02-21,West,Slovakia (Slovak Republic),East Chrishaven,13,531.32,0.26,807,Janet Nguyen,douglas59@hotmail.com,846-877-3218x76628,5111.298400000001
+808,Product 808,Beauty,2021-01-02,West,Samoa,West Paul,6,542.57,0.08,808,Sarah Russell,josephmedina@rodriguez.com,(013)953-5432,2994.9864000000002
+809,Product 809,Home,2020-07-02,North,Romania,Andrewhaven,39,938.29,0.02,809,Norman Romero,cynthiaclayton@hotmail.com,861-552-4876x7343,35861.443799999994
+810,Product 810,Clothing,2023-02-25,West,Moldova,South Johnberg,2,312.14,0.22,810,Nicholas Palmer,danielwright@hotmail.com,(883)060-8185,486.9384
+811,Product 811,Beauty,2020-05-24,North,Guadeloupe,South Melissafort,11,983.6,0.12,811,Neil Kelley,janet51@bryan-morales.biz,063-569-8753,9521.248
+812,Product 812,Electronics,2020-11-08,West,Poland,Snyderside,7,903.11,0.18,812,Edward Reese,philiphurley@yahoo.com,(921)084-6145,5183.8514000000005
+813,Product 813,Sports,2024-06-16,West,Cote d'Ivoire,North Hollytown,7,464.14,0.01,813,Shari Johnson,yturner@jones.com,568-473-4270x6090,3216.4902
+814,Product 814,Clothing,2021-12-06,South,Palau,Lake Stacey,39,819.28,0.29,814,Lauren Gutierrez,robinsonandrew@edwards.com,(855)951-7418x788,22685.863199999996
+815,Product 815,Electronics,2021-04-01,West,Canada,Scottburgh,76,771.36,0.26,815,Cynthia Jackson,mckenzie58@yahoo.com,651.748.0999x52600,43381.2864
+816,Product 816,Home,2021-12-26,South,Portugal,Gonzalezchester,86,681.12,0.19,816,Jake Scott,sarah73@gmail.com,881.309.8835x125,47446.819200000005
+817,Product 817,Beauty,2020-04-15,East,Gibraltar,Hendersonberg,51,326.64,0.01,817,Kelly Clark,simssusan@hamilton-navarro.biz,(486)909-9427x93449,16492.0536
+818,Product 818,Beauty,2020-10-19,West,Suriname,East Katherineview,52,204.49,0.11,818,Debbie Robbins,qbrown@gmail.com,001-899-653-8482x22292,9463.797199999999
+819,Product 819,Electronics,2024-01-02,West,Equatorial Guinea,Weissmouth,3,674.81,0.29,819,Elizabeth Pineda,ivanherman@yahoo.com,(409)971-3406x24871,1437.3452999999997
+820,Product 820,Sports,2022-09-30,South,Maldives,North Mary,77,844.54,0.2,820,Brenda Murphy,nicholas98@gmail.com,(098)605-0737x34436,52023.664
+821,Product 821,Electronics,2024-02-10,South,Poland,Martinside,30,26.09,0.05,821,Brittany Davis,taylor28@gmail.com,673.234.0530x938,743.565
+822,Product 822,Electronics,2020-10-13,West,Cocos (Keeling) Islands,East Destiny,10,646.38,0.14,822,Stephanie Meyer DDS,trichard@yahoo.com,661-539-7987,5558.868
+823,Product 823,Beauty,2020-08-31,East,Netherlands Antilles,South Andrewburgh,73,448.44,0.29,823,Jeanette Murphy,carrilloanthony@mendoza.biz,279-828-9245,23242.6452
+824,Product 824,Electronics,2023-11-14,East,Brazil,Breannahaven,6,899.11,0.16,824,Michael Hansen,williamburke@freeman.org,188.936.3076,4531.5144
+825,Product 825,Home,2020-10-19,West,Yemen,North Jessica,54,328.26,0.01,825,Tanya Eaton,silvamichael@martinez-shah.com,+1-971-098-8364x551,17548.7796
+826,Product 826,Electronics,2023-05-19,South,Palau,Marybury,66,479.44,0.19,826,Timothy Campbell,gentrytamara@hotmail.com,001-340-778-2999,25630.8624
+827,Product 827,Electronics,2023-04-10,North,Sudan,Raymondville,44,519.62,0.08,827,Heidi Mcguire,ncox@lowery.com,209.303.7776x31727,21034.2176
+828,Product 828,Sports,2020-06-23,South,Italy,West Robertaburgh,80,149.04,0.03,828,Nancy Johnson,matthew84@hotmail.com,(432)335-3569x46183,11565.503999999999
+829,Product 829,Electronics,2020-07-13,East,Nepal,North Donald,63,715.76,0.12,829,John Williams,nyang@murillo.biz,+1-373-826-7078x7307,39681.7344
+830,Product 830,Home,2022-04-07,North,Croatia,North Juliaborough,77,832.17,0.17,830,Jodi Johnson,stephanierichardson@yahoo.com,+1-438-958-3009x0659,53183.98469999999
+831,Product 831,Home,2020-02-22,North,Papua New Guinea,Paigeborough,48,67.33,0.01,831,Tanya Barron,molinadaniel@hotmail.com,8485204583,3199.5216
+832,Product 832,Clothing,2021-05-29,South,Ireland,Rivasview,77,298.47,0.17,832,Gregg Walton,lrichard@yahoo.com,001-228-557-8069x0138,19075.2177
+833,Product 833,Clothing,2022-07-27,East,Romania,Kaisertown,22,47.66,0.15,833,Annette Hopkins,kwilson@gmail.com,966.046.9772,891.242
+834,Product 834,Sports,2020-08-24,North,South Africa,Lake Paula,19,956.98,0.24,834,James Henderson,jgill@stokes.biz,847.853.0350,13818.7912
+835,Product 835,Home,2022-02-22,East,Marshall Islands,Jamieborough,90,670.5,0.13,835,Sheila Maldonado,cryan@gmail.com,419.411.0819x2101,52500.15
+836,Product 836,Clothing,2021-04-10,South,Korea,Earlton,14,964.56,0.17,836,Hannah Walker,crystal26@taylor.com,0738046606,11208.1872
+837,Product 837,Electronics,2022-03-24,West,French Southern Territories,South Richardton,95,536.18,0.22,837,Isaac Meyer,williamsmark@jackson-collins.biz,001-894-160-5870x02438,39730.938
+838,Product 838,Beauty,2023-12-31,West,South Africa,Leonardstad,93,804.05,0.27,838,Mikayla Moreno,karenchavez@hotmail.com,(449)855-4732x2689,54586.95449999999
+839,Product 839,Beauty,2022-07-22,South,South Georgia and the South Sandwich Islands,South Jasonmouth,86,380.67,0.11,839,Brenda Perry,webbhaley@gmail.com,986.799.5329,29136.4818
+840,Product 840,Home,2022-04-08,West,Honduras,South Matthewville,7,360.28,0.18,840,Erika Santiago,ann69@yahoo.com,132-132-6770,2068.0072
+841,Product 841,Beauty,2023-06-27,West,Turks and Caicos Islands,Thomasmouth,49,384.49,0.21,841,Matthew Bowman,colton08@hotmail.com,(823)448-4982,14883.607900000003
+842,Product 842,Clothing,2020-10-19,South,Paraguay,North Joshua,41,661.28,0.01,842,Gregory Wilkins,dcurry@yahoo.com,+1-047-343-5194x43281,26841.355199999998
+843,Product 843,Home,2022-10-06,South,Mozambique,Tanyafurt,27,365.86,0.24,843,Douglas Taylor,stevendaniel@hotmail.com,235-136-3897,7507.4472000000005
+844,Product 844,Beauty,2023-11-13,West,Senegal,Glassmouth,31,901.36,0.11,844,Tyler Ramos,jessica90@yahoo.com,668.755.2155,24868.5224
+845,Product 845,Beauty,2022-12-26,North,Greece,East Amber,6,983.44,0.2,845,Krystal Martinez,brittanymiller@hotmail.com,+1-160-532-3899x7903,4720.512000000001
+846,Product 846,Clothing,2022-01-18,East,Burkina Faso,Erinfort,16,40.12,0.14,846,Tony Griffin,kliu@gmail.com,+1-510-451-3490,552.0512
+847,Product 847,Beauty,2020-02-09,South,Martinique,New David,64,201.69,0.21,847,Leslie Silva,alex64@hotmail.com,(316)037-1236,10197.4464
+848,Product 848,Clothing,2020-02-04,East,Egypt,New Victoriaview,38,121.13,0.22,848,Michelle Wilson,noah98@santos.com,(301)042-7313x8451,3590.2931999999996
+849,Product 849,Sports,2024-04-06,South,Tajikistan,Freemanmouth,60,51.94,0.06,849,Kristina Sanders,msmith@hotmail.com,(548)842-0515x467,2929.4159999999997
+850,Product 850,Home,2023-06-29,West,Norfolk Island,Jenniferton,96,235.46,0.2,850,Heather Lyons,katelynbrown@yahoo.com,5735113809,18083.328
+851,Product 851,Clothing,2022-08-27,South,Gambia,New Triciaton,97,452.33,0.26,851,Sara Jacobson,allenjames@gmail.com,157.592.6091x90023,32468.2474
+852,Product 852,Clothing,2020-04-30,West,British Indian Ocean Territory (Chagos Archipelago),South Gary,81,838.62,0.07,852,Debra Gonzalez,andrea73@gmail.com,261-145-2814,63173.2446
+853,Product 853,Clothing,2020-12-25,South,Sudan,Port Stacy,33,229.61,0.23,853,Frank Marshall,brandonmosley@gmail.com,901.513.7006x35460,5834.3901000000005
+854,Product 854,Beauty,2022-06-16,West,Saint Lucia,South Gerald,63,499.01,0.19,854,Darlene Christensen,molinapaul@yahoo.com,(538)891-8357x966,25464.480300000003
+855,Product 855,Home,2020-01-03,North,Mauritius,Mauriceville,11,930.32,0.29,855,Scott Spencer,daveramos@gmail.com,+1-001-604-4276,7265.7992
+856,Product 856,Beauty,2022-12-06,South,Isle of Man,North Gregoryshire,13,670.54,0.08,856,Helen Baker,bennettbrittany@anderson-pratt.com,670.074.3578,8019.658400000001
+857,Product 857,Beauty,2023-07-08,West,Monaco,Lake Tina,94,800.1,0.05,857,Stephen Thomas,amandaross@gmail.com,+1-790-140-3280x15301,71448.93000000001
+858,Product 858,Beauty,2023-06-29,East,Burundi,Wilsonmouth,65,555.48,0.09,858,Linda Gutierrez,andrewsnancy@yahoo.com,001-594-112-1706x059,32856.64200000001
+859,Product 859,Beauty,2020-04-19,South,Myanmar,East Mary,30,980.66,0.08,859,Bradley Hawkins,tjackson@hooper-johnson.org,991-431-1001,27066.216
+860,Product 860,Clothing,2021-05-15,North,Comoros,Ricardomouth,91,592.78,0.23,860,Susan Beck,garciajose@hotmail.com,229-174-3434x009,41536.0946
+861,Product 861,Clothing,2022-11-10,North,Timor-Leste,Danielborough,23,55.06,0.22,861,Laura Lawrence,williamszoe@smith-thomas.net,687.081.8551x509,987.7764000000001
+862,Product 862,Beauty,2020-08-15,North,Antarctica (the territory South of 60 deg S),Davidchester,20,206.0,0.2,862,Scott Duncan,victoria02@hotmail.com,(488)450-6980x236,3296.0
+863,Product 863,Clothing,2021-01-23,South,Macedonia,North Kennethbury,6,410.73,0.06,863,Beth Roth,christopher01@anderson.com,(459)013-2335x62846,2316.5172
+864,Product 864,Sports,2021-09-29,South,Bhutan,Figueroaborough,37,605.26,0.26,864,Mary Horton,woodsfernando@yahoo.com,631-559-3465x126,16572.018799999998
+865,Product 865,Electronics,2023-08-30,West,British Virgin Islands,Kennethtown,84,774.21,0.29,865,Jenna Rogers,markingram@mcbride.com,113.538.4518,46173.884399999995
+866,Product 866,Beauty,2024-06-19,South,Ukraine,New Moniqueport,6,418.96,0.16,866,Alex Wade,youngsteven@gmail.com,(276)035-9288x933,2111.5584
+867,Product 867,Electronics,2024-02-13,North,Djibouti,Lake Greg,93,712.96,0.19,867,Bianca Coleman,eclark@gutierrez.org,+1-091-907-6794x264,53707.2768
+868,Product 868,Clothing,2020-11-06,West,Falkland Islands (Malvinas),Lake John,77,791.97,0.15,868,Luke Clark,teresatran@robinson-ruiz.com,7297986138,51834.4365
+869,Product 869,Electronics,2022-06-08,East,Montserrat,South Tylerview,27,324.09,0.09,869,Travis Nguyen,jasminemoore@hotmail.com,(666)857-9838x284,7962.891299999999
+870,Product 870,Clothing,2023-09-08,East,Luxembourg,West Timothyside,84,979.48,0.09,870,James Sharp,kellermegan@gillespie.com,+1-680-767-3583,74871.45120000001
+871,Product 871,Home,2020-09-09,West,Solomon Islands,Wilkinsside,13,653.16,0.09,871,Carol Martin,clarkjeremiah@gmail.com,(090)495-8561x638,7726.8828
+872,Product 872,Electronics,2020-01-19,South,Holy See (Vatican City State),North Oliviaberg,8,882.19,0.06,872,Christopher Reilly,adamslarry@yahoo.com,4091807027,6634.0688
+873,Product 873,Clothing,2022-08-22,South,Turkey,North Patricia,53,560.38,0.27,873,Jennifer Schneider,cmorales@lee.org,(921)373-3358x6877,21681.102199999998
+874,Product 874,Clothing,2023-04-10,East,Netherlands,New Taylortown,81,744.19,0.26,874,Brandon Bennett II,trevormartin@hotmail.com,+1-138-357-3729x990,44606.748600000006
+875,Product 875,Sports,2020-10-21,East,Croatia,Gardnerburgh,30,772.84,0.14,875,Kathy Morales,christopheranderson@hernandez.info,(313)834-1702x37225,19939.272
+876,Product 876,Home,2022-02-23,West,United States Virgin Islands,North Laurenmouth,1,909.17,0.11,876,Jennifer Hall,hramirez@yahoo.com,656-099-4666x7134,809.1613
+877,Product 877,Sports,2023-10-26,West,Tajikistan,Bellside,88,158.85,0.28,877,Sherry Reyes,beverly26@hotmail.com,871.824.6407x8832,10064.735999999999
+878,Product 878,Electronics,2024-01-29,West,Puerto Rico,New Charlesport,80,562.7,0.07,878,Jacob Bryant,aarias@bright.com,(241)038-7428,41864.88
+879,Product 879,Sports,2023-08-24,East,Peru,New Lynn,75,434.09,0.17,879,Mary Martin,johnsmith@gmail.com,(389)810-0598x19625,27022.102499999997
+880,Product 880,Home,2024-04-01,West,Qatar,New Deborah,4,923.93,0.02,880,Charles Dixon DDS,brennanthomas@hotmail.com,6355905679,3621.8055999999997
+881,Product 881,Home,2022-12-31,North,Czech Republic,Jonesside,62,114.04,0.06,881,Adam Lee,vasquezkatherine@ellis.com,062.181.8009x20920,6646.2512
+882,Product 882,Beauty,2021-07-19,South,Montserrat,South Derek,68,982.75,0.18,882,Eugene Melton,bdavis@parks.net,857-902-7529x1565,54798.14000000001
+883,Product 883,Beauty,2020-09-23,South,Sao Tome and Principe,Chadburgh,17,876.7,0.2,883,James Price,knoxbrandi@ramirez.com,+1-273-606-0989x3700,11923.120000000003
+884,Product 884,Electronics,2022-10-21,North,Slovakia (Slovak Republic),New Brandonland,74,83.09,0.17,884,Ruth Evans,garrettrobert@mcneil.com,+1-592-653-8948x9134,5103.3877999999995
+885,Product 885,Sports,2023-11-06,South,Norway,Nealchester,85,496.06,0.26,885,Tara Sanders,cynthia36@allen.org,001-748-111-0913,31202.174
+886,Product 886,Sports,2023-03-28,West,Senegal,Thomasfort,57,720.38,0.3,886,Ashley Frazier,alisonhiggins@williams-alexander.biz,792.651.2454x35035,28743.161999999997
+887,Product 887,Beauty,2022-06-13,West,Oman,Grantstad,63,740.77,0.23,887,Rebecca Taylor,karen70@solomon-davis.com,297-814-0198x0741,35934.752700000005
+888,Product 888,Sports,2020-02-15,South,Guadeloupe,Port Katherine,57,907.43,0.14,888,Joshua Wallace,guerrerobrad@yahoo.com,+1-043-787-6987x6651,44482.21859999999
+889,Product 889,Beauty,2020-08-05,East,Tajikistan,Schmittmouth,49,801.87,0.25,889,Carolyn Chung,stephensmaria@gmail.com,7733016052,29468.722499999996
+890,Product 890,Beauty,2021-02-20,North,Dominica,Lake Jesseshire,18,317.82,0.04,890,Teresa Little,jacksonmonica@barber.com,998.499.4031x98203,5491.9296
+891,Product 891,Home,2020-12-02,North,Albania,Robertstad,58,503.45,0.2,891,Margaret Morris,edgarlawrence@gomez.org,438.069.6079x742,23360.08
+892,Product 892,Beauty,2020-03-09,West,Cote d'Ivoire,Lake Jimmy,10,704.77,0.16,892,Kimberly Floyd,lesliefriedman@gmail.com,001-202-003-7889x672,5920.067999999999
+893,Product 893,Clothing,2023-02-19,South,Brazil,Caseytown,63,147.05,0.05,893,Robert Medina,qgolden@hotmail.com,001-237-208-3080x61319,8800.942500000001
+894,Product 894,Home,2022-06-24,North,Mayotte,East April,80,202.05,0.29,894,Jennifer Kennedy,hmueller@yahoo.com,146-863-0998x9795,11476.439999999999
+895,Product 895,Home,2023-01-02,West,Vanuatu,Port Kathrynton,79,486.23,0.1,895,Thomas Ruiz,christopherfisher@ayers.com,(122)262-9066x17810,34570.953
+896,Product 896,Electronics,2021-01-09,West,Guam,Shannonside,34,305.26,0.18,896,John Meyer,aaronluna@lewis.com,+1-132-643-0262,8510.6488
+897,Product 897,Electronics,2020-10-22,South,Armenia,Kellytown,5,863.93,0.26,897,Alison Fuller,allenchristina@romero.com,+1-533-121-5131x66175,3196.5409999999997
+898,Product 898,Electronics,2021-11-11,North,Yemen,New Jill,17,590.41,0.15,898,Robert Graves,ashleymcbride@hotmail.com,471.297.2897,8531.4245
+899,Product 899,Clothing,2021-06-05,South,Afghanistan,Baileystad,72,355.18,0.03,899,Amy Frederick,stephanie65@thomas.com,001-127-925-9588x01984,24805.7712
+900,Product 900,Home,2020-05-21,West,Honduras,North Rhonda,63,850.34,0.25,900,Dale Copeland,howardrivera@yahoo.com,+1-667-956-2039,40178.565
+901,Product 901,Electronics,2020-08-01,East,Sudan,Ramirezborough,24,806.83,0.11,901,Robert Taylor,williamspamela@gmail.com,+1-771-974-3929x5309,17233.8888
+902,Product 902,Home,2024-01-29,West,India,West Kathyshire,92,998.37,0.29,902,Brittany Wolf,stephaniegray@bullock-byrd.biz,759-714-0624x677,65213.528399999996
+903,Product 903,Electronics,2023-09-22,North,Jersey,North Nicholashaven,8,848.83,0.27,903,Adam Knight,rossdavid@mccall.org,(498)739-2376x0021,4957.1672
+904,Product 904,Clothing,2024-05-20,North,Cocos (Keeling) Islands,New Kenneth,23,420.31,0.26,904,Richard Holmes,shawchristopher@hotmail.com,9777074807,7153.676199999999
+905,Product 905,Electronics,2020-12-03,West,Armenia,North Donaldmouth,99,136.22,0.11,905,Mrs. Katie Smith,lisamorris@walters.net,5809290242,12002.344200000001
+906,Product 906,Beauty,2024-03-29,North,United States Minor Outlying Islands,Liumouth,31,842.23,0.23,906,Henry Williams,hbutler@mcmahon.com,(444)486-7785,20104.0301
+907,Product 907,Clothing,2022-08-20,South,Guernsey,Coxmouth,81,69.16,0.3,907,Richard Green,ywalker@castillo.org,662-163-9174,3921.372
+908,Product 908,Sports,2020-03-14,West,United Kingdom,Port Paulafort,28,356.77,0.16,908,Mary Boone,taramartinez@ramirez.com,001-505-211-1091x8501,8391.230399999999
+909,Product 909,Beauty,2020-08-30,East,Svalbard & Jan Mayen Islands,South Tashafurt,48,920.54,0.14,909,Glenn Curry,lwhite@king.com,+1-298-237-9685x8687,37999.8912
+910,Product 910,Sports,2022-02-08,East,Nauru,East Christopher,12,961.16,0.0,910,Rachel Woodward,hannahalvarez@hotmail.com,(430)114-3246x4609,11533.92
+911,Product 911,Clothing,2021-12-06,North,Lithuania,Myersside,88,644.16,0.21,911,Maria Skinner,moralesmeredith@hall-copeland.biz,+1-317-271-3258x93567,44782.0032
+912,Product 912,Beauty,2023-01-10,North,Thailand,New Patricia,79,691.76,0.26,912,Richard Sawyer,ramirezedward@roberts-lee.com,001-801-777-4588x59014,40440.289600000004
+913,Product 913,Clothing,2023-11-14,South,Venezuela,West Joanne,31,52.03,0.07,913,Laura Odonnell,christopher53@gmail.com,+1-600-337-4063x69245,1500.0249
+914,Product 914,Home,2022-12-18,North,Yemen,Port Bruce,91,519.34,0.09,914,Madison Rodriguez,ecraig@yahoo.com,743.983.9048,43006.5454
+915,Product 915,Sports,2022-03-16,East,Brunei Darussalam,West James,35,551.4,0.15,915,Katrina Perez,michaelsmith@abbott.com,+1-713-309-6734x6772,16404.149999999998
+916,Product 916,Electronics,2022-12-17,South,Indonesia,South Reginaland,55,346.7,0.02,916,Emily Thompson,brittanyrocha@hotmail.com,001-791-802-5832,18687.13
+917,Product 917,Sports,2022-12-18,West,United States Minor Outlying Islands,Mariahside,82,77.91,0.03,917,David Walker,coxscott@goodman-blair.biz,761.191.9274x459,6196.9614
+918,Product 918,Electronics,2023-11-25,East,Togo,West Manuelside,36,236.62,0.13,918,Scott Stephenson Jr.,david23@jones-hurley.com,(387)869-5687x0360,7410.9384
+919,Product 919,Home,2022-10-01,North,Saint Helena,South Janice,72,364.4,0.08,919,Kimberly Jones,richmonddavid@meyer-wilcox.com,(482)178-9955x04427,24137.856
+920,Product 920,Home,2022-11-25,West,Lithuania,Youngmouth,60,440.79,0.12,920,Tara Allen,vasquezlaura@hotmail.com,(607)108-1996,23273.712000000003
+921,Product 921,Sports,2023-02-18,East,Sudan,East George,38,595.02,0.14,921,Harry Thomas,xkelley@carr-king.com,+1-934-634-4088x53135,19445.2536
+922,Product 922,Beauty,2021-08-08,South,Andorra,Lake Ashley,69,725.17,0.29,922,Michael Bennett,bradhoward@gmail.com,679.706.5808,35526.078299999994
+923,Product 923,Home,2024-04-15,West,Dominica,Underwoodside,54,324.46,0.28,923,Hunter Perez,misty71@gmail.com,531.736.3412,12615.004799999999
+924,Product 924,Home,2020-03-06,West,Mongolia,West Robert,14,335.66,0.04,924,Cindy Dyer,nicole44@patterson.info,(232)851-9258,4511.2704
+925,Product 925,Electronics,2023-01-17,East,Liberia,New Rebecca,20,29.49,0.26,925,Jeffrey Velasquez,ijackson@gmail.com,797-981-8549,436.45199999999994
+926,Product 926,Sports,2022-08-31,South,Spain,South Scott,9,50.47,0.02,926,Alicia Lawson,mannbrett@rivas.com,4995131196,445.1454
+927,Product 927,Electronics,2022-08-19,East,American Samoa,West Luis,97,265.24,0.15,927,John Taylor,bchurch@hotmail.com,001-030-818-0166x5898,21869.038
+928,Product 928,Clothing,2022-01-29,North,Georgia,Cameronland,82,742.84,0.05,928,John Diaz,dbrown@gmail.com,001-233-143-1018x893,57867.236000000004
+929,Product 929,Home,2021-09-29,North,Venezuela,Thomasmouth,70,632.03,0.11,929,Angel Richards,mjordan@myers-sims.com,2607474855,39375.469
+930,Product 930,Electronics,2022-03-02,South,Chile,East Jennaville,2,772.09,0.22,930,Robert Mclaughlin,grivers@washington.com,934-385-1007,1204.4604000000002
+931,Product 931,Clothing,2023-05-31,East,Palau,West Sarahaven,30,771.23,0.13,931,Jordan Morales,keith36@hotmail.com,443-876-5884,20129.103000000003
+932,Product 932,Sports,2023-03-19,West,Ecuador,Kristinfort,6,858.0,0.24,932,James Hobbs,leslieandrade@hotmail.com,(263)266-9689x68671,3912.48
+933,Product 933,Home,2023-03-10,North,Reunion,Lake Edwardburgh,81,723.12,0.22,933,Noah Ramos,benjamindunn@gmail.com,+1-057-417-2671x0698,45686.721600000004
+934,Product 934,Clothing,2022-09-05,West,Colombia,Pettyburgh,41,979.22,0.28,934,Brittany Wagner,hahntiffany@walls.com,631-683-2294,28906.5744
+935,Product 935,Clothing,2022-06-22,West,Iran,Markhaven,23,899.84,0.16,935,Charles Payne PhD,richardtucker@carpenter.info,+1-641-539-5778,17384.908799999997
+936,Product 936,Home,2021-09-16,East,Andorra,New Stevenfurt,31,590.85,0.24,936,Alexis Russo,nicholas10@rose.net,(691)688-4975x308,13920.426000000001
+937,Product 937,Home,2022-06-06,West,Bulgaria,East Tashabury,20,592.28,0.1,937,Christine Johnson MD,dbowman@gmail.com,001-484-304-3049x04116,10661.039999999999
+938,Product 938,Home,2023-12-08,North,Uganda,Thomaschester,5,43.92,0.1,938,Chad Gregory,leonardisabel@hotmail.com,557.576.9903,197.64000000000001
+939,Product 939,Sports,2023-06-20,North,Guadeloupe,New Matthewport,21,998.54,0.12,939,Debra Austin,marksanthony@reed.com,001-861-559-2981x831,18453.0192
+940,Product 940,Beauty,2021-06-17,West,Turkmenistan,Henryberg,75,140.26,0.12,940,Katrina Johnson,heather10@oconnell-blankenship.com,252-800-1973x295,9257.16
+941,Product 941,Home,2023-06-19,South,Australia,Kaitlinmouth,68,742.94,0.03,941,Aaron Russell,rlawrence@yahoo.com,001-820-559-5170x564,49004.322400000005
+942,Product 942,Beauty,2022-10-05,South,Nigeria,Lake Charlesbury,87,822.81,0.16,942,James Oneal,maynardashley@yahoo.com,001-104-615-7426x73487,60130.9548
+943,Product 943,Home,2021-06-22,North,French Southern Territories,New Johnside,61,379.32,0.03,943,Dustin Hull,robert82@keller-mcpherson.com,(147)699-9748x796,22444.3644
+944,Product 944,Clothing,2022-08-06,North,Indonesia,New Mathew,94,204.88,0.27,944,Phyllis Jones,sheltongabrielle@russell.biz,(522)884-8788x0678,14058.865600000001
+945,Product 945,Electronics,2022-05-09,West,Iraq,Lake Jessicaport,42,107.77,0.02,945,Marisa Weiss,frankgreene@gmail.com,+1-369-823-7182x35638,4435.8132000000005
+946,Product 946,Home,2020-10-20,South,Nepal,Briggsburgh,41,751.12,0.13,946,Adam Delgado,angelaluna@hotmail.com,+1-743-740-4810x61518,26792.4504
+947,Product 947,Sports,2023-12-14,North,Tuvalu,Smithview,61,458.13,0.09,947,Victoria Wilson,andreashaffer@hotmail.com,772.440.2251x204,25430.7963
+948,Product 948,Electronics,2020-04-13,East,British Virgin Islands,Chenland,82,716.58,0.05,948,Jennifer Long,beckerapril@hotmail.com,969-117-6882,55821.582
+949,Product 949,Electronics,2023-01-30,East,Guatemala,Josephmouth,52,916.25,0.24,949,Daisy Blake,hayesbrooke@garcia.org,114-027-2907x83411,36210.2
+950,Product 950,Beauty,2021-12-21,West,Samoa,Port Davidchester,41,155.12,0.21,950,Jackson Lewis,christina11@pace.info,+1-978-033-8598x62985,5024.3368
+951,Product 951,Beauty,2021-01-11,North,Oman,Port Kelly,60,919.98,0.04,951,Kristie Baker,nortonheidi@cunningham.com,(332)331-6452x7658,52990.848
+952,Product 952,Beauty,2021-07-05,East,Denmark,Sarahville,95,417.51,0.19,952,Kyle Watkins,marybaker@gmail.com,865-061-0245x56520,32127.3945
+953,Product 953,Electronics,2023-04-23,East,Pitcairn Islands,Michaelmouth,30,312.21,0.24,953,Elizabeth Williams,millerbenjamin@ochoa.com,001-826-337-4446,7118.388
+954,Product 954,Beauty,2020-12-11,East,Antarctica (the territory South of 60 deg S),Lake Jefferychester,98,943.63,0.23,954,David Doyle,hughesjames@holloway-gordon.com,341.713.8079,71206.31980000001
+955,Product 955,Beauty,2022-08-14,South,Georgia,Port Stephanieborough,95,990.75,0.03,955,Caitlyn Summers,psmith@adkins.net,001-323-461-7560x3714,91297.6125
+956,Product 956,Beauty,2020-08-08,North,Suriname,Pamelafurt,38,206.9,0.21,956,Kayla Snyder,whitney56@gmail.com,+1-523-405-5541,6211.138
+957,Product 957,Beauty,2020-01-02,East,Swaziland,Jennyfort,89,660.27,0.21,957,Julia Rivas,dsullivan@hotmail.com,(685)557-9592x709,46423.5837
+958,Product 958,Electronics,2020-11-13,North,Cape Verde,South George,17,115.43,0.26,958,Angela Quinn,tracy45@rodriguez.com,001-252-636-4254x98522,1452.1094
+959,Product 959,Electronics,2023-03-30,South,Gambia,Matthewmouth,40,654.4,0.15,959,Raymond Payne,osmith@hotmail.com,727.630.8950,22249.6
+960,Product 960,Electronics,2021-12-03,West,Argentina,Bishopchester,30,829.04,0.14,960,Donald Rogers,james75@torres.com,063.356.5669,21389.231999999996
+961,Product 961,Clothing,2021-07-12,North,Papua New Guinea,Port Theresabury,66,687.65,0.29,961,Angela Young,jgeorge@yahoo.com,001-331-828-4254x1665,32223.279
+962,Product 962,Electronics,2023-09-05,East,Montenegro,South Christie,24,423.16,0.24,962,Kevin Fields,kelli72@yahoo.com,001-644-711-0171x226,7718.4384
+963,Product 963,Clothing,2022-04-26,East,Macao,Robersontown,73,389.24,0.17,963,Timothy White,carlmorris@gonzales.org,291-821-5023,23584.0516
+964,Product 964,Beauty,2020-01-26,South,Burkina Faso,New Kevinshire,1,399.19,0.1,964,Rick Rivera,sarah34@jackson.org,(558)345-4343x858,359.271
+965,Product 965,Clothing,2024-03-06,East,Dominican Republic,Christopherchester,88,593.81,0.25,965,Erica Coleman,aaronirwin@buckley.com,+1-606-540-4976x024,39191.46
+966,Product 966,Beauty,2022-03-10,North,Honduras,Priceview,38,882.75,0.14,966,Shirley Williams,charlesmiller@hotmail.com,223-171-2898x15462,28848.27
+967,Product 967,Sports,2021-06-21,West,Mongolia,Domingueztown,64,929.78,0.03,967,Ashley Delgado,hfranklin@gmail.com,527-044-6055,57720.742399999996
+968,Product 968,Electronics,2020-06-26,North,Haiti,Christopherborough,27,62.99,0.14,968,Nicole Smith,wesleyrussell@king.com,001-893-876-5275x1571,1462.6278
+969,Product 969,Beauty,2024-02-04,East,South Africa,Port Lauren,90,189.81,0.26,969,Kim Contreras,ricetammy@stein.com,(908)138-7326,12641.346000000001
+970,Product 970,Sports,2023-11-23,North,San Marino,West Joel,90,121.1,0.13,970,Kristin Campos,qnelson@gmail.com,(273)538-0139x0254,9482.13
+971,Product 971,Beauty,2021-09-25,North,Belize,Harrisstad,7,201.4,0.0,971,Rachel Jones,hramos@gmail.com,(267)875-2867,1409.8
+972,Product 972,Electronics,2021-05-19,South,Senegal,Watsonbury,89,353.14,0.18,972,Perry Lopez,taylormark@hotmail.com,978-929-6851x402,25772.1572
+973,Product 973,Clothing,2022-09-27,West,Saudi Arabia,Yangview,80,511.47,0.3,973,Deanna Duffy,fernandezmark@peters.net,514-741-0348,28642.320000000003
+974,Product 974,Clothing,2021-06-11,North,Chad,Merrittview,42,633.17,0.25,974,Nicole Webster,smithtimothy@jackson-parker.com,001-166-103-1576x42257,19944.855
+975,Product 975,Beauty,2021-11-24,South,Christmas Island,Lake Victor,18,734.82,0.19,975,Lawrence Diaz,christopherjohnston@diaz-duke.biz,(840)448-4536,10713.6756
+976,Product 976,Clothing,2020-06-21,East,Dominica,North Jamieborough,81,891.21,0.27,976,Mark Rhodes,rachelpatrick@gmail.com,001-828-672-5498x08499,52697.2473
+977,Product 977,Clothing,2020-02-13,North,Philippines,Port Katherine,44,989.2,0.24,977,Tiffany Williams,mmoore@yahoo.com,403-678-2738x8330,33078.848000000005
+978,Product 978,Home,2023-05-06,South,Nauru,West Roy,70,666.23,0.15,978,Katrina Franco,sabrina37@mayer.com,6079696500,39640.685
+979,Product 979,Home,2024-06-19,South,Ethiopia,South Williamview,20,846.91,0.18,979,Cheryl Randall,cmiller@kemp-palmer.info,001-952-180-7958x43908,13889.324000000002
+980,Product 980,Home,2021-08-09,South,Solomon Islands,Port Michaelshire,23,780.26,0.22,980,Kristina Burns,mike55@armstrong.com,856.440.3443,13997.8644
+981,Product 981,Beauty,2020-10-13,West,Yemen,Ballardstad,12,314.46,0.25,981,Debra Alvarez,reyeskathleen@russell.biz,+1-965-788-4511x43009,2830.1399999999994
+982,Product 982,Electronics,2021-07-27,South,Saint Pierre and Miquelon,Port Matthewville,12,876.94,0.02,982,Brian Wiggins,hannajoseph@gmail.com,488-196-6203,10312.814400000001
+983,Product 983,Sports,2024-01-16,West,Poland,Sarahberg,34,52.34,0.23,983,Barbara Wolfe,ryan87@hotmail.com,001-460-538-5022x289,1370.2612000000001
+984,Product 984,Home,2022-11-30,East,Ecuador,Port Lindamouth,8,10.36,0.13,984,Holly Flores,tinafoster@yahoo.com,(250)462-5322,72.1056
+985,Product 985,Sports,2023-05-09,South,Cuba,Stephenland,27,281.0,0.2,985,Nicole Gibson,duncanstephanie@hotmail.com,322.783.9414x43882,6069.6
+986,Product 986,Sports,2021-07-30,East,Haiti,Bryanton,49,467.48,0.23,986,Morgan Smith,cynthiakaufman@gentry.com,9555020750,17638.0204
+987,Product 987,Clothing,2020-05-16,East,Montenegro,Murphyborough,72,641.98,0.16,987,Elizabeth King,johngibson@yahoo.com,(779)300-6392x6936,38826.950399999994
+988,Product 988,Home,2021-01-02,South,Ireland,New Jose,55,110.75,0.05,988,Timothy Livingston,slewis@gmail.com,001-181-540-7797x7967,5786.6875
+989,Product 989,Beauty,2022-12-21,South,Saudi Arabia,Lake Pamelaborough,97,676.28,0.12,989,Frank Nguyen,sarahnoble@hotmail.com,(069)186-3063,57727.260800000004
+990,Product 990,Sports,2022-12-02,West,Christmas Island,Cardenasfurt,83,803.8,0.02,990,Aaron Huerta,stephaniegentry@sanchez-dixon.org,+1-209-903-4139x0252,65381.09199999999
+991,Product 991,Sports,2023-09-07,East,Wallis and Futuna,Reynoldsborough,88,193.46,0.21,991,Becky Myers,dakota01@rhodes.com,(045)214-1576,13449.3392
+992,Product 992,Beauty,2020-05-03,South,Uzbekistan,New Ianport,22,420.97,0.29,992,Taylor Gonzalez,amacdonald@yahoo.com,+1-790-217-8391x725,6575.551399999999
+993,Product 993,Sports,2023-10-23,East,Angola,South Johnathan,3,524.79,0.24,993,Cynthia Proctor,hhernandez@berry.com,001-202-274-9185x81600,1196.5212
+994,Product 994,Home,2021-11-04,North,Sudan,Lake Rebeccatown,9,457.29,0.12,994,Mitchell Lyons,toddfitzpatrick@gmail.com,310.449.9798,3621.7368000000006
+995,Product 995,Home,2022-05-30,North,Australia,Dianeview,11,801.83,0.18,995,Jonathan Norton,lewisvicki@yahoo.com,831.131.4446,7232.5066000000015
+996,Product 996,Clothing,2024-03-24,East,Gabon,New James,6,960.92,0.09,996,Ronnie Kemp,uharper@oconnor.com,001-298-031-2382x35308,5246.6232
+997,Product 997,Electronics,2024-02-22,East,Saint Kitts and Nevis,Lake Elizabethhaven,39,800.96,0.16,997,Joseph Chang,beasleyjill@yahoo.com,436.665.0548,26239.4496
+998,Product 998,Electronics,2021-01-08,East,Mozambique,Johnport,39,87.21,0.09,998,Michelle Manning,kelly31@lang.biz,+1-480-198-2572x9819,3095.0829
+999,Product 999,Sports,2021-08-24,North,United States of America,Vincentland,66,806.89,0.22,999,Jesse West,kimberly07@hogan.org,+1-218-953-8048,41538.6972
+1000,Product 1000,Electronics,2020-06-18,North,Falkland Islands (Malvinas),East Margaret,60,75.93,0.08,1000,Jenna Jones,lindaburns@leonard.com,1159494531,4191.336
