@@ -1,0 +1,55 @@
+---
+title: "Rmarkdown"
+output: html_document
+date: "2024-04-12"
+---
+# SIMPLE Dashboard for practice
+## INTRODUCTION
+My name is nitish kumar.
+
+
+## Dataset
+
+Load the datasets mtcar from RSTUDIO
+
+
+```{r}
+data("mtcars")
+summary(mtcars)
+```
+
+# 
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r, include=FALSE}
+```
+
+
+```{r, include=FALSE}
+df<-data.frame(
+ id=c(1,2),
+ name=c('A', 'B')
+)
+
+```
+```{r}
+df
+```
+
+
+
+
+
+
+
+
+
+
+
+
