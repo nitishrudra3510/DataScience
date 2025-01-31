@@ -1,0 +1,7 @@
+Student ID | Name    | Age | Grade
+---------------------------------
+1          | Alice   | 20  | A
+2          | Bob     | 21  | B
+3          | Charlie | 20  | A
+4          | David   | 22  | B+
+5          | Eve     | 21  | A-
